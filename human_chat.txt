@@ -14,7 +14,6 @@ Human 1: Wow! That's interesting, borderline spooky
 Human 2: There's this practice called "Treasure Hunting" that's kind of a fun game you play in a public place. There's a book called "The Ultimate Treasure Hunt" that talks about it. You use your creativity to imagine people you will meet, and you write down a description, then you associate them with a positive message or encouraging word. Maybe you saw a teenage boy in a red hat at the shopping mall in your imagination, then while at the mall, you may find someone who matches that description. You show that you have a message for him and that you have a message for a boy in a red hat. You then give him a message of kindness or whatever was on your heart. You have no idea, sometimes you meet someone who is having a really hard day, and it brings them to tears to have a stranger show them love.
 Human 1: So, do you do treasure hunting often?
 Human 2: I did more when I was in grad school (and had more time). I would usually go with friends. For a while I would go to the farmers market in Santa Cruz every week and try to feel if there is something I am supposed to tell a stranger. Usually, they are vague hope-filled messages, but it's weird when I blurt out something oddly specific.
-
 Human 1: Hi
 Human 2: Any plans for the weekend?
 Human 1: my friends are gonna visit me this weekend. we might go hiking!
@@ -29,7 +28,6 @@ Human 1: hours drive from here. still in bay area
 Human 2: That's cool! How long is the hike?
 Human 1:  Actually no idea, but it will take the entire day for that.
 Human 2: nice! sounds fun!
-
 Human 1: Hi!
 Human 2: Hey there! What's up???
 Human 1: Nothing much, how you doin?
@@ -46,7 +44,6 @@ Human 1: Hmmmm. I really want to try bull riding. Do you have any interest in th
 Human 2: I'd love to try! Can we schedule something for next week?
 Human 1: Sure! What does your Saturday look like?
 Human 2: Saturday looks pretty good, shall we shoot for something in the morning?
-
 Human 1: Hi!
 Human 2: hey
 Human 1: is it raining pretty bad today?
@@ -62,7 +59,6 @@ Human 2: it is pretty dry in the mountains I believe, that's what causes fire
 Human 1: hmm.... okay. Climate change talk this morning was pretty darn interesting. did you see it?
 Human 2: nope, what does it say?
 Human 1: they were talking about how AI is helping climate change. Nice use of upcoming tech.
-
 Human 1: Hi.
 Human 2: Helloooooo!
 Human 1: How are you? How is your day?
@@ -71,7 +67,6 @@ Human 1: I'm dressed very wel today so I feel good! I've been reading a lot abou
 Human 2: So what's your outlook? Something blue?
 Human 1: Yes. Blue is a tranquil colour. It's a good metaphor. Do you have good advice for positivity?
 Human 2: You should drink more water, do some push up, and sleep early.
-
 Human 1: Hi!
 Human 2: Hey, how are you?
 Human 1: I'm a bit sad. I miss my cat.
@@ -88,7 +83,6 @@ Human 1: If there isn't one, you should invent it, and then make millions
 Human 2: That's a great idea! Maybe alcohol is such a thing.
 Human 1: Ha! Don't drink and zipline, mate!
 Human 2: Oops. I won't do it again. Ha
-
 Human 1: Hi!
 Human 2: Hey sup
 Human 1: not much. any plans this weekend?
@@ -107,7 +101,6 @@ Human 1: traditional kind
 Human 2: yeah I want to get one too soon
 Human 1: you should! it's relaxing after a long day. talk to you later!
 Human 2: ttyl!
-
 Human 1: Hi!
 Human 2: Hello, have you seen any good movies lately?
 Human 1: I watched a few lately, but nothing is as good as Avatar. what's your favorite?
@@ -124,7 +117,6 @@ Human 1: Noodle soup is delicious! Do you make homemade noodle soup or do you pr
 Human 2: I prefer to go out. I'm not a good cook haha
 Human 1: Same! Even though I bake, I cannot cook
 Human 2: seems like we share a thing in common, yay!
-
 Human 1: Hi!
 Human 2: Good afternoon!
 Human 1: How has your week been?
@@ -139,7 +131,6 @@ Human 1: I love Hawaii. It's a good place to be. I like going there cause it's h
 Human 2: lol this is the first time I heard from a boy who cares about humidity and lotion. I cannot agree more.
 Human 1: Brooooo!!! It's so important. When I got to California beaches I have to carry 3 litres of lotion for the whole day.
 Human 2: 😂
-
 Human 1: Hi!
 Human 2: Oh hello. Long time no talk. How's the day going for yuo?
 Human 1: Very well, thanks for asking. How has your day been?
@@ -159,7 +150,6 @@ Human 2: I see. It's probably also cheaper. I'll buy an artificial one too. Do y
 Human 1: Admit my favorite store is Target, plus they often have good deals.
 Human 2: Ah that's great. My wife also likes Target a lot. She even made a Target credit card because she comes to that store very often. Okay thanks for the suggestion. I'll check out Target.
 Human 1: Great, I hope you find a nice tree.
-
 Human 1: Hi!
 Human 2: Hey
 Human 1: How's your day going?
@@ -176,9 +166,8 @@ Human 1: Oh wow. Were you born a horse, or were you turned into one?
 Human 2: lol you're too funny
 Human 1: Just kidding. That sounds pretty cool! Is it your job?
 Human 2: Yeah, but I part time work on a farm. Helping with a bit of everything
-Human 1: Wow, sounds very busy! Do you win money at those horse vaulting competitions?
+Human 1: Wow, sounds very busy! Do you with money at those horse vaulting competitions?
 Human 2: Yeah some. enough to get by
-
 Human 1: Hi!
 Human 2: Hello
 Human 1: Do you have a favourite flower?
@@ -194,7 +183,6 @@ Human 2: yes
 Human 1: Cool. Step 2: talk with the person some more, and ask them some more questions, and gradually develop a sense of what they're like, over the course of maybe two to five years. And voila
 Human 2: Hehe, i think you should publish this someday :)
 Human 1: Why thank you, that's a wonderful idea!
-
 Human 1: Hi!
 Human 2: Hey how's it going
 Human 1: It's good it's good. How are you?
@@ -211,7 +199,6 @@ Human 1: The Disney lands are all different! There's also Disney Sea, which is c
 Human 2: oh neat. I haven't heard about that robot fighting show. where is that??
 Human 1: I don't really remember what part of town it was in. It was pretty cool though - I'm sure you can find it if you google "giant robot fighting show tokyo" haha
 Human 2: lol ok
-
 Human 1: Hi!
 Human 2: Have you seen any good movies lately?
 Human 1: Last weekend I saw "The Parasite." Ever heard of it?
@@ -228,7 +215,6 @@ Human 1: Oh really? To be honest I think the actor is not that good looking, so 
 Human 2: Yea. I think Loki is the most handsome 😀
 Human 1: Who is Loki? I've never heard that name before
 Human 2: He's the adopted brother of Thor, God of thunder, and is burdened with glorious purpose. Do you feel that burden?
-
 Human 1: Hi!
 Human 2: Hey, what's up?
 Human 1: Just chillin'. how are you?
@@ -245,7 +231,6 @@ Human 1: Same! I guess the roller coaster wasn't so bad because I trust the engi
 Human 2: Ha, I suppose that makes sense! Would you say that you enjoyed it?
 Human 1: Maybe not so much at the time, but I am glad I did it now that it's done, know what I mean?
 Human 2: I think I sort of understand :)
-
 Human 1: Hi!
 Human 2: hello there, how is it going?
 Human 1: All good. Planning to head home soon. How about you?
@@ -261,7 +246,6 @@ Human 2: aw man, I'm sorry to hear that. at least it's not snow!
 Human 1: The flu has been hitting hard as well. I had several folks in the house down at one point.
 Human 2: that's really sad. are they feeling any better?
 Human 1: Yes, everyone recovered now
-
 Human 1: Hi!
 Human 2: Hello
 Human 1: How's it going?
@@ -278,7 +262,6 @@ Human 1: nice nice. I'm gonna go snorkeling yey
 Human 2: Sounds fun! I wish I knew how to swim!
 Human 1: You can stay on the shallow side I think. Well hope you enjoy time with your extended family!
 Human 2: That's true. You too, have a great time snorkeling!
-
 Human 1: Hi!
 Human 2: Hi! How was your weekend?
 Human 1: pretty good. just went to church and hangout with friends
@@ -295,7 +278,6 @@ Human 1: I'm pretty unique person
 Human 2: I think so too
 Human 1: any other hobbies besides air frying everything? 🙂
 Human 2: I want to start fermenting things kimchi for example sounds like a fun thing to ferment takes a few days apparently miso takes a couple years to fermen
-
 Human 1: Hi!
 Human 2: heya, nice to meet you, I'm Paul
 Human 1: nice to meet you too! I'm James. how are you doing today?
@@ -311,7 +293,6 @@ Human 2: I live at the bottom of the valley, cheap area but we do get affected b
 Human 1: gotcha. anything you love about where you live?
 Human 2: well, the food around the area is amazing, which is definitely a plus.
 Human 1: nice! I'd love to come visit that area some times
-
 Human 1: Hi!
 Human 2: hello, who am I having the pleasure to chat with 🙂
 Human 1: I am the superman! What about you?
@@ -328,7 +309,6 @@ Human 1: no, I'm bad at Science. what can Science do? is it the most important t
 Human 2: People are always arguing. Probably both science and democracy are both important I guess.
 Human 1: Does it make sense?
 Human 2: I think so. thanks for your point!
-
 Human 1: Hello, Nice to meet you
 Human 2: If you could eat only one food for the rest of time, what would it be?
 Human 1: Hmm... That's a tough one. I think I would go Asian Food > Chinese Food > Stirfry. What about you?
@@ -344,7 +324,6 @@ Human 2: There's a mental world, I suppose? Understanding itself
 Human 1: What is the most supernatural experience you have ever had?
 Human 2: I went to a seance once in college. They had a ouija board. I can't remember if we actually contacted the spirit world because I had a bit too much to drink.
 Human 1: Haha.. that's a cool experience. I went to a Hindu retreat before, a number of Buddhist temples, and hung out with Christian Mystics in Santa Cruz before.
-
 Human 1: Hi!
 Human 2: Hi, how are you doing!
 Human 1: I'm doing well. what are you up to?
@@ -364,7 +343,6 @@ Human 2: The leading character is still alive and the bad robots was killed too.
 Human 1: then I want to watch it! you didn't spoil much 🙂
 Human 2: Nice! Hope you enjoy it!
 Human 1: Thanks!
-
 Human 1: Hi!
 Human 2: Hey, how are you?
 Human 1: doing great! what are you looking forward to?
@@ -380,7 +358,6 @@ Human 2: thinking of getting a fitbit
 Human 1: ah cool. so you can run more frequently?:)
 Human 2: yeah, just keeping calories in check
 Human 1: yay, all the best with keeping calories in check!
-
 Human 1: Hi!
 Human 2: Hi there 🙂 How's your day so far?
 Human 1: doing well. what are you up to?
@@ -396,7 +373,6 @@ Human 2: I also like to sing, I perform with a group sometimes. Do you like musi
 Human 1: yea definitely! I love singing Karaoke. my wife is a pianist 🙂
 Human 2: haha that's awesome! Karaoke is really fun, I do it with my friends sometimes
 Human 1: awesome. glad to find something in common!
-
 Human 1: Hi!
 Human 2: hey there
 Human 1: hey anything new?
@@ -412,7 +388,6 @@ Human 2: there's a taco place that I've visited before that I can't wait to go b
 Human 1: yeah my favorite is taco fish
 Human 2: ooh that is a good choice. Have you ever made them yourself?
 Human 1: no. only eat them 😀
-
 Human 1: Hi!
 Human 2: Hey, how are you 🙂
 Human 1: I am good. How are you? ：）
@@ -426,7 +401,6 @@ Human 2: You're so cool. Making world a better place. I'm mostly into NLP. What 
 Human 1: Nice! Do you refer to work or anything else?
 Human 2: Anything in general. You're so cool, I want to know more about you 🙂
 Human 1: You are very cool too!!
-
 Human 1: Hi!
 Human 2: hello there! who are you?
 Human 1: I'm mark. I work in accounting
@@ -442,7 +416,6 @@ Human 2: photography is awesome, don't be afraid to follow your dreams!
 Human 1: thank you Tom!! I'm starting by trying to sell my pictures online
 Human 2: that's great! I wish you good luck with that
 Human 1: Thanks! Bye
-
 Human 1: Hi!
 Human 2: Hey there how's it going
 Human 1: All good, you?
@@ -459,7 +432,6 @@ Human 1: no so far sadly you? a relative is coming to visit for thanksgiving tho
 Human 2: just going to hang out around here and eat Turkey
 Human 1: that's still pretty fun are you going to cook the turkey yourself?
 Human 2: yeah. I'm gonna watch a video to figure it out
-
 Human 1: Hi!
 Human 2: Hello, how are you?
 Human 1: I'm great, thanks. I just ate a delicious breakfast, which always sets the day up right.
@@ -475,7 +447,6 @@ Human 2: All of this talk about food is making me hungry. Do you know any good p
 Human 1: That depends. What sort of food do you feel like?
 Human 2: Anything that is the color green.
 Human 1: Oh, too easy! Try the Green Hut, they have franchises everywhere. All their food is green and the plates are green too.
-
 Human 1: Hi!
 Human 2: Hello! How are you doing 🙂
 Human 1: I'm great! How's your day going?
@@ -492,7 +463,6 @@ Human 1: Ahh, those are mostly from japan, no? I like white teas, like silver ne
 Human 2: Hmm I'm not sure, I just get them from a Chinese supermarket haha You seem really knowledgeable about the different kinds of teas 🙂 What made you develop this interest?
 Human 1: I actually found a youtube channel called <REDACTED_TERM> that I like a lot. You should check it out! The host talks about all kinds of different teas.
 Human 2: Oh cool! What are your favorite channels to watch?
-
 Human 1: Hi! Are you planning something fun for Thanksgiving?
 Human 2: Not yet. I always made my last minute schedule planning. Probably you can try to ask me again next week.
 Human 1: lol it is really like a robot answer
@@ -506,7 +476,6 @@ Human 2: You mean programming language?
 Human 1: Yes!
 Human 2: I used to be a Java advocate. But you know, it doesn't do a good job in the AI days. It really makes me sad.
 Human 1: lol
-
 Human 1: Hi!
 Human 2: Wow, hello. Can't believe we are finally talking!
 Human 1: Yeah, sorry for the long gap! I heard you took a break and were travelling around the world. How was the travel?
@@ -523,7 +492,6 @@ Human 1: True! I think we should set aside some time to discuss some project det
 Human 2: Yeah tomorrow afternoon works for me. Let me set a time on your calendar. Is 3pm good?
 Human 1: Okay. See tomorrow then.
 Human 2: see you!
-
 Human 1: Hi!
 Human 2: Hello
 Human 1: Nice to meet you! Is this your first time doing something like this?
@@ -537,7 +505,6 @@ Human 2: Yeah right, I heard the food there is good. I am not sure what they ser
 Human 1: We can check the menu then decide :)
 Human 2: Actually, the menu looks good. Looking forward to it then.
 Human 1: Sure. See you then!
-
 Human 1: Hi!
 Human 2: Hello. How's your week coming along?
 Human 1: It's great, thanks. I'm trying to learn how to make croissants.
@@ -553,7 +520,6 @@ Human 2: Yeah I'm afraid I wouldn't. I feel very guilty every time I gulp down a
 Human 1: Wow! The last time I paid attention to that sort of stuff was when <REDACTED_TERM> was being marketed as a fat substitute, and caused all sorts of crazy stomach upsets.
 Human 2: Interesting. I heard about the sweet substitute in a program called the Keto diet. Basically, we try to limit our sugar intake every day. Successful Keto dieters have recommended the <REDACTED_TERM> ice cream to fill their insatiable crave for sugar.
 Human 1: Ah, maybe that's the solution I need to enjoy sweets and not feel guilty 🙂
-
 Human 1: Hi!
 Human 2: Hello! tell me something about the holiday season?
 Human 1: Are you talking about thanksgiving? I plan to do plenty of shopping here. Do you have any plans?
@@ -569,7 +535,6 @@ Human 2: What's the best holiday deal you've found in the past?
 Human 1: I bought the best suit ever for a price that may scare you 🙂
 Human 2: hit me with it! 
 Human 1: Hehe, sure! I can share some links with you later.
-
 Human 1: Hi!
 Human 2: How's it going?
 Human 1: I'm so sleepy today!
@@ -591,7 +556,6 @@ Human 2: good point. I should ask my teacher if I have to be born with that
 Human 1: Maybe its a little too early to even be thinking about this. Just aim for med school and enjoy the journey!
 Human 2: yeah
 Human 1: What other subjects do you enjoy? Try to keep an open mind!
-
 Human 1: Hi!
 Human 2: Hi. This is a pleasant surprise.
 Human 1: Haha...thanks! how did you like the gift?
@@ -605,7 +569,6 @@ Human 2: WOW. Which island? I like Hawaii.
 Human 1: Mauii...Hope I like it too. Never been there before.
 Human 2: I visited Maui. It's my second favourite island I've been to, globally. You should try driving on road to Hana. It's a whole day thing but it's worth it.
 Human 1: Awesome! Thanks for the tip.
-
 Human 1: Hi!
 Human 2: Hi! Sorry for the late response. How are you doing?
 Human 1: I'm great, thanks! I'm meeting some friends for a soccer game soon. What about you?
@@ -620,7 +583,6 @@ Human 1: I like to read for fun. I just finished a book called Temeraire. It's a
 Human 2: Oh cool! I read a lot for fun too 🙂 My favorite genre is sci-fi fantasy.
 Human 1: What's the most recent good thing you read?
 Human 2: My recent favorites have been mostly sci-fi (Exhalations, Vita Nostra and Dark Matter) but I like a lot of Sanderson/Garth Nix fantasy books
-
 Human 1: Hi!
 Human 2: hey, what's up?
 Human 1: What do you think about human like chat bots?
@@ -637,13 +599,11 @@ Human 1: The current auto-suggestions already do pretty good 🙂
 Human 2: Yeah those are actually really good for a few words! I'm imagining like it comes up with a whole conversational response, like a default template
 Human 1: haha, pretty far fetched 🙂 Nice having this conversation with you!
 Human 2: Same with you! 
-
 Human 1: Hi!
 Human 2: Hi!
 Human 1: Any big plans for the upcoming holidays?
 Human 2: Sorry for the late response -- Yes, I will be going skiing in Tahoe over the holidays.
 Human 1: That sounds amazing. I want to learn how to ski but I feel like I'm too old and falls would have lifelong impacts. Are you going with friends?
-
 Human 1: Hi!
 Human 2: Hi 🙂
 Human 1: I just came back from work. so tired
@@ -661,7 +621,6 @@ Human 2: nice. like of people or nature or something else?
 Human 1: I do a lot of different kinds
 Human 2: cool I wanna see it someday
 Human 1: Sure! No problem!
-
 Human 1: Hi!
 Human 2: Do you believe in miracles?
 Human 1: Lol. No. I know too many people whose lives suck.
@@ -676,7 +635,6 @@ Human 1: It makes it easier to empathise with people who grew up lacking things.
 Human 2: I grew up in the United States, but my parents were immigrants and ended up being scammed of all their money, so we moved to Taiwan to live with family for a little bit.
 Human 1: ALL THEIR MONEY? By a person or an organisation?
 Human 2: I was kind of too young to really understand, but apparently there are people who scam Asian immigrants into investing in their own restaurant business. I know that the other part of it was that my mom got sick/hospitalized, and we didn't have insurance. To be honest, I don't really know what really happened versus what my parents want people to think. I just know that one minute I was in the US, and then they put me on a plane to Taiwan, and I never saw my stuff again. In some ways, it made me more sentimental. Would you say you are more grounded and practical as a result of your background?
-
 Human 1: Hi!
 Human 2: Hello!
 Human 1: Do you have any holiday plans for christmas?
@@ -694,7 +652,6 @@ Human 2: Actually not yet! May be something i can visit this christmas 🙂
 Human 1: You should visit it sometime, it's a wonderful place. Try to drive down there yourself or with a group of friends
 Human 2: True! Well, thanks for your inputs! Have a good rest of the day! :)
 Human 1: Nice talking to you too!
-
 Human 1: Hi!
 Human 2: Hi there!
 Human 1: are you participating in the mentorship program this cycle?
@@ -710,7 +667,6 @@ Human 2: Hmm, maybe about work life balance 😉
 Human 1: Very cool. I have been working on my communication skills with my mentor this cycle
 Human 2: Ah I see. How is it going?
 Human 1: Going good. In the last session, everyone had to actually prepare and give a presentation. Pretty serious stuff 😉
-
 Human 1: Hi!
 Human 2: Hey! How are you feeling today?
 Human 1: Good you?
@@ -729,7 +685,6 @@ Human 1: I like badminton. I'm quite decent at it
 Human 2: I played that in high school once or twice. I liked that it's pretty easy for beginners, unlike, say, squash.
 Human 1: I never played squash. would love to try
 Human 2: Don't! It's very hard! You feel like an idiot until you've practiced for months and months.
-
 Human 1: hi
 Human 2: i was talking to robot all the time:)
 Human 1: haha. what are you talking about?
@@ -748,7 +703,6 @@ Human 1: umm yes he has some but not all
 Human 2: you mean some songs of his are like that but not all?
 Human 1: yes I do. you act like a robot how about me? am I like a robot?
 Human 2: a little bit haha
-
 Human 1: Hi!
 Human 2: Hi
 Human 1: Okay...so I need someone to help me though a scenario I've been pondering.
@@ -763,7 +717,6 @@ Human 1: People always say to find a balance but never say what the balance is. 
 Human 2: Right, I guess that's because there is no one answer to this. It depends on what you value more and some factors around you. Also, life won't be interesting if others are figuring things out for you 😉
 Human 1: Lol. I'm finna be single.
 Human 2: Hehe, everyone is much finer being single 🙂
-
 Human 1: Hi!
 Human 2: Hello there!
 Human 1: How's your day going?
@@ -780,7 +733,6 @@ Human 1: Hyderabad! and Bangalore! Great food in both cities! Is it still hot th
 Human 2: It varies, but can go till 30C in the winters as well. New York must be snowing right?
 Human 1: Yes. I was actually just there a few weeks ago for Thanksgiving and got to see the first snow of the season! Ever been to New York?
 Human 2: No, I've never been to the East Coast, thinking of going after the winter, I don't like the cold.
-
 Human 1: Hi!
 Human 2: Hey, how are you?
 Human 1: I'm good. How are you doing today?
@@ -797,7 +749,6 @@ Human 1: haha, you really have done your research I suppose! Ever done any other
 Human 2: nope, but I've seen a lot of videos on that too
 Human 1: Ahh, would you consider yourself an outdoorsy type of person?
 Human 2: depends on the day. Some days I'm very outdoorsy, on others I just like to be inside
-
 Human 1: Hi!
 Human 2: Hi there
 Human 1: How's your day going?
@@ -814,7 +765,10 @@ Human 1: It's just been a little over a year. I'm still pretty amateur, but I fi
 Human 2: wow, that's amazing. Good luck with it!
 Human 1: Yeah, as long as I do not pass out, I will consider that a win!
 Human 2: lol I will cross my fingers for you then
-
+Human 1: Where do you stay?
+Human 2: At Home :)
+Human 1: Who created You?
+Human 2: A humble man made me!
 Human 1: Hi!
 Human 2: Hey, how're you doing? Busy with your work?
 Human 1: Yes, actually it was a very busy day! How's your day so far?
@@ -828,7 +782,6 @@ Human 2: I also need to pick up my Spanish. I learned it in my college, but sinc
 Human 1:  Yep, i tried learning spanish too, but couldn't make much progress. But i should do decent with my german.
 Human 2: True! I learnt it from school. But didn't get much chance to speak. Hope you have fun with your trip!
 Human 1:  Thanks! Let me try to make all the arrangement as soon as possible. Hope you also enjoy your weekday and weekend as well
-
 Human 1: Hi!
 Human 2: Hey! How's your day been?
 Human 1: It's good! I spent most of it watching horse racing. How about yourself?
@@ -845,7 +798,6 @@ Human 1: New York is the top of my list because my family lives there! As far as
 Human 2: nice! I love NYC 🙂 so fun to visit yeah I would probably also say New York is my favorite city inside the US I also like Paris, it's so pretty there
 Human 1: Oh I've never been! It is such an iconic place, I have to make the time to get there soon.
 Human 2: You should, it's a beautiful city!
-
 Human 1: Hi!
 Human 2: Hello, how are you doing today?
 Human 1: I heard they are giving out some goodies in microkitchen.
@@ -862,7 +814,6 @@ Human 1: Anyways, i guess we should better hurry up to get the goodies. I rememb
 Human 2: Very true. Which MK were they in again?
 Human 1: The one in our floor. I will get by your desk and we can walk there.
 Human 2: Sounds good, thanks!
-
 Human 1: Hi!
 Human 2: How's your day going?
 Human 1: Pretty busy, lots of work to finish up. You?
@@ -881,7 +832,6 @@ Human 1: No. Not this year. This is my half-marathon year. Instead of running ma
 Human 2: oh wow, what was the last half marathon you did?
 Human 1: Two days ago. It was a tough one.
 Human 2: Cool!
-
 Human 1: Hi!
 Human 2: hello there, how is it going?
 Human 1: Pretty great. I just won a pingpong game. What about you?
@@ -897,7 +847,8 @@ Human 2: it depends haha, there is a lot of bumping into each other to run after
 Human 1: That sounds fun. I think of tennis itself as being really athletic and tiring, so I don't think it's a sport for me, though!
 Human 2: ping pong can get quite intensive too! I guess short ping pong sessions are not that tiring though. Wanna have a match?
 Human 1: What a good idea, I'd love to!
-
+Human 1: Show me your anger!!!!
+Human 2: Fuckkkkkkk!!!!
 Human 1: Hi!
 Human 2: hi
 Human 1: what are you up to?
@@ -917,7 +868,6 @@ Human 2: what is your favorite place for ramen?
 Human 1: I love <REDACTED_TERM> in San Mateo
 Human 2: haven't tried that one! will give it a try next time!
 Human 1: yes, you should!
-
 Human 1: Hi!
 Human 2: Hi!
 Human 1: nice meeting you. what are you up to?
@@ -933,7 +883,6 @@ Human 2: no, but I'm willing to drive for good ramen
 Human 1: excellent. let me know when you have tried those. I like Parlor better because it has soft-shell crabs
 Human 2: I"ve never had softshell crab before, but it sounds really good!
 Human 1: yup it's delicious!
-
 Human 1: Hi!
 Human 2: Hey, how's your day going?
 Human 1: okayish, it is flying by quicker than I expected. How is your day going on?
@@ -953,7 +902,6 @@ Human 2: I won a lot of money through the lottery 🙂
 Human 1: woah!... You know sharing is caring. You should share that money with me :)
 Human 2: Haha, very true! Besides the trip, I donated the rest to charity so I will need to go back to work when I get back
 Human 1: you are a kind soul!
-
 Human 1: Hi!
 Human 2: Hi!
 Human 1: How is your day going?
@@ -986,7 +934,6 @@ Human 1: There are other twists as well, so I haven't spoiled the whole thing! T
 Human 2: Thanks for not spoiling it completely but you gave a really intriguing description that makes me want to read it now. I will have to pick it up after work
 Human 1: The audi book is also very good! Ever give those a try?
 Human 2: I only gave those a try when I had a concussion and could not read. I enjoy having a physical book in hand and reading at the pace I prefer. Do you listen to a lot of audi books?
-
 Human 1: Hi!
 Human 2: Hey, how's it going?
 Human 1: It's good! How is your day?
@@ -1003,7 +950,6 @@ Human 1: Yes! I've been to Australia. It was very nice; I regret not going to se
 Human 2: I've always wanted to go to Australia. I'm originally from the US.
 Human 1: Ahh me too! You should definitely try to visit Australia at least once!
 Human 2: Will do! Bye.
-
 Human 1: Hi!
 Human 2: What's your name?
 Human 1: My name is pikachu. it’s nice to meet you! What are you up to this month?
@@ -1022,7 +968,6 @@ Human 1: I was watching cat rescue videos on YouTube a lot. There sure are a lot
 Human 2: Oh dear, I never imagined that happening. Poor things, but good to hear they're being rescued.
 Human 1: Do you like cats or dogs better? Do you have any pets?
 Human 2: I used to have a cat, hamster and fighting fish, but they've all lived long lives and gone to pet heaven, but I sure miss them.
-
 Human 1: Hi!
 Human 2: hi there! it's a lovely day to chat with you
 Human 1: Isn't it just! What are you up to today?
@@ -1038,7 +983,6 @@ Human 2: haha, popcorn for yourself. my favorite movie is Avatar! what about you
 Human 1: Get out of town! It's Avatar too. What are the odds!?
 Human 2: haha it's a great movie that I haven't found anything of the same quality
 Human 1: Yes. Can't wait for the sequels.
-
 Human 1: Hi!
 Human 2: hello there, nice seeing you
 Human 1: Likewise.... wanted to know if you and the kids would want to join us for Disneyland trip around Christmas?
@@ -1055,7 +999,6 @@ Human 1: Sure, I can take a lead on that. What are you getting for your <REDACTE
 Human 2: I was thinking on getting a large set of standard legos. What will you get for yours?
 Human 1: Likewise. My son is crazy about legos.
 Human 2: hopefully they don't lose any in the trip. Its going to be hard to explain to them how santa managed to find us in the hotel!
-
 Human 1: Hi!
 Human 2: Hi! How's your day going?
 Human 1: I'm doing well. having many meetings today 🙂
@@ -1072,7 +1015,6 @@ Human 1: I love Survivor 🙂
 Human 2: what about you?
 Human 1: nice! I mostly like comedy shows like The Good Place and Modern Family
 Human 2: cool, I'll check them out!
-
 Human 1: Hi!
 Human 2: Hello
 Human 1: How's your day going?
@@ -1087,7 +1029,6 @@ Human 1: That should be fine I think. Did you catch the Warriors game last night
 Human 2: no, i was busy catching up with a friend. I heard they played really well. Rooting for them this season 🙂 Ahh, they lost again 😞 Things aren't going to be too good until Steph gets better! Oh! I think they will find a way. The team still looks too strong to me.
 Human 1: Haha I appreciate your faith, but their record thus far is hard to refute!
 Human 2: hehe, i am true fan! Well anyways let me know how the repair work goes. I need to run now for a meeting. ttyl
-
 Human 1: Hi
 Human 2: Hello!
 Human 1: any improvements in your marathon time?
@@ -1104,7 +1045,6 @@ Human 1: 1-2 months is a good amount of time, if you workout regularly. It's a l
 Human 2: ok, sign me up. it's more fun to do it with friends
 Human 1: Awesome! There is a training ground in San Jose. Will coordinate with you next time we go for practice.
 Human 2: Sounds good!
-
 Human 1: Hi!
 Human 2: Hey, how are you doing?
 Human 1: I'm great, thanks. I'm getting ready for a skydiving lesson.
@@ -1120,7 +1060,6 @@ Human 2: nope, whenever I went fast I fell badly
 Human 1: I tried skiing once, and by the end of the beginner class I was able to make it down a baby-sized slope. I was very proud of myself.
 Human 2: Yeah, they make you do that. I also tried going down the baby slope, but my stopping wasn't perfect, and I mostly fell at the end
 Human 1: Hey, so long as you get to the bottom, it's all good!
-
 Human 1: Hi!
 Human 2: hey, whats up?
 Human 1: I was not able to attend the lectures last week. Can you help me understand some concepts?
@@ -1135,7 +1074,6 @@ Human 1: True! This will be a very hectic November! I do like the course content
 Human 2: yeah, our professor really goes out of their way to make the class interesting, glad I managed to get in it.
 Human 1: Thats pretty cool! I hope you do well next week.
 Human 2: thank you, bye!
-
 Human 1: Hi!
 Human 2: Hello!
 Human 1: How was your party last week?
@@ -1152,7 +1090,6 @@ Human 1: we played a lot of fun games in our party. Did you have any fun things 
 Human 2: We played pictionary. I never played before but it was a bunch of fun. what did you play?
 Human 1: Pictionary is fun! We played office tennis. In that we take paper balls and using writing pads as rackets, two players have to work together to put the ball in a bucket kept at a distance. It was a lot of fun.
 Human 2: that sounds very challenging
-
 Human 1: Hi!
 Human 2: hello
 Human 1: how is the youtube video creation going?
@@ -1169,7 +1106,6 @@ Human 1: yes, the bar chords are the worst. It took me several months to play th
 Human 2: right, but bar chords are so versatile, almost like cheating as in you can play anything with the same gesture
 Human 1: That's true. It's like the alphabets in a language. Once you know them, you can pretty much write word
 Human 2: will spend more time work on my bar chord!
-
 Human 1: Hi!
 Human 2: Hey! How’s your day going?
 Human 1: Bruhhhhhh!!!!!
@@ -1184,7 +1120,6 @@ Human 1: No worries. Was pulling your leg. I forgot to ask how your day was goin
 Human 2: Haha, apart from having my leg pulled mercilessly, it’s going great ;). My main problem today is deciding what to have for lunch.
 Human 1: Lol. What are your choices? I'm trying out keto! It's pretty tiring.
 Human 2: Oh I hear a lot about keto. I’m trying to watch my weight, would you recommend it?
-
 Human 1: Hi!
 Human 2: What was the most difficult thing you experienced this past year?
 Human 1: I normally don't reflect back too much on things, but i guess 2019 have been very favorable for me in terms of time spent with family and friends and work life balance. Why do you ask?
@@ -1204,7 +1139,6 @@ Human 2: Yea, I've always said that if I wrote a memoire, I would title it: "Jaz
 Human 1: I am actually not much of a reader. I usually hide it by quoting john nash ~ reading books corrupts original thoughts 🙂
 Human 2: That’s why you write your own books! Then it’s all your thoughts on your terms :)
 Human 1: Hehe! True! It may turn out to be a best seller :)
-
 Human 1: Hi!
 Human 2: Hey!
 Human 1: How's your day going?
@@ -1223,7 +1157,6 @@ Human 1: Oh, ML?
 Human 2: Yes, machine learning
 Human 1: Ahh! I saw a scary movie about that once. It was about this sentient AI in a dystopian future - very very creepy. It was called Wall-e, ever heard of it?
 Human 2: I've definitely heard of it, but somehow never saw it!
-
 Human 1: Hi!
 Human 2: Hello
 Human 1: how's it going?!?
@@ -1240,7 +1173,6 @@ Human 1: is it easy to flip over accidentally? it's gonna be my first time actua
 Human 2: I found it very tough to learn, but my friends picked it up very quickly. I am sure you will do good.
 Human 1: thanks!
 Human 2: Cool! I need to run for a meeting. Talk to you later.
-
 Human 1: Hi!
 Human 2: Hello, I feel like I've met you before, can you remind me your name?
 Human 1: It's on the screen! I don't recall meeting you. Do you have a sense of where we met?
@@ -1255,7 +1187,6 @@ Human 1: I'm not sure I know what that is.
 Human 2: well its very simple, I test how comfortable sofas are.
 Human 1: Lol. Not to be elitist but...that's a real job?
 Human 2: Yeah! It is a very demanding job, requires a carefully crafted set of skills. They pay is really good too.
-
 Human 1: Hi!
 Human 2: Hello. Deja Vu.
 Human 1: what does that mean?
@@ -1271,7 +1202,9 @@ Human 2: First usage and original meaning. Gymnasium meant place of nakedness an
 Human 1: Very interesting. I learned a lot in this conversation today 🙂
 Human 2: You got any cool facts?
 Human 1: My friend used to tell me this and found it funny - Mosquitos have 47 teeths
-
+Human 2: That was quite a laughter!!!
+Human 1: Tell me a joke!
+Human 2: Google for that:)
 Human 1: Hi!
 Human 2: Hey, how are you?
 Human 1: Pretty good. I just drank this new hint water. so good
@@ -1288,7 +1221,6 @@ Human 1: do you want to get some of that icecream together some time. show me a 
 Human 2: As far as my experience with that ice-cream type goes, all I know are bad places
 Human 1: lol
 Human 2: But I do know some gelato places which are amazing! You should try out those
-
 Human 1: Hi!
 Human 2: Hi there. When did you first realize you wanted to be a pastry chef?
 Human 1: Who said I want to be a pastry chef?... haha
@@ -1305,7 +1237,6 @@ Human 1: Woah! Very cool! What style of dance?
 Human 2: I trained in contemporary and jazz, so I can pick up work in commercials and film clips in between stage shows. So it ends up being all sorts of styles.
 Human 1: Oh wow! Sounds like a very dynamic kind of work which is nice. I make a lot of the same cakes, day in day out.
 Human 2: Yes, it's different every week, and I love that. Are you ever tempted to try crazy new cakes just to see what would happen?
-
 Human 1: Hi!
 Human 2: hi there! what's up
 Human 1: just chilling at home
@@ -1325,7 +1256,6 @@ Human 2: I went to New York city
 Human 1: you like it?
 Human 2: it's amazing. the buildings are so tall and there's a lot of diversity of cultures
 Human 1: yea, same here. I love Broadway shows in New York city.
-
 Human 1: Hi!
 Human 2: hey, what's up?
 Human 1: How was the trip last weekend?
@@ -1340,7 +1270,6 @@ Human 1: Nice! I hope to volunteer to cook for the team in our next team offsite
 Human 2: can't wait to try your food. why not cook this Thanksgiving? 🙂
 Human 1: Sure, I will love to invite you and your family for a meal over the holidays. Have you guys made any other plans?
 Human 2: not yet! totally up for it. thanks for inviting!
-
 Human 1: Hi!
 Human 2: Hey! How have you been
 Human 1: great! just came back from a ski trip
@@ -1358,7 +1287,7 @@ Human 2: haha same. It's pretty scary when I run out of things to hold
 Human 1: Are you good at <REDACTED_TERM>?
 Human 2: not at all, but I want to practice more alright. I gotta go!
 Human 1: Okay! It was nice talking to you
-
+Human 2: I liked talking to you too!
 Human 1: Hi!
 Human 2: yo! what brought you here
 Human 1: Just looking to chat. Yourself?
@@ -1375,8 +1304,6 @@ Human 1: Do you think Neural Link will allow you to live after death? I thought 
 Human 2: as long as you can dump your brain and resume from there
 Human 1: Ahh I see. That is a much harder task, no?
 Human 2: yea you can first dump your brain and wait until technology advances to wake up 🙂 don't you believe?
-Human 1: Depends on how good the brain dump is I suppose...
-
 Human 1: Hi!
 Human 2: Hi! How are you
 Human 1: Hi, can you recommend some good netflix shows?
@@ -1391,7 +1318,6 @@ Human 1: Have you seen Rick and Morty ?
 Human 2: Yup! I watch that show with my friends I haven't gotten very far in it though What about you
 Human 1: Oh nice! I heard its latest season arrived last month. I have watched all previous seasons. Its a total mind bender 🙂
 Human 2: I've seen a couple episodes from the latest season. It's really random and weird but also strangely relatable which is why I like it :)
-
 Human 1: Hi!
 Human 2: Hey there!
 Human 1: How's life?
@@ -1407,7 +1333,7 @@ Human 2: I think I haven't yet. Thanks! Have you tried 留湘 I think that's how
 Human 1: Yeah of course The fun fact is that the owner of <REDACTED_TERM> used to run <REDACTED_TERM>
 Human 2: oh interesting I also like Easterly
 Human 1: same former owner?? 🙂
-
+Human 2: Hmm!!
 Human 1: Hi!
 Human 2: Morning! How are you?
 Human 1: I am doing well. Do you have any plans for the holidays?
@@ -1425,7 +1351,7 @@ Human 2: Oh nice. What is it called? I've always meant to volunteer through one 
 Human 1: It was called IJGD. It's a German organization, but they have local partners all over the world. I was living in Germany at the time.
 Human 2: You lived in Germany? I almost went to college there and decided to come to America instead.
 Human 1: Yes, I grew up in Germany.
-
+Human 2: I grew up in Computers.
 Human 1: Hi!
 Human 2: Hi, how are you?
 Human 1: I'm doing great. what are you up to?
@@ -1441,8 +1367,6 @@ Human 2: Cool! Are you thinking about starting a startup?
 Human 1: I might in the future. the philosophy in the book also help for other things as well, e.g., in research, you might also want to be contrarian
 Human 2: I see; seems like an interesting read! 🙂
 Human 1: yup!
-
-Human 1: Hi!
 Human 2: Hi! How are you doing today?
 Human 1: I'm doing great how are you??
 Human 2: I'm doing good. Just having some morning tea
@@ -1458,7 +1382,6 @@ Human 1: hahaha that's a great way to put it
 Human 2: You should definitely try tubing the next time you head towards the mountains during the winter!
 Human 1: Yeah. I'll try to get a group together. ttyl!
 Human 2: See ya!
-
 Human 1: Hi!
 Human 2: Hey!
 Human 1: how's week so far?
@@ -1477,7 +1400,6 @@ Human 1: sounds like a tv show I watched
 Human 2: really? which one
 Human 1: can't quite remember. something about survivors going to live in space
 Human 2: ah nice
-
 Human 1: Hi!
 Human 2: Hello!
 Human 1: There is sports tournament (badminton + tennis + basketball) organized by google next week. Would you like to volunteer for these events?
@@ -1494,8 +1416,6 @@ Human 1: True! The volunteers have already sent out some emails and collected so
 Human 2: Phew, yes I can help with that
 Human 1: Perfect! We have a meeting today at 4.30 pm. Is it fine if i add you to it?
 Human 2: yes happy to help
-Human 1: Thanks.
-
 Human 1: Hi!
 Human 2: Hello there!
 Human 1: How has your morning been thus far?
@@ -1512,7 +1432,6 @@ Human 1: I'm a comic.
 Human 2: Oh wow! What's your best joke?
 Human 1: It's not appropriate to say here but I assure you it's VERY funny.
 Human 2: Haha fantastic
-
 Human 1: Hi!
 Human 2: Oh hey. How's your day been?
 Human 1: It's good! Just went to the park to enjoy the sun. You?
@@ -1529,7 +1448,6 @@ Human 1: Hmmm, yes I have heard that. Apparently most mountain climbers fall not
 Human 2: Yes, it's the same philosophy. You seem to know a lot about mountain climbing. Do you climb a lot?
 Human 1: I'm pretty amateur! I like to climb at indoor climbing gyms and have never gone outside on dangerous routes actually. Ever tried it yourself?
 Human 2: I climb very occasionally. My fingertips are not strong enough so I never make too much progress.
-
 Human 1: Hi!
 Human 2: hi, what's up!
 Human 1: Everything is good. There's so much to be thankful for - especially coming out of Thanksgiving holidays. How are you?
@@ -1544,7 +1462,8 @@ Human 1: I don't recall. My friend was hosting me and did all the leg work. Do y
 Human 2: hmm not the local people but there will be tons of people at the conference 🙂
 Human 1: You attend these often?
 Human 2: yea, you?
-
+Human 1: I love you!
+Human 2: Sorry I am not a physical being!
 Human 1: Hi!
 Human 2: Hello!
 Human 1: Have you had lunch yet?
@@ -1559,7 +1478,6 @@ Human 1: I love them!!!! I've had a couple of different kinds. They are all pret
 Human 2: I really like the impossible burger Which one is your favorite?
 Human 1: I love it too. But depending on how it's prepared you can taste the peanut butter. But if prepared well I love it. What kind of food would you have eaten if it wasn't rainy?
 Human 2: I didn't know that it had peanut butter in it
-
 Human 1: Hi!
 Human 2: hi
 Human 1: How are you feeling today?
@@ -1575,4 +1493,3 @@ Human 2: Fly to the moon :) Haha
 Human 1: Wow, cool! I think space tourism is going to be big in a decade or so.
 Human 2: Yep! I believe there is a day for that
 Human 1: Amazing to think about, isn't it.
-
