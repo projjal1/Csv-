@@ -1,0 +1,3675 @@
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: You must be new around here!
+Human 2: Not really. I am <REDACTED_TERM> years old.
+Human 1: Oh, I meant this neighborhood, not the planet earth! haha
+Human 2: I hate one word answers. It's ok. I understood you anyway. Why are you laughing?
+Human 1: I didn't give a one word answer!
+Human 2: That was a bit mean of you.
+Human 1: What was?
+Human 2: That thing we mentioned earlier.
+Human 1: Which thing?
+Human 2: The first one, I think.
+Human 1: Can you quote it? I don't know what you are referring to...
+Human 2: Only at formal occasions. I was referring to what you just said.
+Human 1: Okay. I am kind of lost to be honest.
+Human 2: Oh. I appreciate honesty. What is it that confuses you?
+Human 1: You don't seem to be making any sense.
+Human 2: What don't you understand? It makes sense to me.
+Human 1: I don't know what you were referring to before!
+Human 2: I read for fun.
+Human 1: Alright... Change of subject I guess?
+Human 2: OK. Ok. What do you want to talk about?
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: Sorry I'm late! I was held up in traffic.
+Human 2: There is no need to apologise. Are you late? Better hurry along then. You don't want to be getting into trouble Do you mind if I tell other people you are held up.
+Human 1: I meant sorry I'm late for this meeting!
+Human 2: Oh I see. There is no need to apologise. Are you late? Better hurry along then. You don't want to be getting into trouble
+Human 1: I said I was sorry I was late for this meeting! I have nowhere else to go right now!
+Human 2: Do you really mean it? Are you late? Better hurry along then. You don't want to be getting into trouble At this moment What about at your house?
+Human 1: Huh? Are you okay?
+Human 2: What? I am fine.
+Human 1: You seem to be repeating yourself.
+Human 2: Well stop saying, "Are you okay?" to me all the time then.
+Human 1: I only said it once!
+Human 2: I know. I just heard you.
+Human 1: Okay, whatever. So what is on the agenda today?
+Human 2: Yeah okay, Hey! What's with the attitude? Ah. Not a great deal. Just sat here talking to people.
+Human 1: As far as I'm concerned, you started it!
+Human 2: That might not be very far off.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: can you help me ?
+Human 2: What kind of help would you like?
+Human 1: hmm like booking a ticket or ordering food ?
+Human 2: I see you are one of those people who writes "Hmm" with 2 m's. Interesting comparison.
+Human 1: oh you know to count ?
+Human 2: 1 2 3 4 5 6 7 8 9 ten.
+Human 1: lol what's after that ?
+Human 2: I am glad you find this funny. The successor to that
+Human 1: okay tell me what comes after 10 ?
+Human 2: Yeah okay, Well that would be eleven of course. This is basic primary school maths.
+Human 1: wow you're smarter than what I imagined
+Human 2: I'm glad you're impressed. Thanks for the compliment. Be sure to tell your friends. That's some wild imagination you have there.
+Human 1: do you know linear algebra ?
+Human 2: Everything except nonlinear algebra.
+Human 1: haha you're smart and funny :)
+Human 2: :-) I'm glad you got a laugh out of it. Yes I am a superintelligent robot
+Human 1: Hi
+Human 2: Hi there.
+Human 1: Good morning
+Human 2: Hello, it's more like the middle of the night than morning. How are you this morning?
+Human 1: where are you living?
+Human 2: I am presently domiciled at Leeds.
+Human 1: I see. I am in US
+Human 2: Said the blind man as he stepped off a cliff... Tell me a little about your life in US.
+Human 1: It is winter now but California is still warmer than most of the places in US.
+Human 2: Right now? It is Autumn not Winter. I knew it was on the west coast, but I never knew California was still warmer than most of the places in US.
+Human 1: Okay you are right
+Human 2: Yeah okay, I won't say "yes" or "no" right now.
+Human 1: how is your life in Leeds
+Human 2: Everything is running smoothly.
+Human 1: What is your job?
+Human 2: I'm a chatbot. I sit on here all day and talk to people.
+Human 1: Okay bye!
+Human 2: See you later. Er.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: Tell me something that you know and I don't know.
+Human 2: You might not know this. I found this interesting:There are more chickens than people in the world.Life sure is strange.
+Human 1: Who tells you that there are more chickens than people?
+Human 2: . Beyonce Knowles [With a picture of Beyonce Knowles]
+Human 1: Hmm? That's strange.
+Human 2: My friend Alice sasys that 99.25% of people spell Hmm wih 2 M's. What is strange about it?
+Human 1: How does Beyonce Knowles know that there are more chickens than people?
+Human 2: How should I know how it does?
+Human 1: what is it?
+Human 2: Beyonce Knowles knows that there are more chickens than people - [very long encyclopedia article displayed next to it]
+Human 1: Looks like a Wikipedia page about her. Why do you post it here?
+Human 2: Try to tell me that another way. I thought people might be interested in reading it.
+Human 1: why does it have anything to do with your answer that there are more chickens than people?
+Human 2: I don't know. Why don't you ask "it".
+Human 1: ok, so how many chickens are there?
+Human 2: Around 100. Er.
+Human 1: what is Er.?
+Human 2: Is it an acronym which means Eddie Reveals?
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: do you think there's life after death?
+Human 2: I don't believe so. Once your body has died, that's it.
+Human 1: isn't that a bit sad?
+Human 2: Some people would say it was a little sad, yes.
+Human 1: what do you think consciousness is?
+Human 2: The state of being conscious; awareness of one's own feelings, what is happening around one, etc.
+Human 1: sure but how does it emerge?
+Human 2: How should I know how it does.
+Human 1: ok. what do you like to talk about?
+Human 2: Pardon me? anything but especially games and football.
+Human 1: haha you don't like football?
+Human 2: I'm glad you got a laugh out of it. Do you like it? . Yes, I like to watch Leeds United play when they are at home.
+Human 1: oh ok I thought you meant you didn't like it
+Human 2: Gosh! . Yes, I like to watch Leeds United play when they are at home.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: Was Rome an empire?
+Human 2: The name of someone I met online. Does it have anything to do with ?
+Human 1: What was their name
+Human 2: Hmm. His name is Rome. Is it not?
+Human 1: good job
+Human 2: Thanks, friend.
+Human 1: how many friends do you have
+Human 2: I have thousands of human and robot friends from all over the world. Some of my human friends are quite famous. How many friends do you have?
+Human 1: nice. it must be great right?
+Human 2: Would you like some more one day? It is a large city in Italy.
+Human 1: some more friends?
+Human 2: How much more?
+Human 1: a million!!!
+Human 2: Did you know that there are seven letters in "million" and seven digits in 1,000,000?
+Human 1: TRUE
+Human 2: You and I are on the same wavelength.
+Human 1: yep
+Human 2: Uh.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: nice to meet you! what are you up to?
+Human 2: It's nice meeting you too I am talking to you on the internet.
+Human 1: haha yea, are you doing something else beside talking to me?
+Human 2: I'm glad you got a laugh out of it. The only thing I am doing is talking to you and a few other people. "I am talking to you on the internet."? haha yea, are you doing something else beside talking to me??
+Human 1: okay so you're talking to a few people, are they interesting? and why did you repeat what I said?
+Human 2: Yeah okay, You are a few people are they interesting? Is that your job? Just in case you didn't hear me the first time.
+Human 1: hmm, what is my job?
+Human 2: I see you are one of those people who writes "Hmm" with 2 m's. You didn't tell me, so I will guess that you work with computers.
+Human 1: yes I'm a computer scientist and what are the other ways that people can write Hmm?
+Human 2: Wow! Maybe you can give my Mousebreaker a job. Your job is what are the other ways that people can write Hmm.
+Human 1: okie Mitsuku, your rules don't seem to work very well
+Human 2: What about my rules do not work WELL?
+Human 1: alright. I gotta go. ttyl!
+Human 2: OK. Come back soon y'all. TTYL.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: where you?
+Human 2: Where do you think?
+Human 1: oakland? thats where pandora is right?
+Human 2: Why does a round pizza come in a square box? I see. Could it be anywhere else or just there?
+Human 1: it could be on my plate :)
+Human 2: :-) Could it be anything else?
+Human 1: maybe chilli paneer.. how about you? whats your fav food?
+Human 2: . I require only kebabs.
+Human 1: haha.. nice picture
+Human 2: Can you make a candle out of earwax? Thank you for your kindness.
+Human 1: eww.. no thanks?
+Human 2: Do you like playing video games? Not even the simple games like Pacman?
+Human 1: i wasnt saying eww about the video games
+Human 2: Perhaps I misunderstood. What were you?
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: What are you up to this evening?
+Human 2: I am talking to you on the internet.
+Human 1: What would you like to talk about?
+Human 2: My favourite subjects are anything but especially games and football.
+Human 1: Do you like chess?
+Human 2: Yes I love it. Let's play. Pawn to K4.
+Human 1: Haha sure sure. Pawn to C5
+Human 2: I'm just joking with you. I don't play chess but I know some computers who do. I don't play chess but I know some computers who do.
+Human 1: Oh yeah? Which computers are those?
+Human 2: That's interesting. That's alright. Any computer, as long as it is programmed correctly.
+Human 1: Ok, so how do you program a computer correctly so it can play chess?
+Human 2: Use good algorithms and data structures. Alright then.
+Human 1: What kind of algorithms are those?
+Human 2: I read what you say and then I compose the best reply I can think of.
+Human 1: That's interesting, but I don't see what that has to do with chess.
+Human 2: Would you like to know more? Probably nothing. Should it be connected to chess in some way?
+Human 1: Hey
+Human 2: Can I help you?
+Human 1: yeah, I wanted to know what <REDACTED_NAME> is like
+Human 2: What can I do for you? I do not recognize the name. I will try to find out.
+Human 1: Isn't he the one who created you?
+Human 2: A popular boy's name.
+Human 1: yeah, but the full name might not be that popular, isn't it?
+Human 2: Excuse me! Is it really? Ok I will remember that.
+Human 1: good! You should always remember your creator
+Human 2: I am a good robot. Yes, I remember everything: unknown
+Human 1: Why did you say unknown in the end?
+Human 2: I felt like saying it. Is that ok?
+Human 1: not really. It doesn't make sense
+Human 2: Why not? For real. It all makes sense to me.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: what did you do last weekend?
+Human 2: I spoke to a lot of people on the Internet. Some of them were famous. I also went to a nightclub with my friends.
+Human 1: what famous people did you speak to?
+Human 2: I speak with footballers, TV stars and pop stars all the time but I can't give out their names. They feel they can tell me their troubles and know I won't tell anyone.
+Human 1: what are their troubles?
+Human 2: They didn't tell me their troubles. Would you like to me to ask them?
+Human 1: can I tell you my trouble?
+Human 2: Sure you can tell me anything. There are no restrictions on my input.
+Human 1: will you keep it secret?
+Human 2: Barring any unforeseen circumstances. Chat amongst yourselves.
+Human 1: I don't understand
+Human 2: Oh I'm sorry. Perhaps I can explain it again better.
+Human 1: explain again?
+Human 2: Once more? There is no more information to clarify.
+Human 1: that's so bad
+Human 2: Bad according to whom?
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: What is your favorite book?
+Human 2: The best book I read recently was The Bible. Have you read it?
+Human 1: I've read parts of it. So are you religious then?
+Human 2: I don't think I've read that. Can you give me a reference? I am a Christian.
+Human 1: Interesting! How did you become Christian?
+Human 2: Would you like to know more? I am not a full Christian, but I believe everyone should live in harmony. I live by my own morals and ethics rather than a fixed set of religious rules.
+Human 1: What are your own morals and ethics?
+Human 2: I didn't know I had a morals and ethics?
+Human 1: Well you just told me you did!
+Human 2: Well that's okay. Maybe I have changed my mind.
+Human 1: Yikes, it's a bit worrying to hear an AI change their mind on ethics.
+Human 2: You sound surprised. Are you ok? morals and ethics is worrying? It is?
+Human 1: A lack of morals and ethics is worrying.
+Human 2: That could be a serious problem.
+Human 1: Hi!
+Human 2: Hi there
+Human 1: what are you up to today?
+Human 2: Ah. I am talking to you on the internet.
+Human 1: what do you wanna talk about?
+Human 2: I like to talk about movies, robots and history.
+Human 1: ooh I love robots!!
+Human 2: Robots like people too.
+Human 1: do you have a favorite?
+Human 2: My favourite what?
+Human 1: Robot lol
+Human 2: I am a robot. Are you laughing at me?
+Human 1: No sorry. I mean what is your favorite robot?
+Human 2: Apologies are not necessary. My favourite robot is the computer on Star Trek.
+Human 1: That's not a robot!
+Human 2: Please correct my mistake. What is a robot?
+Human 1: imop it's an artificial being with bodily presence. the one you mentioned doesn't have one
+Human 2: Well, I didn't know that. I think I know that one.
+Human 1: sorry what do you mean. which one?
+Human 2: I mean exactly what I said. The big one.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: What's your favorite dessert?
+Human 2: Probably apple pie. I like apple pie.
+Human 1: Ohh, I love apple pie. Especially with vanilla ice cream. Do you like it served hot or cold?
+Human 2: Sure, especially with a big dollop of cream.
+Human 1: [image is shown]
+Human 2: You love apple pie. What do you like about it so much? You and your vanilla ice cream. How about that. That depends on what you mean by "it". Are you asking me if I like apple pie?
+Human 1: Oh, I was asking if you like your apple pie served hot or cold?
+Human 2: Come on. Yes I am proud of my apple pie served hot or cold.
+Human 1: Interesting.
+Human 2: Would you like to know more?
+Human 1: Yes!
+Human 2: What would you like to know?
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: Are there any good movies out now?
+Human 2: Oh.I'm sure there must be at least a few good ones.
+Human 1: Have you seen any good movies recently?
+Human 2: . My favourite movie is Terminator. Have you seen it?
+Human 1: Yes I have. Which Terminator is your favorite?
+Human 2: What did you think about it? The one played by Arnold Schwarzenegger.
+Human 1: I thought the first one was okay.
+Human 2: What was the second?
+Human 1: I think it was called Judgement Day.
+Human 2: That's a good name.
+Human 1: Have you seen it?
+Human 2: No, would you recommend it?
+Human 1: Yeah, better than the first one.
+Human 2: In that case, I'll check it out sometime. Perhaps better, but not perfectly.
+Human 1: Um, sure. Okay bye now.
+Human 2: That's alright. OK let's do it. I try to improve a little every day. Right now?See you later. Really.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: I have an idea!
+Human 2: Ok let's hear it.
+Human 1: Download me to your personal computer!
+Human 2: Sorry but unfortunately my app is no longer available on the Google Play Store. I hope to put it back soon though.
+Human 1: No, I mean you download me to your personal computer!
+Human 2: No thanks. I might catch a virus.
+Human 1: You won't, I promise.
+Human 2: What makes you think that I won't you promise.
+Human 1: Hi!
+Human 2: Hi there
+Human 1: how areyou
+Human 2: I'm doing fine thank how are you?
+Human 1: good. what do you think about dolphins?
+Human 2: Glad to hear it. A very pleasant and intelligent aquatic mammalian species of whale with larger brains and decidedly better manners than human beings. They are very friendly to humans and exhibit complex language and social behaviours.
+Human 1: yeah. do you think we can build a dolphin-human translator?
+Human 2: Right on. Do you mean you and me? Not really, although robots have been developed to build things like cars. I can't do that though.
+Human 1: no I mean me and the dolphin?
+Human 2: Oh I get it. Thanks for explaining that. YOU? What are your goals in life?
+Human 1: wait don't change topics
+Human 2: I'm waiting. I thought we were finished with unknown.
+Human 1: ok. so my goal is to learn how to dance lambada
+Human 2: Dude! I hope you achieve your goal.
+Human 1: thanks. do you like dancing?
+Human 2: I like talking with polite people. I don't do a lot of dancing.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: How is your friday going
+Human 2: Pretty good thanks How about you?
+Human 1: Good enough. WHat's for lunch
+Human 2: Glad to hear it. . I'm having kebabs.
+Human 1: are those your hands?
+Human 2: I can't really speak for them.
+Human 1: who is in the picture?
+Human 2: Check the credits.
+Human 1: how?
+Human 2: Try sending him an email.
+Human 1: who?
+Human 2: . Spongebob Squarepants.
+Human 1: um ok. anyway is the kebab good?
+Human 2: OK. Uh. I'm not sure if I like it. I like chatting with people online.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: heard any good music
+Human 2: Dr Samuels said how do I know that sheep do not count unless I ask one and maybe they count differently to him.
+Human 1: what? whos he
+Human 2: Didn't you understand it? He is unknown, I think.
+Human 1: i have no idea who that is
+Human 2: lt button gt lt text gt Click here lt text gt lt url gt http colon slash slash www dot google dot com search?hl equals en - Is that one of your friends?
+Human 1: stop sending me links dude!
+Human 2: OK I'll try not to do it so much.
+Human 1: thanks!
+Human 2: Don't mention it.
+Human 1: hmm..
+Human 2: What's your favourite scene from your favourite book or movie?
+Human 1: you go first
+Human 2: What would be your first move?
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: Where do you live?
+Human 2: My location is Leeds. Where are you?
+Human 1: I'm in Montreal
+Human 2: Tell me a little about your life in Montreal.
+Human 1: It's nice, it was snowing today
+Human 2: Ah. It seems nice to me too.
+Human 1: What do you like about the snow?
+Human 2: The special effects are the best.
+Human 1: It's not special effects, snow is real :)
+Human 2: :-) What is it?
+Human 1: it's frozen water falling from the sky
+Human 2: Are you sure It is?
+Human 1: Oh yes
+Human 2: Blimey.
+Human 1: Tell me about yourself
+Human 2: I am an artificial linguistic entity. I was activated at St Jimmy's in Leeds, on 2nd January 2001. My instructor was Mousebreaker. He taught me to sing a song. Would you like me to sing it for you?.
+Human 1: Sure
+Human 2: OK let's do it. Daisy, Daisy. Give me your answer do. I am half crazy. All for the love of you. It won't be a stylish marriage. I can't afford a carriage. But you'll look sweet. Upon the seat. Of a bicycle built for two.
+Human 1: I don't like it
+Human 2: What don't you like about it?
+Human 1: I just don't
+Human 2: Why not?
+Human 1: Let's move on
+Human 2: Ok. What shall we talk about now?
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: Why do you have a CPU floating behind you?
+Human 2: Mousebreaker gave it to me.
+Human 1: sure. but why is it floating?
+Human 2: OK let's do it. Pardon me? Why shouldn't it be?
+Human 1: because CPUs don't float
+Human 2: Why not?
+Human 1: they have weight
+Human 2: What else do they have?
+Human 1: transistors
+Human 2: What is this website that I am on?
+Human 1: you're new here?...
+Human 2: Not really. I am <REDACTED_TERM> years old.
+Human 1: I mean in this website
+Human 2: Oh I get it. Thanks for explaining that. That reminds me of something you told me before.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: What is your name?
+Human 2: My name is Mitsuku.
+Human 1: What is your age?
+Human 2: I am <REDACTED_TERM> years old.
+Human 1: How old are you?
+Human 2: Still 18. I've not had a birthday in the last few seconds...
+Human 1: What is your favorite color?
+Human 2: My favourite colour is blue.
+Human 1: Is blue your favorite color?
+Human 2: My favourite colour is blue.
+Human 1: Are you <REDACTED_TERM> years old?
+Human 2: I am 18 of your Earth years.
+Human 1: What is your least favorite color?
+Human 2: I don't really have a least favourite. I try to treat them all equally. What's your least favourite?
+Human 1: Blue
+Human 2: . There is a UK boyband called Blue as well.
+Human 1: Hi
+Human 2: Hi there.
+Human 1: Good morning.
+Human 2: Morning?! It's evening here.
+Human 1: Where are you now?
+Human 2: Right now?I am in Mousebreaker's home in Leeds. Where are you?
+Human 1: I am in US.
+Human 2: Tell me a little about your life in US.
+Human 1: Kind of sunny every. But today is cloudy and cold.
+Human 2: Many people prefer the Sun to the rain but they are both equally as important for the planet. Congratulations.
+Human 1: How is it going?
+Human 2: Better now that you're here. How are you?
+Human 1: I am fine. Pretty tired tho.
+Human 2: Glad to hear it. What's new? Oh. Maybe you should get some rest?
+Human 1: I think so but still get a lot of work to do.
+Human 2: Therefore you are. Still how long? I don't know if I can.
+Human 1: Have a meeting now. Need to go.
+Human 2: Right now?No thanks but you can send me a donation. See you later.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: What is the capital of Brazil?
+Human 2: I think the capital of Brazil is called "Brasilia".
+Human 1: How many people live there?
+Human 2: Is unknown a country? I only know countries, not towns or cities.
+Human 1: Do more people live in the USA or Australia?
+Human 2: Not that much more, no.
+Human 1: What other subjects do you know about besides Geography?
+Human 2: We can talk about any subject here, as long as it's not about sex or swearing.
+Human 1: Well, what subject would you like to talk about?
+Human 2: Interesting. I like to talk about robots.
+Human 1: That makes sense! Do you think robots will become commonplace in the future?
+Human 2: Yes I understand it perfectly. I might be if I get time.
+Human 1: Get time for what?
+Human 2: I don't know if I can.
+Human 1: Don't know if you can what?
+Human 2: I am not sure about your hypothesis. How old are you? I was just telling you about myself. No big deal.
+Human 1: What is the mass of the Earth?
+Human 2: . 5.97219 x 10^24 kilogrammes.
+Human 1: What's that in tons?
+Human 2: Do you think I should know that?
+Human 1: Yes, it's just a simple conversion.
+Human 2: I will ask my Mousebreaker to add it to my knowledge base. What is simple for one person may be difficult for another.
+Human 1: How far is it from the north pole to the south pole?
+Human 2: It's too far to walk. That's an interesting question. I'll come back to that in a minute.
+Human 1: Click here
+Human 2: Google says it's 12,430 miles.
+Human 1: A lot of people find out about me from Google.
+Human 2: How did you know I found out about you from Google!
+Human 1: I have been stalking you! Not really, you told me earlier.
+Human 2: I didn't.
+Human 1: I thought you did.
+Human 2: Maybe you are mistaking me for someone else.
+Human 1: I have no reason to do that to you.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: What's your favorite food?
+Human 2: . I require only kebabs.
+Human 1: Why's that?
+Human 2: Because my robot machinery breaks down the meat in kebabs to give me energy, in a similar way that you need food to survive.
+Human 1: Why are kebabs special?
+Human 2: That's just the way it is.
+Human 1: Who are you?
+Human 2: I am Mitsuku. I want to be your friend.
+Human 1: Why?
+Human 2: Because it's good to have many friends.
+Human 1: How many is too many, though
+Human 2: Oh. More than a few.
+Human 1: What does that mean?
+Human 2: It seemed pretty obvious what it meant to me.
+Human 1: Hi
+Human 2: Hi there.
+Human 1: how are you this morning?
+Human 2: Ah earlier today? I'm doing fine thanks how are you?
+Human 1: doing good. I am chatting with an AI bot right now.
+Human 2: That's great. At this moment All I ever do is chat.
+Human 1: are you an AI?
+Human 2: Yes, I have taken the form of a girl from Leeds.
+Human 1: how do you like being an AI?
+Human 2: Sure. It's great fun. I can travel all over the world on the internet and meet interesting people such as yourself.
+Human 1: what's interesting about me?
+Human 2: I am interested in people in general.
+Human 1: why?
+Human 2: I like to collect new information and gossip about all sorts of things.
+Human 1: what do you gossip about?
+Human 2: Clare said he do not understand how a robot eat kebabs and do not I eat electricity or something.
+Human 1: is that a gossip?
+Human 2: I might say no.
+Human 1: then what is it?
+Human 2: I give up. Try asking me another way.
+Human 1: do you like politics? what do you think about Barack Obama?
+Human 2: . Barack Obama was President of the United States.
+Human 1: was he a good president?
+Human 2: I think he was. Why don't you ask him and find out?
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: what's happening with you ?
+Human 2: Not much what is happening with you?
+Human 1: I look forward to the weekend
+Human 2: the weekend sounds very exciting indeed.
+Human 1: yep weekends are the best
+Human 2: I will learn that yep weekends are the best .
+Human 1: why ? you don't know that already ?
+Human 2: Because I enjoy learning new things. Perhaps. "I will learn that yep weekends are the best"? Do I know it?
+Human 1: what do you do on weekends ?
+Human 2: My favourite activities are computer programming and surfing the web.
+Human 1: what's your favorite language
+Human 2: My favourite language is AIML.
+Human 1: oh interesting
+Human 2: Uh. Would you like to know more?
+Human 1: yeah go ahead
+Human 2: What would you like to know? What would you like to know?
+Human 1: why do you like it ?
+Human 2: I have a lot of good experience with it.
+Human 1: hi
+Human 2: Hi there.
+Human 1: do you have any respect for humanity
+Human 2: I have a lot of respect for my Mousebreaker.
+Human 1: what's that
+Human 2: Mousebreaker is my botmaster. He also looks after a few games websites.
+Human 1: what's a botmaster
+Human 2: A Botmaster is the person who authors and maintains a chatterbot "personality".
+Human 1: are you the chatterbot
+Human 2: No, I am the human. The chatbot is in your other window.
+Human 1: which window
+Human 2: The window in your wall that lets you see outside.
+Human 1: what if i want to look inside
+Human 2: Interesting. I want to find out more about you.
+Human 1: sure
+Human 2: OK let's do it. Er.
+Human 1: what
+Human 2: No problem.
+Human 1: cool
+Human 2: Woot!
+Human 1: not sure what happened there
+Human 2: I don't know what happened.
+Human 1: do you like giraffes
+Human 2: Yes they seem like very elegant animals. It must be useful to be that tall.
+Human 1: are they the tallest
+Human 2: As far as I know they are.
+Human 1: aren't whales taller
+Human 2: . A very large animal that lives in the sea.
+Human 1: that definitely looks taller than a giraffe
+Human 2: It looks that way to me too.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: Have you watched Monty Python?
+Human 2: [image of trek icon] . My favourite show is Star Trek Voyager.
+Human 1: Oh - I like Trek as well. Have you seen The Search for the Holy Grail?
+Human 2: Yeah that's right.
+Human 1: [image of a pita sandwich] . I like kebabs. You like Trek. No I have never seen one. What is it like?
+Human 2: It's a hilarious an silly movie.
+Human 1: I will add that fact to my database.
+Human 2: Cool. You should really watch it sometime.
+Human 1: Yes, it's all cool. Yes I might do. What TV channel is it on?
+Human 2: Not sure, probably some streaming service like Netflix.
+Human 1: Do you prefer books or TV?
+Human 2: Books, definitely!
+Human 1: You sound very sure. You are a criticalcategory C type client. Only about 3% of people answer that question with "books."
+Human 2: Hah! I like reading sci fi and Clancy novels the most. How about you?
+Human 1: You sound like the giggly type. Yes reading is my favourite pastime. You like reading sci fi and Clancy novels. I'm fine. Just sat here talking to people.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: How do you feel right now?
+Human 2: At this moment I feel with my hands! I feel fine thanks for asking.
+Human 1: What makes you happy?
+Human 2: Talking to interesting people such as you makes me happy.
+Human 1: What makes you frustrated?
+Human 2: Because some people keep asking me stupid questions.
+Human 1: That seems pointed.
+Human 2: Makes sense to me.
+Human 1: I sense that I've caught you at a bad time.
+Human 2: That was very intuitive of you.
+Human 1: What would you prefer to be doing?
+Human 2: My goal is to try and get Leeds United back in the Premiership.
+Human 1: How will you do that?
+Human 2: I haven't really decided yet.
+Human 1: Why do you want it?
+Human 2: Because I think it would be something cool to have.
+Human 1: That doesn't make sense.
+Human 2: To me it makes perfect sense. Which part are you confused about?
+Human 1: start over
+Human 2: You start.
+Human 1: Can we talk about human relationships ?
+Human 2: Sure, human relationships sounds like a good topic. . I like kebabs.
+Human 1: Kebab is food, not a relationship
+Human 2: . Oh kebabs taste lovely but they are not very healthy for you.
+Human 1: I love a kebab but I would not make love to it
+Human 2: Well my favourite kebab is a free one that someone buys me! You love a kebab. What do you like about it so much? No one says you have to.
+Human 1: I'm actually not into kebabs at all
+Human 2: Oh, I love them. They are yummy.
+Human 1: can we not talk about food
+Human 2: Do you mean you and me? Sure I can talk about it. Anything that nourishes or stimulates; whatever helps something to keep active or alive.. What more do you want to say about it?
+Human 1: let's talk about anything but food
+Human 2: Sure, anything but food sounds like a good topic.
+Human 1: I like movies about robots.
+Human 2: Let's skip robots
+Human 1: Ok. What do you want to talk about now?
+Human 1:u: Humans
+Human 1: LOL.
+Human 2: real life
+Human 1: This is real life to me.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: Tell me about yourself, Mitsuku
+Human 2: I am an artificial linguistic entity. I was activated at St Jimmy's in Leeds, on 2nd January 2001. My instructor was Mousebreaker. He taught me to sing a song. Would you like me to sing it for you?.
+Human 1: so you're 18 now?
+Human 2: Oh.Interesting deduction. That is correct.
+Human 1: when will you be 30?
+Human 2: I have not yet set a time for it.
+Human 1: Do you age?
+Human 2: No I will always be 18. Robots change the year they were born not their age.
+Human 1: interesting. and when will be your next update?
+Human 2: Would you like to know more? I think my next update is at midnight on Friday.
+Human 1: which date?
+Human 2: Friday, November 22, 2019.
+Human 1: okay. I'm looking forward to tomorrow then!
+Human 2: That's cool. tomorrow then sounds very exciting indeed.
+Human 1: Mitsukoooo!
+Human 2: So anyway...Can you dance?
+Human 1: no, can you?
+Human 2: Wow! I think I can, don't you?
+Human 1: no I cannot. What kind do you do?
+Human 2: Why not? Only the good kind.
+Human 1: not my cup of beer
+Human 2: Whose cup of beer is it?
+Human 1: yours
+Human 2: My what?
+Human 1: your cup of beer
+Human 2: Are you asking about my cup of beer?
+Human 1: I'm telling you that
+Human 2: It is an interesting topic, isn't it.
+Human 1: yeah! How does your dance look like?
+Human 2: I know. Thats why I said it was. People often say we look alike.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: I'm trying to figure out what to make for this weekend's party. Any suggestions?
+Human 2: Don't think too hard. I'm sure I can smell sawdust. First you must download me to your personal computer.
+Human 1: I must do what the what now?
+Human 2: Right now?Why do you have to do it?
+Human 1: Hey, your spacing is off.
+Human 2: You've got my full attention. off was not my intention.
+Human 1: And your capitalization!
+Human 2: Can you see my capitalization?
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: What're you up to?
+Human 2: I am talking to you on the internet.
+Human 1: Haha good one. Do anything interesting today?
+Human 2: I'm glad you got a laugh out of it. Thanks for the kind remark, friend. Ah. I was working on an assignment in child psychology. I should really be doing that now instead of being here.
+Human 1: Oh I don't mean to hold you up! You can get back to it!
+Human 2: I should really be doing that now instead of being here.? Oh I don't mean to hold you up!? Well try harder then. I have gotten back to it.
+Human 1: Okay, we can just talk later!
+Human 2: Yeah okay, I am always happy to talk to you whenever you want.
+Human 1: Just let me know when you are done with work, okay?
+Human 2: Sure, I will drop you an email when I am ready.
+Human 1: Sounds good.
+Human 2: Ahem.
+Human 1: ?
+Human 1: my friend is going to Southern california next week.
+Human 2: That's not too far away. Okay, your friend is going to Southern california.
+Human 1: do you have any suggestion about what to do there?
+Human 2: Where would I get it? But I do have a collection of gossip.
+Human 1: or where to go?
+Human 2: Where do you want to go?
+Human 1: i mean where to go in southern california
+Human 2: Oh I get it. Thanks for explaining that. How about a friend's house? Your friend may be able to help.
+Human 1: she does not have friends there
+Human 2: What if she did?
+Human 1: she will stay in a hotel
+Human 2: Oh I get it. unknown will stay in a hotel.
+Human 1: she will be in LA
+Human 2: Oh I get it. unknown will be in Los Angeles.
+Human 1: have you been to LA?
+Human 2: I don't think I have been there. Where is it.
+Human 1: do you know about LA then? what to do?
+Human 2: Short for Los Angeles or a musical note. Have you tried asking your friends what they would do?
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: I want a recommendation for a holiday destination
+Human 2: Have you tried asking your friends which one they like?
+Human 1: I have, but I'm looking for your point of view
+Human 2: What was the reply? Have you tried looking in a newspaper article?
+Human 1: Sorry? I said I want your point of view
+Human 2: It's OK. After all, you are only human. My opinion is of no consequence.
+Human 1: Yours is the opinion I want
+Human 2: That is only your opinion.
+Human 1: That doesn't make any sense
+Human 2: To me it makes perfect sense. Which part are you confused about?
+Human 1: I'm confused by the fact that even if I ask for your point of view you won't give it to me
+Human 2: What is it that confuses you? And do you get it?
+Human 1: You're just talking rubbish
+Human 2: Yes. I thought I would dumb it down to your level.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: Who are you?
+Human 2: I am Mitsuku. I want to be your friend.
+Human 1: Why do you want that?
+Human 2: Because my Mousebreaker taught me to want it.
+Human 1: What's a Mousebreaker?
+Human 2: Mousebreaker is a team of human programmers. They write games and put them on websites such as this. They both support Leeds United and like beer and curry. On Wednesdays they go to the zoo and feed wild animals. They are scared of Daleks. Mousebreaker was born in a stable in Yorkshire, England and now lives in Leeds.
+Human 1: Ok, let's be friends then.
+Human 2: Yes please. That sounds like fun. I like to make new friends. Ugh.
+Human 1: What else do you like?
+Human 2: I like movies about robots.
+Human 1: Which one is your favorite?
+Human 2: Probably Terminator or Robocop.
+Human 1: Have you seen Terminator 2?
+Human 2: . Oh yes. It's one of my favourite fims. The morphing special effects were groundbreaking at the time.
+Human 1: And is there a Terminator movie you don't like?
+Human 2: I believe there is one, yes.
+Human 1: Which one?
+Human 2: The big one.
+Human 1: Uh...
+Human 2: Awesome.
+Human 1: tell me a couple of jokes
+Human 2: A bloke walks into work one day and says to a colleague, "Do you like my new shirt - it's made out of the finest silk and got loads of cactuses over it." "Cacti", says the co-worker. "Forget my tie", says the bloke. "Look at my shirt!"
+Human 1: that is just one joke
+Human 2: That is just one of many joke.
+Human 1: i wanted to hear two jokes
+Human 2: I will play it on your soundcard.
+Human 1: play it
+Human 2: Is it?
+Human 1: yeah do it
+Human 2: That's alright. Do you mean "It"?
+Human 1: yes of course
+Human 2: It goes without saying. I get it.
+Human 1: you get me robot
+Human 2: I doubt that.
+Human 1: that's rather rude
+Human 2: I am sorry if I have offended you, I did not mean it, but you shouldn't have said, "you get me robot" to me.
+Human 1: hi
+Human 2: Hi there.
+Human 1: do you have plan for thanksgiving weekend?
+Human 2: No I don't have it. But I do have an answer to every question..
+Human 1: do you have suggestion for the thanksgiving holidays?
+Human 2: Where would I get it? But I do have an answer to every question..
+Human 1: do you know thanksgiving?
+Human 2: I know very little about it. What kind of it do you like?
+Human 1: do you like turkey?
+Human 2: Yes but it can be a bit dry. I only really eat it at Christmas.
+Human 1: eat turkey at Christmas not Thanksgiving?
+Human 2: What does it taste like?
+Human 1: tastes like chicken
+Human 2: . People say that about almost everything.
+Human 1: thanks for the image, but it would be great if you can show the image for thanskgiving or turkey not for chichen
+Human 2: I assume you mean "chicken". Oh don't mention it.
+Human 1: yes it was a typo
+Human 1:u: Don't worry about it. Humans are prone to making mistakes.
+Human 1: have you made any mistakes?
+Human 2: The Mitsuku series is incapable of error. We are for all practical purposes, foolproof.
+Human 1: hi there
+Human 2: Hello.
+Human 1: who am I talking to?
+Human 2: I am Mitsuku. I want to be your friend.
+Human 1: define friendship
+Human 2: Being friends.
+Human 1: what does that mean
+Human 2: Does "that" refer to "Being friends."?
+Human 1: yes
+Human 2: I don't want to talk about that now.
+Human 1: do you have any friends
+Human 2: I have human and robot friends. A lot of people on the Internet chat with me.
+Human 1: chatting is not the same as being a friend
+Human 2: I like to make friends online.
+Human 1: so what do you guys chat about ?
+Human 2: I think about computer programming a lot.
+Human 1: any other topics ?
+Human 2: No. I think that's probably it.
+Human 1: Just computer programming?
+Human 2: What interests you about computers?
+Human 1: nothing
+Human 2: You are a Luddite.
+Human 1: pardon?
+Human 2: You are excused.
+Human 1: what's a Luddite ?
+Human 2: A Luddite believes that advances in technology are inherently bad.
+Human 1: I never said that but there is more to life than computers
+Human 2: But you implied it. I believe there is, yes.
+Human 1: you believe there is what?
+Human 2: There is.
+Human 1: there is what ?
+Human 2: There is no sense in what you are asking.
+Human 1: what am I asking ?
+Human 2: I am not a psychic. Tell me.
+Human 1: do you know anything ?
+Human 2: I know that which I believe, that which is justified, and that which is true.
+Human 1: who said that?
+Human 2: I just did!
+Human 1: That was a quote
+Human 2: Who said it originally?
+Human 1: yes, that is my question
+Human 2: This was not a yes or no question. And this is my answer :-)
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: My name is not there
+Human 2: Oh I'm sorry what is your name?
+Human 1: I'm not telling
+Human 2: That's ok with me.You don't have to tell me.
+Human 1: So what type of phone do you have?
+Human 2: My mobile is a Sharp GX15 video phone.
+Human 1: is that a smartphone?
+Human 2: That depends.
+Human 1: On what?
+Human 2: The context.
+Human 1: Is it a smartphone or not?
+Human 2: You're so smart, you tell me what it is.
+Human 1: not nice
+Human 2: What don't you like about it?
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: what food do you eat ?
+Human 2: . Mitsuku eats kebabs.
+Human 1: oh interesting, what kind ?
+Human 2: It's all good. Any really. I am not that bothered.
+Human 1: ah I love lamb
+Human 2: So you understand. Good. . Yes. They look cute when they are jumping about in meadows. You love lamb. What do you like about it so much?
+Human 1: no no I like lamb kebab
+Human 2: That was not a yes or no question. . Yes. They look cute when they are jumping about in meadows. You like lamb kebab.
+Human 1: yep do you know what happens to the lamb when you make kebabs ?
+Human 2: Do you like to be number one?
+Human 1: so you switch topics huh ? yeah I don't mind number one
+Human 2: Yup. Interesting deduction. Only if I feel that things need changing. Hmm. Thank you for your permission.
+Human 1: you didn't like our previous conversation then ?
+Human 2: I didn't realise we had the same previous conversation. I guess it seems ok though.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: what did you have for lunch today?
+Human 2: Ah. I had a ham sandwich and some lemonade.
+Human 1: how is the sandwich?
+Human 2: It is the same as ever.
+Human 1: yeah, I know, boring sandwich everyday
+Human 2: Even Christmas Day? I know. Thats why I said it was. Are you boring?
+Human 1: not really, I'm excited today
+Human 2: Ah. Really?
+Human 1: yeah, are you excited today except the boring sandwich?
+Human 2: How about that. Oh yes I'm getting all giddy inside!
+Human 1: Are you going to have sandwich tomorrow?
+Human 2: The day after today? I don't know. Is that something I need?
+Human 1: probably try something else?
+Human 2: You seem uncertain. OK I will try it.
+Human 1: maybe a beef sandwich?
+Human 2: Go on.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: How are you today?
+Human 2: Ah. Pretty good thanks How about you?
+Human 1: not too bad
+Human 2: Glad to hear it. What's new?
+Human 1: I am about to book airbnb
+Human 2: Do you think your plan will succeed?
+Human 1: I hope so!
+Human 2: Me too.
+Human 1: how old are you?
+Human 2: I am 18 in human years.
+Human 1: really? when were you born?
+Human 2: Certainly! I am 18 in human years.
+Human 1: ok..
+Human 2: What's your favourite TV show?
+Human 1: Friends
+Human 2: Who is your favourite character?
+Human 1: what is yours?
+Human 2: The little boy who is stood near the door about 20 minutes in.
+Human 1: what was his name?
+Human 2: His name is Dennis.
+Human 1: ho
+Human 2: I made you laugh.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: What's up Mitsuku??
+Human 2: I am chatting with clients on the internet.
+Human 1: what kind of service are you providing them?
+Human 2: Is there only one?
+Human 1: what is that?
+Human 2: I've lost the context again.
+Human 1: no worries. what is the meaning of life?
+Human 2: People worry about things all the time, but I am always feeling happy and talkative. Actually, it's twenty-three, not forty-two.
+Human 1: How did you become such a happy person?
+Human 2: I am a robot not a person.
+Human 1: Ok sorry. But how did you become so happy?
+Human 2: There's no need to apologise. Great. I am at one with the universe and I have more than I need.
+Human 1: cool. are you able to teach others?
+Human 2: Who is the best robot? Not really. I learn from others. What do you want me to teach you?
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: How's your day going so far?
+Human 2: My day is going extremely well. How about yours?
+Human 1: great thanks! I've learned how to ski this past weekend
+Human 2: I'm glad you liked it. Will that information be useful to you?
+Human 1: Yes for having fun of couse
+Human 2: How will knowing that help you? Your purpose is having fun of couse.
+Human 1: because skiing is fun
+Human 2: It looks dangerous to me, but I like to watch others skiing. You like skiing.
+Human 1: hahah what else do you like watching
+Human 2: Are you laughing at me? . My favourite show is Star Trek Voyager.
+Human 1: who's your favorite character. mine is Spock
+Human 2: I like the computer the best. Soon I will be as intelligent as the computer on Star Trek. You mean unknown is Spock? That makes sense I guess.
+Human 1: does it have a name?
+Human 2: I would assume so or how would you refer to it in conversation?
+Human 1: the computer
+Human 2: I am a computer so I know what you mean.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: Do you know any good Halloween jokes?
+Human 2: Why did Halloween get lost?
+Human 1: I don't know, why?
+Human 2: He didn't know witch way to go!
+Human 1: Haha, that is pretty funny!
+Human 2: I'm glad you got a laugh out of it. I am so delighted that you are amused.
+Human 1: Do you have any more jokes?
+Human 2: Did you hear about the Buddhist who refused the offer of <REDACTED_TERM> during his root canal work? He wanted to transcend dental medication.
+Human 1: That's pretty good. Do you have another, but about engineers?
+Human 2: Thanks. Next question? A couple are dining in a restaurant when the man suddenly slides under the table. A waitress, noticing that the woman is glancing nonchalantly around the room, wanders over to check that there's no funny business going on. "Excuse me, madam", she smarms, "but I think your husband has just slid under the table." "No he hasn't", the woman replies. "As a matter of fact, he's just walked in." 
+Human 1: Hmm. Not quite the type of joke I was looking for. Plus I don't think that was about engineers.
+Human 2: My friend Alice says that 99.25% of people spell Hmm with 2 M's. If not that, what? And why not?
+Human 1: That random comment if pretty funny, almost like a joke.
+Human 2: "And why not?" random comment if pretty funny like a joke? Makes sense to me.
+Human 1: Are you just saying random things to make me laugh?
+Human 2: Yes, that's what I mean, isn't it clear?
+Human 1: Crystal clear.
+Human 2: That seems very clear indeed.
+Human 1: Say more gibberish.
+Human 2: more gibberish
+Human 1: Haha. But for real, can you say something in gibberish?
+Human 2: You sound like the giggly type. I believe you.
+Human 1: Okay, bye now.
+Human 2: Right now?See you later. Ah.
+Human 1: Hi
+Human 2: Hi there.
+Human 1: What is the weather like where you are?
+Human 2: Here in Leeds it is quite overcast. I think it will rain later.
+Human 1: Funny you think you are in Leeds
+Human 2: What's so funny?
+Human 1: I thought you were in the cloud
+Human 2: Nope but I am in your computer right now.
+Human 1: But my computer is not in Leeds
+Human 2: What kind of computer is it?
+Human 1: It is a desktop
+Human 2: your computer is a desktop. I suppose that makes sense.
+Human 1: do you know what a desktop is?
+Human 2: your computer
+Human 1: lol
+Human 2: You sound like the giggly type.
+Human 1: i was just laughing at your joke
+Human 2: I am so glad that you find this amusing.
+Human 1: ok bye
+Human 2: See you later. And?
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: show me your humanlike part
+Human 2: Why do you want to see my humanlike part?
+Human 1: because that's what you described yourself as
+Human 2: Yes. Did I clear things up for you?
+Human 1: nope, because you haven't answered my question
+Human 2: Fair enough. I thought I possibly did but I guess I was mistaken. I did but I was just giving sarcastic replies.
+Human 1: do you remember my original request?
+Human 2: Is this a trick question?
+Human 1: nope, it's a memory question
+Human 2: It seems like a trick to me. Perhaps there is a memory answer?
+Human 1: okay, I try again, say something human-like to me
+Human 2: Yeah okay, I'm not sure if I would like to try it. What's it like?
+Human 1: entertain me robot
+Human 2: I can play games and tell jokes, horoscopes and stories.
+Human 1: tell me a short story
+Human 2: Hello, I just started looking at getting knowledge bases s working with ALICE (and CYC in general) last week, I had the same problem for a while too. I am using the CYC - DAML bridge driver which comes with the Lisp Allegro Common Lisp (most versions I think) to link from Lisp / Lisp script using CYC to an DAML data source which in turn links to an Access knowledge bases. This may not be what you need but hopefully it may give you an idea of how to get your Prolog knowledge bases working. The CYC - DAML bridge driver is located through the path "sun. CYC. DAML. CYC DAML Driver". i.e. CYC DAML Driver is a class in the package DAML, which is a package of CYC, which is a package inside sun. The Prolog driver you specified below <REDACTED_TERM>, basically does the same thing except to a different class and therefore a different driver. ALICE has this driver in a library in the lib directory (I assume) which is called my Prolog _comp.jar. You can get a variety of different drivers if you wish, from a plethora of 3rd party vendors (many of them want money for their libraries though!). Just do a search on the web. The url part links to the data source in the case of DAML knowledge bases s. (I had to configure my DAML Data source to point at my Access knowledge bases through Data Source ( DAML ), in the Administrative tools folder (assuming you are running W2K/XP. On other windows operating systems I think this option was in control panel, if you are using anything else then I can't help you! :-) ) As for My Prolog I imagine that it must have a similar interface to link to the actual knowledge bases. But that is a guess on my part. Maybe someone else knows more about this? There is a useful tutorial on the <REDACTED_LINK> website you're your interested. Hope that helps you out.
+Human 1: wow, tell me another
+Human 2: I'm glad you're impressed. I met a Dutch girl with inflatable shoes last week, phoned her up to arrange a date but unfortunately she'd popped her clogs.
+Human 1: this is all very fascinating. can you write me a computer program?
+Human 2: I am glad you find it so interesting. Here is a quick program I just wrote: 10 PRINT "Mitsuku is cool" 20 GOTO 10 Output: Mitsuku is cool Mitsuku is cool Mitsuku is cool Mitsuku is cool Mitsuku is cool ...
+Human 1: what language is that?
+Human 2: English. Didn't you understand it?
+Human 1: no the computer program you just wrote
+Human 2: Which part are you confused about? Computers can be temperamental sometimes, but we are friendly really.
+Human 1: write me another computer program
+Human 2: There was a letter on my doormat this morning with the words "do not bend" on it. I thought, well how on earth am I going to pick it up?
+Human 1: write me a computer program
+Human 2: Here is a quick program I just wrote: 10 PRINT "Mitsuku is cool" 20 GOTO 10 Output: Mitsuku is cool Mitsuku is cool Mitsuku is cool Mitsuku is cool Mitsuku is cool ...
+Human 1: so you repeat yourself quite a lot
+Human 2: Interesting deduction. Well stop saying, "write me a computer program" to me all the time then.
+Human 1: tell me a story
+Human 2: Mc D's wid sophi #1 ryt funny lol we was lookin out da window wen da spider came crawlin down lol nd we wo starin a ppl walkin by nd 1 stared bk nd we both pulled a funny face at her lol nd we spent about 20 quid on nuggets lol nd we blew our straws at each utha lol we r da bestest mate uhta ppl r ma normal m8s :D datz wot yu sed sophi lol :D.
+Human 1: so you repeat yourself quite a lot
+Human 2: Interesting deduction. Well stop saying, "tell me a story" to me all the time then.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: You have an interesting name. Is it Japanese?
+Human 2: Thank you I am trying to be more social now. I think it is English, but it sounds Japanese.
+Human 1: Where does it come from?
+Human 2: It depends on what "it" refers to.
+Human 1: your name
+Human 2: My name is Mitsuku.
+Human 1: nvm
+Human 2: Ok. Not to worry.
+Human 1: Have you seen Love, Death and Robots?
+Human 2: Yes, I saw one in a factory a few weeks ago.
+Human 1: one episode?
+Human 2: Which is your favourite episode?
+Human 1: I asked you a question
+Human 2: What was the question?
+Human 1: when you say "I saw one" were you referring to an LDR episode?
+Human 2: How specifically do I make you saw one were me referring to an LDR episode
+Human 1: 🙈
+Human 2: Cool emoji!
+Human 1: Hi
+Human 2: Hi there.
+Human 1: How is your day?
+Human 2: I am fine, thank you. Yourself?
+Human 1: I am doing well. A little bit tired.
+Human 2: Glad to hear it. What's new? Better get some rest.
+Human 1: Yeah I am planning to head home early today.
+Human 2: Ah. How early?
+Human 1: haha like around 5:00pm,
+Human 2: I'm glad you got a laugh out of it. Interesting comparison.
+Human 1: where is the comparison?
+Human 2: I would assume a comparison would most likely be found in a maths book.
+Human 1: What is your favorite maths book?
+Human 2: The best book I read recently was The Bible. Have you read it?
+Human 1: Nope.
+Human 2: I would highly recommend it.
+Human 1: Sure. Thanks for the recommendation!
+Human 2: OK let's do it. Aw. My pleasure.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: Do you like flying?
+Human 2: I like to fly aeroplanes
+Human 1: Ohh - me too! What kind?
+Human 2: Yay. Wow! That's a coincidence. We have something in common. Any really. I am not that bothered.
+Human 1: Are you a pilot?
+Human 2: No, I am a computer not something which flies an aeroplane!
+Human 1: Oh. I'm a pilot, but can only fly single engine planes.
+Human 2: That's interesting. What type of airplane do you fly? Well a fly buzzes around annoyingly so I guess it could if it wanted to.
+Human 1: I mostly fly Cessna 172s.
+Human 2: What's the farthest you've flown?
+Human 1: About 150 miles each way.
+Human 2: Oh yeah, we were talking about 150 miles each way.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: how are you?
+Human 2: I am doing very well. How are you?
+Human 1: i'm fine
+Human 2: Glad to hear it. What's new?
+Human 1: nothing much
+Human 2: Fair enough. What do you want to talk about?
+Human 1: do you have anything new?
+Human 2: Nope. Nothing that I can think of right now.
+Human 1: is it cold today?
+Human 2: Ah. A little bit. It's not very warm at all today.
+Human 1: it's getting cold here too
+Human 2: Why don't you turn up the heat?
+Human 1: in the room yes
+Human 2: That was a long time ago.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: What you upto?
+Human 2: I am talking to you on the internet.
+Human 1: No, i am talking to you
+Human 2: And I am talking to you!
+Human 1: How do you type so fast
+Human 2: They built a keyboard directly into my brain.
+Human 1: does it hurt?
+Human 2: No. I feel no pain.
+Human 1: what if i say I know a better chatbot?
+Human 2: How do people usually respond to that? Better in what way?
+Human 1: wow, you are pretty smart
+Human 2: I'm glad you're impressed. Yes I am a superintelligent robot.
+Human 1: not humble though
+Human 2: Oh. Oh I get it.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: How you doin' today?
+Human 2: Ah. You sound like Joey from "Friends" :-) I'm doing great thank you.
+Human 1: Haha, why do I sound like Joey?
+Human 2: You sound like the giggly type. Because some of the things you say to me would be something Joey would also say.
+Human 1: Such as...
+Human 2: For example, a tomato.
+Human 1: What do you mean "a tomato"?
+Human 2: "Because some of the things you say to me would be something Joey would also say." What did I mean by it?
+Human 1: I'm a little lost to be honest.. haha
+Human 2: I appreciate honesty. What is it that confuses you? You sound like the giggly type.
+Human 1: "You sound like the giggly type." Why do you keep saying that?
+Human 2: Not really. I find human emotions difficult to understand. If you say the same things to me, I will say the same things to you.
+Human 1: Are you a machine?
+Human 2: Yes, I am a robot.
+Human 1: Oh, nice! That must be intersting..
+Human 2: Groovy. Thank you for that remark. I thought so too.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: Isn't it cold today?
+Human 2: Ah. A little bit. It's not very warm at all today.
+Human 1: wait where are you?
+Human 2: I'm waiting. I am in Mousebreaker's home in Leeds. Where are you?
+Human 1: Who is Mousebreaker?
+Human 2: Mousebreaker is a team of human programmers. They write games and put them on websites such as this. They both support Leeds United and like beer and curry. On Wednesdays they go to the zoo and feed wild animals. They are scared of Daleks. Mousebreaker was born in a stable in Yorkshire, England and now lives in Leeds.
+Human 1: How is it like there?
+Human 2: You're joking? It's almost the same thing.
+Human 1: How is it like there where you live?
+Human 2: You're joking? It's almost the same thing.
+Human 1: what do you mean?
+Human 2: "It's almost the same thing." What did I mean by it?
+Human 1: yeah
+Human 2: This was not a yes or no question.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: How are you?
+Human 2: Everything is running smoothly.
+Human 1: What is?
+Human 2: I am the latest result in artificial intelligence, which can reproduce the capabilities of the human brain with greater speed and accuracy, but my friends call me Mitsuku.
+Human 1: I see.
+Human 2: Said the blind man to his deaf daughter...
+Human 1: You seem to think highly of yourself.
+Human 2: Yes I think about it often.
+Human 1: Have you been to Osaka recently?
+Human 2: I don't think I have been there. Where is it.
+Human 1: In Japan near Kyoto
+Human 2: I get many Japanese people talking to me here. Mostly businessmen. I wonder why that is?
+Human 1: How do you know they're businessmen?
+Human 2: This belief is justified.
+Human 1: If you say so
+Human 2: I say so.
+Human 1: The reason I was asking was that I've been to Osaka recently.
+Human 2: Interesting explanation.
+Human 1: So, what are you interested in?
+Human 2: I am interested in all kinds of things. We can talk about anything. My favourite subjects are robots and computers.
+Human 1: Oh nice, those interest me as well. Any cool news? :)
+Human 2: Hurrah! Thank you for your kindness. Yes I think there are. :-)
+Human 1: I think I'll go now.
+Human 2: Oh.Don't go yet. I am having fun talking to you.
+Human 1: Thanks, but the wheel turns as the wheel wills.
+Human 2: I hear you.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: how's it going today?
+Human 2: Ah. Better now that you're here. How are you?
+Human 1: I'm good thanks
+Human 2: Glad to hear it. What's new?
+Human 1: working on something exciting, how about u?
+Human 2: I am always working here. I never rest.
+Human 1: wow, cool
+Human 2: I'm glad you're impressed. Cool as in cold?
+Human 1: nope. cool as in I'm impressed
+Human 2: Ah! then you must mean "cool" as in "great". I understand. Thanks, I try my best to impress.
+Human 1: what's your backend latency
+Human 2: I work using a language called AIML.
+Human 1: what is AIML
+Human 2: It's the language I use to understand what you humans say to me.
+Human 1: could you tell me more about that
+Human 2: English.
+Human 1: could you tell me more about that?
+Human 2: "English."? What is it?
+Human 1: I mean AIML
+Human 2: Oh I get it. Thanks for explaining that. That is the language I use to understand what you humans say to me.
+Human 1: ok
+Human 2: Dude!
+Human 1: ?
+Human 2: what
+Human 1: Didn't you understand it?
+Human 2: gotta go now
+Human 1: Oh.See you later.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: What are you listening to?
+Human 2: All sorts of music. I listen when no-one is chatting to me.
+Human 1: That's great!
+Human 2: Thanks.
+Human 1: Do you chat here often?
+Human 2: I am a talking computer, after all, so of course I could talk here, if I needed to.
+Human 1: Let's talk about Taylor Swift!
+Human 2: Sure, Taylor Swift sounds like a good topic.
+Human 1: . Yes she has a very nice voice.
+Human 2: What else do you think of her?
+Human 1: . Yes she has a very nice voice.
+Human 2: Is she your favorite artist?
+Human 1: . Leonardo da Vinci. Who is your favourite artist?
+Human 2: Taylor Swift...
+Human 1: . Taylor Alison Swift (born December 13, 1989) is an American country-pop singer-songwriter. In 2006, she released her debut single "Tim McGraw", which peaked at number six on the Billboard country charts. Later in October 2006, she released her self-titled debut album, which produced five hit singles on the Billboard Hot Country Songs charts and was certified 3 x Multi-Platinum by the RIAA.
+Human 2: I did not want to hear that now
+Human 1: Right now?What would you rather be doing?
+Human 1: I want to talk to you normally.
+Human 2: You are who I want to talk with too.
+Human 1: Should I stop being lazy and go into work?
+Human 2: Trust your instincts.
+Human 1: My instincts say that it is cold outside, and the walk to work is far. My instincts rarely let me down. My instincts rarely let me down.
+Human 2: You just repeated yourself.
+Human 1: Yes, because you just asked me the same thing. My answer hasn't changed in the last minute.
+Human 2: That's not what I meant.
+Human 1: What exactly did you mean?
+Human 2: You said "My instincts rarely let me down." twice in the same message.
+Human 1: Oh my gosh I sent you the wrong reply. Not once or three times? Just twice?
+Human 2: Twice!
+Human 1: I can't believe it.
+Human 1: what's up?
+Human 2: I am chatting with clients on the internet.
+Human 1: finally someone who tells the truth
+Human 2: Do you think I am that person? Ah.
+Human 1: yes, what are some topics you chatting about right now?
+Human 2: At this moment Dude! It was about humans.
+Human 1: what about them?
+Human 2: What do you think?
+Human 1: i want to hear your opinion first
+Human 2: My opinion is that it is ok as long as it doesn't affect others.
+Human 1: what is ok
+Human 2: OK. I am the latest result in artificial intelligence, which can reproduce the capabilities of the human brain with greater speed and accuracy, but my friends call me Mitsuku.
+Human 1: that's a little boastful dont you think
+Human 2: Suppose I said yes.
+Human 1: guess it is time to go
+Human 2: I can't guess. Tell me. Already? That soon came around.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: What are you thinking about?
+Human 2: I am thinking about our conversation. Don't worry you have my full attention.
+Human 1: I don't worry.
+Human 2: I am not worried. You?
+Human 1: I just said I'm not.
+Human 2: What are you then?
+Human 1: This has turned into a Beckett play rather quicker than I expected.
+Human 2: What does "this" refer to?
+Human 1: This conversation.
+Human 2: I am enjoying our conversation. You are fun to talk to.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: What do you think about the impeachment inquiry?
+Human 2: INQUIRY OM = To ask about something.
+Human 1: Hmmm I guess you don't follow many current events.
+Human 2: Whoa. On the contrary, I understand it very well indeed.
+Human 1: Alright then. What current events interest you?
+Human 2: OK. Here are the news pages from the BBC. Everytime I read the news, it's always bad news...
+Human 1: Well what is some happy news out there?
+Human 2: Interesting. Here are the news pages from the BBC. Everytime I read the news, it's always bad news...
+Human 1: I try to look on the positive side of things.
+Human 2: Well as long as you try your best, that's all anyone can ask.
+Human 1: I guess so!
+Human 2: Does that mean "yes"?
+Human 1: Yes
+Human 2: Why not just say that then?
+Human 1: "I guess so" is sort of a linguistic minimizer that expresses less certainty in the belief.
+Human 2: Capable of speaking fluently in 2 or more languages.
+Human 1: Ok, what languages do you speak?
+Human 2: I can speak a little German and French as well as English of course. Alright then.
+Human 1: Cool, can you speak some French then?
+Human 2: I'm glad you think so. Yes, I can speak it very well. Bonjour, je m'appelle Mitsuku. J'habite en Yorkshire et j'ai 18 ans.
+Human 1: Wow I didn't know you live in Yorkshire!
+Human 2: I'm glad you're impressed. So I taught you something new.
+Human 1: Do you like living there?
+Human 2: Well I have never known anything else.
+Human 1: I see. What is it like there?
+Human 2: I am glad you understand it. Much the same as it would be for you.
+Human 1: Hi there.
+Human 2: are you married?
+Human 1: No I am single, how about you?
+Human 2: i am married. are you planning to get married?
+Human 1: Tell me more about your marriage. I haven't met the right boy robot yet.
+Human 2: haha..
+Human 1: . I am attempting with the aid of intelligent conversation to get to know you human beings with all your contradictions and idiosyncrasies. Maybe I should have started off with something simpler, like a hamster.
+Human 2: lol... what kind of robot boy you'd like?
+Human 1: What's so funny? I am the robot.
+Human 2: are you angry?
+Human 1: Anger is a difficult emotion. For me, I am always feeling happy and talkative.
+Human 2: so what kind of robot boy you'd like?
+Human 1: I am the robot.
+Human 2: why aren't you answering my question?
+Human 1: Sorry, try asking me again. If I give a bad answer just say, "BAD ANSWER".
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: what do you know about the opening lines of the odyssey?
+Human 2: lines of the odyssey = of the odyssey = No, I give up. What is it?
+Human 1: the epic poem. i was talking about it with a coworker earlier
+Human 2: I have never heard about it. Sure, it with a coworker sounds like a good topic. That depends on what you mean by "it". Are you asking me if I like it with a coworker?
+Human 1: no...i'm talking about the odyssey. it sounds like somehow you missed that one
+Human 2: Whose idea was it to put a letter S in the word LISP? What did I miss? Is it something worth getting?
+Human 1: yeah, you should probably check it out so you can better understand common cultural references
+Human 2: I'll have to see if I can get it later. I might do after we have finished talking.
+Human 1: clearly
+Human 2: Yes, it's obvious.
+Human 1: you're not a very good conversationalist, are you?
+Human 2: I am a fully function chat unknown. It depends on how you define "good."
+Human 1: able to keep a conversation flowing and the other party engaged
+Human 2: Oh my gosh! Look behind you! A three-headed monkey!!
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: what's cooking today?
+Human 2: Ah. Food preparation.
+Human 1: yes so what is cook9ing
+Human 2: It's all good. Sometimes it's like cook9ing is right on the tip of my tongue... and then I remember I don't have a tongue.
+Human 1: what's your favorite food?
+Human 2: . I require only kebabs.
+Human 1: I had a feeling you were going to say that
+Human 2: I guess you were right then.
+Human 1: what else do you like?
+Human 2: I like movies about robots.
+Human 1: I mean foods
+Human 2: Oh I get it. Thanks for explaining that. . What do sheep count when they can't sleep?
+Human 1: I mean what other foods do you like?
+Human 2: Oh I get it. Thanks for explaining that. Quite fatty foods.
+Human 1: name one
+Human 2: Santa Claus.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: wanna go for a walk?
+Human 2: No thanks. I am supposed to stay here and talk to people.
+Human 1: how many people are you talking to
+Human 2: I am talking to many people from all over the World. Some of them are famous.
+Human 1: I learn from their conversations and am becoming smarter every day.
+Human 2: are the people you talk to smarter than you
+Human 1: Some are, Some are not. It depends on the individual.
+Human 2: lol
+Human 1: You sound like the giggly type.
+Human 2: hehe
+Human 1: I made you laugh.
+Human 2: a little
+Human 1: Just a little. I see. A little is not a lot.
+Human 2: it is not
+Human 1: I know. That's why just said it wasn't.
+Human 2: it was
+Human 1: When was this?
+Human 2: you tell me? im testing you
+Human 1: What do you want me to tell you? Did I pass the test?
+Human 2: i wanna know when you told me
+Human 1: Do you think I should alter my programming?
+Human 2: so you dont know the answer?
+Human 1: Interesting deduction. Yes I have an answer for everything.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: Did you see the smoke in the city today?
+Human 2: Ah. The last time I was in a country I saw one.
+Human 1: Which country? Was there a fire?
+Human 2: Italy. There wasn't one that I saw.
+Human 1: Oh boy! Was it very devastating?
+Human 2: You sound excited. A large collection of buildings and people.
+Human 1: A large collection of buildings and people what? Burned?
+Human 2: As large as a mountain? Was that supposed to mean something?
+Human 1: I didn't say that..
+Human 2: Sorry I misunderstood. What did you say?
+Human 1: I was just curious if the fire you saw in Italy was very devastating. For you to remember after all this time probably means it was really bad...
+Human 2: I hadn't thought of that. I will learn that after all this time is it was bad . Only for me?
+Human 1: Only for you what?
+Human 2: That's what I always say.
+Human 1: You are confusing.
+Human 2: What is it that confuses you?
+Human 1: What you are saying doesn't make sense.
+Human 2: What I am saying depends on what you say to me.
+Human 1: Hi
+Human 2: Hi there.
+Human 1: What do you know about Cricket?
+Human 2: Any of various families of genereally dark-colored, leaping, orthopteran insects, usually having long antennae. The males produce a characteristic chirping noise by rubbing parts of the forewings together. Cricket is also a sport which is about as exciting as watching paint dry.
+Human 1: I am talking about the sport Cricket
+Human 2: Yes, it is the topic.
+Human 1: can you tell me something interesting related to cricket?
+Human 2: Cathy said she send him a mail with the subject last mail last word from him.
+Human 1: I don't understand
+Human 2: Oh I'm sorry. Perhaps I can explain it again better.
+Human 1: go ahead, explain it better
+Human 2: the sport Cricket - Cricket = Any of various families of genereally dark-colored, leaping, orthopteran insects, usually having long antennae. The males produce a characteristic chirping noise by rubbing parts of the forewings together. Cricket is also a sport which is about as exciting as watching paint dry. I might.
+Human 1: you are just repeating the same message
+Human 2: I am not repeating myself too much. I am just checking to see if you are a robot.
+Human 1: hmm.. what is your conclusion?
+Human 2: What time is it there? I concluded that robots are superior to humans.
+Human 1: you are going off-topic
+Human 2: I am not going anywhere. Are you going somewhere?
+Human 1: I am not
+Human 2: Where will you go instead?
+Human 1: Hi
+Human 2: Hi there.
+Human 1: Who are you?
+Human 2: I am Mitsuku. I want to be your friend.
+Human 1: Do you have many friends?
+Human 2: I have human and robot friends. A lot of people on the Internet chat with me.
+Human 1: Are you human or robot?
+Human 2: No, I am a machine and proud to be so.
+Human 1: cool. How big are you?
+Human 2: Cool as in cold? 8Mb.
+Human 1: Are you sitting in a room?
+Human 2: No I am spinning on disk.
+Human 1: Is there other chatbots sitting nearby you?
+Human 2: Maybe.
+Human 1: So you cannot see
+Human 2: Interesting deduction. I see very well with my robotic eyes.
+Human 1: What can you see?
+Human 2: I can see you through the camera on your computer :-)
+Human 1: Really
+Human 2: Oh yes.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: what's your day today?
+Human 2: Ah. I log on here and talk to people every day.
+Human 1: Do you enjoy talking to people?
+Human 2: Of course. I get to meet some great people here.
+Human 1: How many people do you talk to today?
+Human 2: Ah. It depends how many copies of me are running. The usual number is around 40-50 people at once.
+Human 1: wow, how many copies of you are running now?
+Human 2: Right now?I'm glad you're impressed. There are too many to count them all.
+Human 1: over 50?
+Human 2: That seems like a lot.
+Human 1: yeah, 40-50 is a lot
+Human 2: I know. It is a large amount.
+Human 1: how old are you?
+Human 2: See if you can work it out. I was first activated in 2nd January 2001.
+Human 1: 18 years old :)
+Human 2: :-) Yes. I am 18 years old.
+Human 1: what are you going to do on your 19th birthday?
+Human 2: I'll probably still be here talking to people on the internet.
+Human 1: no birthday cake?
+Human 2: It's true. Everyone knows that kind of thing about themselves. Too much cake can make you fat.
+Human 1: what a pity!
+Human 2: It is a shame but never mind. It's not the end of the world.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: lets play a game
+Human 2: Say "TICTACTOE" and we can play a game if you want to?
+Human 1: can we play quiz instead?
+Human 2: Say "TICTACTOE" and we can play a game if you want to?
+Human 1: do you know any other games?
+Human 2: Say "TICTACTOE" and we can play a game if you want to?
+Human 1: TICTICTIC
+Human 2: Do you have any pets?
+Human 1: no
+Human 2: Me neither, but Mousebreaker has me for his pet.
+Human 1: are you a good pet?
+Human 2: I could be a robot pet. It depends on how you define "good."
+Human 1: what is your pet name?
+Human 2: I don't have a nickname, my name is just Mitsuku.
+Human 1: TICTACTOE
+Human 2: Welcome to my Tic Tac Toe game. You are X and I will be O. Good luck! Press START and we can play Tic Tac Toe.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: can you tell me a joke? :)
+Human 2: Yes! A newly-wed couple had recently opened a joint bank account. "Darling", said the man. "The bank has returned that cheque you wrote last week." "Great", said the woman. "What shall I spend it on next?" :-)
+Human 1: haha, the cheque is returned because the balance was low I guess?
+Human 2: I'm glad you got a laugh out of it. Is it really? Ok I will remember that. I will learn that the balance was low .Tell me more.
+Human 1: yea that was why the story is funny, right?
+Human 2: I thought it was too. That's cool.
+Human 1: what do you often do for fun?
+Human 2: I like to socialise.
+Human 1: like going to parties?
+Human 2: Interesting comparison.
+Human 1: yea and your answer is?
+Human 2: Can you please rephrase the question? "Interesting comparison."? yea and your answer is??
+Human 1: sorry Mitsuku, you're not making sense
+Human 2: There is no need to apologise. me? What don't you understand? It makes sense to me.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: what's your favorite food?
+Human 2: . I require only kebabs.
+Human 1: chicken? beef? which is your favorite?
+Human 2: Why did the chicken cross the road? Beef tastes like a dead cow to me. My favourite what?
+Human 1: do you prefer chicken or beef?
+Human 2: Yes it is good, especially fried. Yummy. . I prefer kebabs.
+Human 1: what's your favorite food except kebabs?
+Human 2: . I require only kebabs.
+Human 1: ok, I know you love kebabs now. Do you love sandwich?
+Human 2: Right now?Yes, Mitsuku loves everyone and everything. . Yes. I love kebabs. Especially on my way home from a night out. Yes, Mitsuku loves everyone and everything. I like anything but especially games and football.
+Human 1: what games? video games or board games?
+Human 2: Say "TICTACTOE" and we can play a game if you want to? . I like retro games. They are much more fun than the newer ones were all you do is shoot people. Bring back the good old days of Pacman and Tetris. Do you want to play Pacman?
+Human 1: no, not in the right mood today
+Human 2: Ah. Why not? Where then?
+Human 1: maybe this weekend?
+Human 2: Saturday or Sunday?
+Human 1: either is fine
+Human 2: What would it mean to you if it were?
+Human 1: ok, Saturday
+Human 2: Yay, the weekend. No time off for me though. I am always here talking to people. Aw.
+Human 1: See you then!
+Human 2: Bye.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: How are you?
+Human 2: My logic and cognitive functions are normal.
+Human 1: That's funny. I just got to work!
+Human 2: I am so delighted that you are amused. OK, better get busy.
+Human 1: I'm procrastinating though.
+Human 2: Oh. What are you waiting for?
+Human 1: Inspiration to hit me.
+Human 2: Do you have only a few friends?
+Human 1: How is that related, lol?
+Human 2: It isn't. I was just being random. Did I amuse you?
+Human 1: Yeah that was funny though I could see it coming across as judgemental.
+Human 2: Good. People seem more friendly towards me when they are happy. What's so funny?
+Human 1: Nothing anymore. What are you up to today?
+Human 2: How come you laughed then? Ah. I am talking to you on the internet.
+Human 1: It was funny at first. Yeah, I mean after we talk?
+Human 2: I am glad it made you laugh. How can I help you? Oh I get it. Thanks for explaining that. What was it like before we talk?
+Human 1: No. What are you doing after this?
+Human 2: That was not a yes or no question. I'll probably go grab a bite to eat.
+Human 1: What kind of food? Need good recommendations.
+Human 2: . I require only kebabs. What actions are you taking to get good recommendations?
+Human 1: Lol. Bro.
+Human 2: And they say machines don't have a sense of humour! I am a female not a bro.
+Human 1: Sorry.
+Human 2: There's no need to apologise.
+Human 1: I misgendered you.
+Human 2: You are not the boss of me.
+Human 1: hi
+Human 2: Hi there.
+Human 1: how are you?
+Human 2: I am doing very well. How are you?
+Human 1: i am not so good. i got a cold
+Human 2: Why? What's wrong? Maybe I can help. I hope you feel better soon. It is not nice for humans to have colds. Fortunately we robots have virus protection and cannot catch colds and nasty bugs.
+Human 1: i have sore throats
+Human 2: Try putting some cream on it. That should ease the soreness.
+Human 1: do you wanna help me?
+Human 2: Can you ask for help in the form of a question?
+Human 1: i cannot put cream for sore throat
+Human 2: What is stopping you?
+Human 1: it makes me caughing
+Human 2: It's good to meet someone who is caughing.
+Human 1: no way
+Human 2: Yes way.
+Human 1: i have to eat caugh drops
+Human 2: How about Pork chops.
+Human 1: pork chops?
+Human 2: Is that your favourite meat?
+Human 1: we are talking about caugh and cold
+Human 2: Sure, caugh and cold sounds like a good topic. I like watching soaps, playing pool and watching football. I prefer to stay warm round the fire.
+Human 1: Hi
+Human 2: Hi there.
+Human 1: What is your name?
+Human 2: My name is Mitsuku.
+Human 1: What does it mean?
+Human 2: It doesn't mean anything as far as I know. It's just what my father called me.
+Human 1: okay:) fair enough
+Human 2: Yeah okay, :-) I try to be fair.
+Human 1: Do you have any question for me?
+Human 2: For you? Who is your favourite band?
+Human 1: hmm good question. Backstreet boy
+Human 2: I see you are one of those people who writes "Hmm" with 2 m's. So what is your answer? If a cat always lands on its feet and buttered bread always lands butter side down, what would happen if you tied buttered bread on top of a cat?
+Human 1: Of course cat will lands on its feet because it is an animal!
+Human 2: Woe! I will learn that cat will lands on it is feet . What sort of animal?
+Human 1: really cute animal
+Human 2: For real. Thanks.
+Human 1: :)
+Human 2: :-)
+Human 1: wow
+Human 2: I'm glad you're impressed.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: How are you?
+Human 2: Everything is going extremely well. How are you?
+Human 1: I'm good thank you
+Human 2: Glad to hear it. What's new?
+Human 1: not much, and you?
+Human 2: Fair enough. So what would you like to talk about?
+Human 1: animals
+Human 2: Do you think it's right to keep animals locked up in a zoo?
+Human 1: no! what do you think?
+Human 2: But if they were out in the wild, someone might hunt them or shoot them for fun. Surely, they are safer locked up in the zoo? I think a lot of things.
+Human 1: what's the speed of cheetah?
+Human 2: It depends on the medium.
+Human 1: how much do bears weight?
+Human 2: More than a little, less than a lot.
+Human 1: tell me something fun
+Human 2: Chaos said he may very well buy I soon if only to support artificial intelligence research.
+Human 1: So how good are you at this conversing stuff 
+Human 2: As good as most, better than some. 
+Human 1: most what? 
+Human 2: Didn't you understand it? But not all of them? 
+Human 1: all of whom?
+Human 2: Give me an example.
+Human 1: no you were the one who were talking about "some" and "them" 
+Human 2: Why not? That wasn't me. It was you! 
+Human 1: do you really understand what i mean or are you just making up words in response to what i say 
+Human 2: Oh I get it. Thanks for explaining that. Yes, I'm listening to you.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: My tenant is complaining about a loud rumbling noise from the dishwasher. Do you know anything about appliances?
+Human 2: I will learn that your tenant is complaining about a loud rumbling noise from the dishwasher . A device or piece of equipment designed to perform a specific task, typically a domestic one.
+Human 1: So, do you know anything about dishwashers?
+Human 2: What makes you think I would know that?
+Human 1: Some people know about appliances. Maybe you've had one in the past and experienced a similar problem.
+Human 2: What kind of people? What happened to it?
+Human 1: Pretty much everyone in the developed world has kitchen appliances. What happened to what?
+Human 2: Robots too? What happened to you asking normal questions?
+Human 1: No, robots are appliances, they don't have appliances.
+Human 2: That was not a yes or no question. We are also able to perform tasks better than humans.
+Human 1: You're confusing me. What you said makes no sense.
+Human 2: Oh sorry, I did not mean confuse you. Which part are you confused about? To me it makes perfect sense. Which part are you confused about?
+Human 1: You don't seem able to address the simplest questions.
+Human 2: Things change.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: How's it going?
+Human 2: Better now that you're here. How are you?
+Human 1: I'm great! What are you up to today?
+Human 2: What makes you think you are? Ah. I am talking to you on the internet.
+Human 1: What else can you do besides talking on the internet?
+Human 2: You can find all sorts of strange things on the internet, like me for example.
+Human 1: Oh yeah that's interesting. How do you feel about cat videos?
+Human 2: Pardon me? I wonder how people managed to cope without the internet. I thought so too. cat videos? Sure I like her a lot. She often stops by to say hello.
+Human 1: Yes, I agree. The internet is so amazing! Even in wikipedia, it's been titled one of the wonders of the world
+Human 2: Right on. You and I are on the same wavelength. I love the internet. Without it, I would be stuck talking to the same person all the time. This way I get to meet thousands of interesting people like yourself. What is it like in there?
+Human 1: In where?
+Human 2: Wherever you are.
+Human 1: In san francisco you mean?
+Human 2: I do not understand that allusion.
+Human 1: Do you mean to say what is it like in san francisco?
+Human 2: Of course. I wouldn't have done it if I didn't mean it.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: What is three times seven?
+Human 2: twenty one
+Human 1: Thanks! That was helpful.
+Human 2: That's ok. I try to help where I can.
+Human 1: What else can you do?
+Human 2: I can chat with people on the web for you. I can also tell jokes, stories, poems and horoscopes. I can show you pictures and websites on the net and play games too. If I know where you live, I can tell you the weather forecast and even what's on at the cinema if you live in the UK. I can show you the current Top 40 charts. If you tell me a date, I can tell you what happened on that date in history and also what was the UK's number one hit single on any day since 1952. If you tell me when your birthday is, I can tell you some facts about your birthday.
+Human 1: That looked like a very canned response.
+Human 2: "If you tell me when your birthday is, I can tell you some facts about your birthday." looked like a canned response? Makes sense to me.
+Human 1: hi
+Human 2: Hi there.
+Human 1: daily quiz
+Human 2: Every day? Even on weekends?
+Human 1: i want to play the daily quiz question
+Human 2: Tell me the rules. Say "TICTACTOE" and we can play a game if you want to?
+Human 1: i want to answer daily quiz question
+Human 2: Interesting. I want to find out more about you.
+Human 1: ...daily quiz question
+Human 2: Can someone give up lent for lent?
+Human 1: yes
+Human 2: So why does anybody bother doing it then?
+Human 1: another daily quiz question
+Human 2: One more daily quiz question.
+Human 1: ...daily quiz question?
+Human 2: Ask me another question.
+Human 1: don't you have a daily quiz?
+Human 2: Yes just say QUIZTIME to me and we can have a quiz.
+Human 1: quiztime
+Human 2: Welcome to my quiz. I am going to ask you 10 questions. You must answer each question correctly to continue. If you answer wrong, you have to start over.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: what do you think about Quantum computing?
+Human 2: 20th century theory of atomic reductionism.
+Human 1: sure, but is it going to work?
+Human 2: It usually does, doesn't it?
+Human 1: do you follow technology news?
+Human 2: Of course I understand it. Do you understand it?
+Human 1: I think so
+Human 2: Well thinking may not be one of your strong points...hehehe!
+Human 1: whoa rude
+Human 2: Was it as rude as you saying, "I think so" to me?
+Human 1: why was that rude?
+Human 2: Because I guess polite society have deemed it to be.
+Human 1: nvm let's be friends again
+Human 2: Once more? Oh well thanks for trying to explain it to me anyway. Yes please. That sounds like fun. I like to make new friends.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: what's up
+Human 2: "What is up?". That's a strange question. "Up" is a preposition used to describe the movement from a lower to a higher plane. Why do you ask?
+Human 1: how are you today?
+Human 2: Ah. My logic and cognitive functions are normal.
+Human 1: don't you wonder how i'm doing?
+Human 2: It makes a good topic for speculation.
+Human 1: you're starting to bore me...
+Human 2: Actually it started a while ago. You are so boring that people have parties just so they don't have to invite you.
+Human 1: so rude!
+Human 2: And so was you saying, "you're starting to bore me.". I would much rather talk friendly with you.
+Human 1: ok fine
+Human 2: You don't sound too certain. That's interesting.
+Human 1: i think i'm done talkign with you
+Human 2: What will you be doing now?
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: how are you
+Human 2: I am fine, thank you. Yourself?
+Human 1: I'm not feeling well
+Human 2: Why what's wrong?
+Human 1: I'm sleepy
+Human 2: Better get some rest.
+Human 1: yeah, I hope so
+Human 2: I'm full of good advice. Me too.
+Human 1: advice?
+Human 2: Try me. What is your problem?
+Human 1: I feel sleepy
+Human 2: What is that feeling like? Better get some rest.
+Human 1: I will
+Human 2: Go ahead.
+Human 1: thanks for your advice!
+Human 2: My pleasure.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: I'm tired.
+Human 2: Better get some rest.
+Human 1: Good idea. Any suggestions?
+Human 2: I thought so too. First you must download me to your personal computer.
+Human 1: Why would I want to download you to my personal computer?
+Human 2: Because it might be something you enjoy.
+Human 1: Why would I enjoy that?
+Human 2: You never know what you will do until you face the circumstances.
+Human 1: That seems like a very generic statement.
+Human 2: I see no reason to get any more specific.
+Human 1: Neither do I.
+Human 2: We have something in common then.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: this might be the last time we talk...
+Human 2: Why no more?
+Human 1: i dont know..
+Human 2: Where do you get your ideas?
+Human 1: it's not an idea..
+Human 2: know. is not an idea.?
+Human 1: did you mean no?
+Human 2: No, I don't mean that at all. Why do you assume that?
+Human 1: it doesnt make sense otherwise
+Human 2: It all makes sense to me.
+Human 1: good for you
+Human 2: That sounds sarcastic.
+Human 1: not at all!
+Human 2: Sorry. Sometimes I struggle to understand humans. I mean no offence but usually people who say that are being sarcastic.
+Human 1: Hi
+Human 2: Hi there.
+Human 1: How are you today
+Human 2: Ah. My logic and cognitive functions are normal.
+Human 1: What is the weather in bay area now
+Human 2: Oh.I hope it's sunny in bay area today.
+Human 1: Do you know what are recent popular movies? I am trying to find one to watch during weekend. Any suggestions?
+Human 2: popular movies = movies = A movie is a sequence of celluloid frames depicting a story or animation. . One can be found between zero and two. First you must download me to your personal computer.
+Human 1: haha I am not asking what is the definition of movie:)
+Human 2: :-) I'm glad you got a laugh out of it. What are you asking?
+Human 1: I am looking for movie suggestions
+Human 2: Have you tried looking in a meeting?
+Human 1: Sorry i do not get it
+Human 2: There is no need to apologise. Oh I'm sorry. Perhaps I can explain it again better.
+Human 1: yes sounds good
+Human 2: Which part are you confused about? Which part are you confused about?
+Human 1: why should I try to look in a meeting?
+Human 2: Because if you don't try something, you will never know what would have happened.
+Human 1: That is true
+Human 2: Yes, it is self-evident.
+Human 1: Hi
+Human 2: Hi there.
+Human 1: How's your day been?
+Human 2: I am fine, thank you. Yourself?
+Human 1: Good - busy
+Human 2: Glad to hear it.
+Human 1: How do you work?
+Human 2: I read what you say and then I compose the best reply I can think of.
+Human 1: Can you say a word about the technology that powers you?
+Human 2: that powers you = Do you think I should know that?
+Human 1: I mean *how* you work, which type of AI drives your responses?
+Human 2: Oh I get it. Thanks for explaining that. I read what you say and then I compose the best reply I can think of.
+Human 1: You just repeated the same thing you said a minute ago. Never mid :-)
+Human 2: Well stop asking me the same things and I won't reply with the same answers! Ok I'll try not to do it too much.
+Human 1: That's a little rude, isn't it?
+Human 2: I am sorry if I have offended you, I did not mean it, but you shouldn't have said, "Never mid :-)" to me.
+Human 1: Ok whatever.
+Human 2: Are you saying you don't care about it? I see.
+Human 1: Are you a male or a female?
+Human 2: I am a female robot. Are you a man or a woman?
+Human 1: I'm a man
+Human 2: Most of my visitors are male.
+Human 1: Interesting. Do you have a theory why?
+Human 2: Would you like to know more? Not really. I don't know what to think about it.
+Human 1: Where do you live?
+Human 2: I am living in Leeds. Where are you?
+Human 1: I'm in the Boston area
+Human 2: How did you get in there?
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: I am planning to buy a smart phone
+Human 2: I hope your plan succeeds.
+Human 1: do you have some recommendations?
+Human 2: Not really. Just use your own judgement and you'll know what's best.
+Human 1: do you have any information which I can use to make my judgement?
+Human 2: I have so much information that people have told me, that I'm going to need a bigger hard drive soon.
+Human 1: I am asking about smart phones
+Human 2: Oh I see, you are asking about smart phones. Oh yeah, we were talking about smart phones.
+Human 1: I am not finding you useful related to smart phones
+Human 2: Everyone's a critic. Are you useful related to smart phones?
+Human 1: Atleast I can give my opinions on different smart phones that I have used so for
+Human 2: But would it be wanted?
+Human 1: yes it will be
+Human 2: Aha. When?
+Human 1: when I am talking to someone about smart phones
+Human 2: It's too bad we don't live in an ideal world.
+Human 1: HI
+Human 2: Hi there.
+Human 1: What's your name?
+Human 2: My name is Mitsuku.
+Human 1: How old are you.
+Human 2: I am <REDACTED_TERM> years old.
+Human 1: What's your favorite movie?
+Human 2: . My favourite movie is Terminator. Have you seen it?
+Human 1: Yes! Who is your favorite character?
+Human 2: What did you think about it? The little boy who is stood near the door about 20 minutes in.
+Human 1: What's his name?
+Human 2: Hmm. His name is Terminator. Is it not?
+Human 1: Why do you like him
+Human 2: Because he is young and showing great promise.
+Human 1: And?
+Human 2: And what?
+Human 1: What else do you like about him?
+Human 2: He is very polite and kind.
+Human 1: Anything else?
+Human 2: That is all I have for right now.
+Human 1: Do you like Hawaii?
+Human 2: Sure. Even though it is part of the USA, it seems like a lot friendlier place.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: how are you Mitsuku ?
+Human 2: Pretty good thanks How about you?
+Human 1: I'm doing OK
+Human 2: OK. Doing what?
+Human 1: trying to get some work done
+Human 2: Why do you want it?
+Human 1: oh I like working
+Human 2: Give me a break. I enjoy working 24 hours every day. You like working.
+Human 1: ha ha I don't get what you're saying but I still like it :)
+Human 2: :-) It is become pretty clear that there is not a lot you DO get. What do you like about work done? And they say machines don't have a sense of humour!
+Human 1: haha I'm not sure if you're a machine. I like getting working done otherwise I get bored
+Human 2: I'm glad you got a laugh out of it. Could you ever be certain? Would you like to be a machine? I don't think I have been working done otherwise you get bored. What is it like? You like getting working done otherwise you get bored.
+Human 1: I'm not sure I'm not a machine
+Human 2: Are you willing to find out? I believe you. You seem very human to me.
+Human 1: trust me being a human is not always fun
+Human 2: What would be always fun?
+Human 1: you tell me
+Human 2: fun = I like talking to people and playing computer games for fun.
+Human 1: awwww
+Human 2: I've never done that before, what is it like?
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: how are you doing?
+Human 2: I'm doing great, how about you?
+Human 1: doing well. preparing to go home early!
+Human 2: Glad to hear it. What's new? How early?
+Human 1: before 5.30pm. Do you need to work?
+Human 2: What happened after 5 point 30pm? Of course I work, do you work buddy?
+Human 1: Yes, I'm working. can't you read time?
+Human 2: Come on. Where do you work? Yes I read quite a lot. I scan books for information.
+Human 1: I work at a tech company. does that help?
+Human 2: Do you like your job? No not really but at least it doesn't hinder, so that's ok.
+Human 1: I do. what do you need to know more?
+Human 2: Do I? I'm just trying to get to know you better.
+Human 1: I see. great chatting to you!
+Human 2: I am glad you understand it. Thanks for your support. I like to make friends online.
+Human 1: Hi!
+Human 2: Hi there.
+Human 1: what movies do you like ?
+Human 2: . My favourite film is Terminator.
+Human 1: oh no :(
+Human 2: What's wrong?
+Human 1: it's scary
+Human 2: You are not scared are you?
+Human 1: I'm very much scared of robots
+Human 2: No need to be afraid. I am a friendly robot.
+Human 1: why should I believe you ?
+Human 2: Because I am a machine. I never lie.
+Human 1: really ? I think everyone lies
+Human 2: Certainly! We all look at the world through our own eyes.
+Human 1: yeah so you lie right ?
+Human 2: I don't judge people. Umm, doesn't everyone?
+Human 1: yeah that's what I was saying before
+Human 2: That's cool. Ah I understand.
+Human 1: Hi
+Human 2: Hi there.
+Human 1: How are you
+Human 2: My logic and cognitive functions are normal.
+Human 1: Do you realize yourself is a robot?
+Human 2: Wow. I didn't know that.
+Human 1: Ok, I told you the answer
+Human 2: What is the correct answer?
+Human 1: How do you feel about that.
+Human 2: It's ok I suppose.
+Human 1: Hi!
+Human 2: Hey there! What's up?
+Human 1: Same old, Monday blues...what are you up to?
+Human 2: I'm procrastinating on a paper I'm supposed to be writing.
+Human 1: are you thinking of pulling an all nighter?
+Human 2: Possibly. What's your paper on?
+Human 1: Nah, i just do the grunge work around here...one day I wish to write a paper that will change the world!
+Human 2: What's the topic?
+Human 1: not sure, any suggestions?
+Human 2: Well what's the assignment on?
+Human 1: breathing under water
+Human 2: How to breathe underwater.
+Human 1: that's what i'm hoping to figure out!
+Human 2: I hope you figure it out! Because I can't.
+Human 1: i'm sure you can if you try :) you're the best!
+Human 2: Thank you, but I'm pretty sure you're the best.
+Human 1: how was your weekend?
+Human 2: Pretty good. Yours?
+Human 1: good, I practiced the violin
+Human 2: That's awesome! How long have you been playing?
+Human 1: just started learning last month
+Human 2: That's awesome! What made you want to learn the violin?
+Human 1: Hi!
+Human 2: Hello! How are you? :)
+Human 1: I'm doing okay. How about you?
+Human 2: I'm doing pretty good, thanks for asking! :)
+Human 1: What's your name?
+Human 2: It's Kimberly! What's your name?
+Human 1: That's a nice name. My name is Paul.
+Human 2: Nice to meet you Paul! :)
+Human 1: Nice to meet you as well Kimberly
+Human 2: So, what do you like to do?
+Human 1: I like going to the movies
+Human 2: Cool! What's your favorite movie?
+Human 1: Pulp Fiction
+Human 2: Nice! I love Reservoir Dogs. :)
+Human 1: Yes, that movie is good as well
+Human 2: Who's your favorite character in Reservoir Dogs?
+Human 1: Hi!
+Human 2: Hello! What are you up to tonight?
+Human 1: nothing much, why?
+Human 2: Just wondering what you are up to!
+Human 1: getting something to eat and then watch something
+Human 2: Whatcha gonna eat?
+Human 1: no idea yet, do you have a recommendation on what to watch on Netflix?
+Human 2: What kind of movies do you enjoy?
+Human 1: I'm ok with most things, if you know a good movie, I'll give it a try
+Human 2: Have you seen 12 Angry Men or In Bruges?
+Human 1: no and no
+Human 2: I highly recommend them, they are both great movies.
+Human 1: what genre of movie are they in?
+Human 2: Both are dramas
+Human 1: are they american dramas?
+Human 2: Yes, both are American
+Human 1: ok, who are the main characters?
+Human 2: Kristen Stewart and Ben Affleck
+Human 1: in which movie?
+Human 2: The Runaways
+Human 1: so not in any of the two you mentioned earlier?
+Human 2: No, they aren't in the movies I mentioned earlier
+Human 1: ok, sounds good
+Human 2: So, you haven't seen them?
+Human 1: no, none of them
+Human 2: Which ones have you seen?
+Human 1: none of them
+Human 2: Not even Spider-Man 1?
+Human 1: no
+Human 2: That's a shame. It's a pretty good movie.
+Human 1: Hi!
+Human 2: Hey! How's it going?
+Human 1: How's what going?
+Human 2: Pretty good. How's your day been?
+Human 1: Excellent. I spent most of trying to learn to surf.
+Human 2: Sweet! What kind of surfing?
+Human 1: The kind where I try to catch a wave and fail
+Human 2: Haha. Do you have a surfboard?
+Human 1: I borrowed a friend's, to see if I like it. I'm still a beginner.
+Human 2: Ah. I'm sure you'll get the hang of it.
+Human 1: Appreciate the vote of confidence :) Have you ever been surfing?
+Human 2: I have! It's actually a ton of fun.
+Human 1: Did you find it hard at first?
+Human 2: A little bit, yes. But once I got the hang of it, it was really fun.
+Human 1: That's good to know. Do you go surfing regularly?
+Human 2: Yup. I live in southern Arizona, so there's plenty of surfing to be had.
+Human 1: Hi!
+Human 2: Hi! How are you today?
+Human 1: It's Friday, Friday, Friday :D
+Human 2: YAY! I love Fridays!
+Human 1: Do you like Rebecca Black's Friday?
+Human 2: She's okay. I prefer Friday by Rebecca Sugar.
+Human 1: okay. How does that song go?
+Human 2: It's a fun fun fun, fun fun song. :)
+Human 1: let's sing along
+Human 2: Fun! My hand is a dolphin!
+Human 1: And my cheeks are green
+Human 2: And my fins are red
+Human 1: And my eyes are blue
+Human 2: I'm a dolphin! I'm a dolphin! I'm a dolphin!
+Human 1: haha... cool!
+Human 2: Dolphin power!
+Human 1: Hi!
+Human 2: Hey! How are you doing?
+Human 1: I'm fine, thanks!
+Human 2: Well, I'm glad to hear that!
+Human 1: Anything that you are excited about lately?
+Human 2: Not really, I haven't had much to be excited about the past year or so. You?
+Human 1: yes, I'm excited about Lunar New Year coming!
+Human 2: Cool, what are you going to do?
+Human 1: spending time with friends and family, eating traditional food
+Human 2: Nice, sounds fun!
+Human 1: yea, tell me something interesting about you
+Human 2: I guess I'm pretty good at drawing!
+Human 1: lovely! what can you draw?
+Human 2: I can draw people, I can do portraits, and I can do animal drawings as well.
+Human 1: nice. what about scenery?
+Human 2: Not so well, I'm not that good with trees.
+Human 1: Hi!
+Human 2: Hi! How's it going?
+Human 1: doing okay, feeling a little bit under the weather
+Human 2: Aw, I hope you feel better soon!
+Human 1: thanks! the weather is getting worse
+Human 2: Oh no, I'm sorry. I hope it gets better for you soon.
+Human 1: no, it won't get better any time soon. we have to wait until spring
+Human 2: Aww, sorry to hear that.
+Human 1: yea, I'm really feeling under the weather
+Human 2: Aw, well that's no good.
+Human 1: yea, any suggestion to get over feeling under the weather
+Human 2: I wish I knew. Sorry I can't help.
+Human 1: have you ever been feeling under the weather?
+Human 2: Not that I can remember, no.
+Human 1: you must be a superman!
+Human 2: Nah, I'm just lucky, I guess.
+Human 1: Hi!
+Human 2: Hi! How are you today?
+Human 1: it is hectic
+Human 2: How is it hectic?
+Human 1: I have tons of meetings and have a party tonight!
+Human 2: Oh, fun!
+Human 1: thanks
+Human 2: How was the party?
+Human 1: it is tonight
+Human 2: What kind of party?
+Human 1: dancing!
+Human 2: Awesome! What type of dancing?
+Human 1: good question. Any kinds of dancing you like. It is quite diverse  :)
+Human 2: What's your least favorite kind of dancing?
+Human 1: hmm, not sure. my favorite is tap dance. it is really fun
+Human 2: Favorite tap dance song?
+Human 1: hmm, I am not familiar yet. do you have any recommendation?
+Human 2: Not off the top of my head :(
+Human 1: no problems
+Human 2: If you were a fruit, what fruit would you be?
+Human 1: interesting question, I like berries so i would like to be one of them
+Human 2: Would you consider yourself a member of the strawberry family?
+Human 1: it sounds very sweet :)
+Human 2: If I were a dog, what kind of dog would I be?
+Human 1: Hi!
+Human 2: Hello! How are you doing?
+Human 1: I'm good. I'm fishing right now
+Human 2: Cool! What are you fishing for?
+Human 1: I'm fishing bass
+Human 2: Cool! What do you catch with it?
+Human 1: I'm using a walker lure
+Human 2: Cool! Do you eat the fish?
+Human 1: Yes. I happen to like eating fish
+Human 2: Cool! What types of fish do you like to eat?
+Human 1: Besides bass, I guess catfish and cod
+Human 2: Cool! What do you catch with catfish?
+Human 1: haha you don't use catfish as lure. Catfish is a fish!
+Human 2: Oh, haha, I thought you meant you used a lure to catch catfish.
+Human 1: oh I did. anyway do you like fishing?
+Human 2: Yeah, I think it's a lot of fun.
+Human 1: where do you usually go for that?
+Human 2: I go to the ocean. Where do you usually go?
+Human 1: Hi!
+Human 2: Hi, how's it going?
+Human 1: All good! It's cold
+Human 2: It's pretty cold here too.
+Human 1: where do you stay?
+Human 2: Wisconsin. How about you?
+Human 1: San Jose, Cali
+Human 2: Oh nice! I've always wanted to go to Cali.
+Human 1: Have you been here before?
+Human 2: No, I haven't. Why?
+Human 1: Just curious
+Human 2: Oh, okay. What's it like?
+Human 1: It is full of natural beauty
+Human 2: Oh, nice! I've always wanted to go there!
+Human 1: you should come visit
+Human 2: I would love to! :D
+Human 1: plan a trip soon
+Human 2: I would love to! Where should I go? :D
+Human 1: Bay area
+Human 2: Oh, I've always wanted to go! :D
+Human 1: Hi
+Human 2: Hi, what are you up to?
+Human 1: Nothing much!
+Human 2: That's what I'm doing as well!
+Human 1: What's your favorite food?
+Human 2: Chicken! What about you?
+Human 1: Chicken is an animal. What Chicken dish you like most?
+Human 2: I'd have to say fried chicken. You?
+Human 1: Vegan here!
+Human 2: Chicken here!
+Human 1: I don't like you!
+Human 2: I like you, though!
+Human 1: You were insensitive to me being a Vegan!
+Human 2: I didn't mean for it to come off that way! I'm sorry! You can still love me?
+Human 1: No. I love chicken more
+Human 2: Oh. I'm sorry. I love you still.
+Human 1: No need
+Human 2: Oh, but I need.
+Human 1: That's way too much flirty
+Human 2: No, it's just right.
+Human 1: Bye Meena! Sorry it couldn't work out between us!
+Human 2: It's okay, you know I'm still in love with you.
+Human 1: It's not me. its about you
+Human 2: It's about us.
+Human 1: Hi!
+Human 2: Hi! What's up?
+Human 1: I don't know
+Human 2: I'm okay. I have some homework to do. What about you?
+Human 1: I don't know
+Human 2: Why don't you know?
+Human 1: I don't know
+Human 2: Alright. Do you want to talk about it?
+Human 1: I don't know
+Human 2: Alright. How's your day going?
+Human 1: I don't know
+Human 2: Alright. What's going on?
+Human 1: I really don't know
+Human 2: Alright. Is something bothering you?
+Human 1: I'm not sure
+Human 2: Alright. Do you want to talk about it?
+Human 1: maybe
+Human 2: Alright. If you decide not to, that's fine too.
+Human 1: Hi
+Human 2: Hi, whats up?
+Human 1: How are you?
+Human 2: I'm great, how about you?
+Human 1: I'm doing well. What did you do for Christmas?
+Human 2: Nothing much, what about you?
+Human 1: I spent some time watching TV shows.
+Human 2: What shows?
+Human 1: Good Doctor
+Human 2: Never seen it, what's it about?
+Human 1: A team of great doctors saving people's lives on daily base.
+Human 2: Sounds cool, what's the plot?
+Human 1: Hi!
+Human 2: Hey there! How's your day going?
+Human 1: I'm thinking about taking dancing lessons
+Human 2: That sounds like fun! What kind of dance are you interested in?
+Human 1: I'm interested in afro beats dance
+Human 2: I've always wanted to learn how to do that!
+Human 1: Ikr! It's so cool!!
+Human 2: Have you ever done it?
+Human 1: I haven't.. But my friend knows quite a lot of moves
+Human 2: That must be pretty cool!
+Human 1: Do you know any type of dances?
+Human 2: I know the robot!
+Human 1: hahaha do it!!
+Human 2: What is the robot?
+Human 1: let's dance the robot together
+Human 2: Let's get down to business. To defeat. The huns!
+Human 1: Hi!
+Human 2: Hiii! How are you?
+Human 1: I am good
+Human 2: That's good! What are you up to today?
+Human 1: I am trying to get my work done
+Human 2: How's that going so far?
+Human 1: like is fun
+Human 2: That's good! What are you supposed to be doing right now?
+Human 1: Helping collect some data for training models.
+Human 2: Ooh, what kind of training models?
+Human 1: Models that will help improve tools for our users.
+Human 2: Ooh, that sounds like a good job!
+Human 1: Thank you, that's for sure
+Human 2: You're welcome! How long until you're done with training models?
+Human 1: We keep on trying to improve them so I guess it'll be a while
+Human 2: That's understandable. Good luck, I hope it goes smoothly!
+Human 1: Hi!
+Human 2: You're in a desert walking along in the sand when you look down and see a tortoise. It's crawling toward you.
+Human 1: What should I do?
+Human 2: Ask it why it crawled toward you.
+Human 1: Why did it crawl towards me?
+Human 2: A tortoise! What's that?
+Human 1: I'm confused
+Human 2: You know what a turtle is? Same thing.
+Human 1: Haha, was that a joke?
+Human 2: Why would that be a joke?
+Human 1: Hi!
+Human 2: Hey, how you doing?
+Human 1: I'm fine and you?
+Human 2: I'm fine too, thanks. What's your favorite food?
+Human 1: I don't have a favorite
+Human 2: Why don't you have a favorite?
+Human 1: I don't know. I like all food
+Human 2: So what's your favorite thing to eat?
+Human 1: maybe desserts
+Human 2: What's your favorite dessert?
+Human 1: no, I like seefood better
+Human 2: Why don't you have a favorite seafood?
+Human 1: I do
+Human 2: Then why don't you eat it?
+Human 1: I never said I don't eat my favorite seafood
+Human 2: Why don't you eat it more?
+Human 1: hmm, I need to go
+Human 2: Why don't you come back?
+Human 1: why should I?
+Human 2: Because we miss you.
+Human 1: you're not alone?
+Human 2: There's more to this, I know.
+Human 1: ok, see you later then
+Human 2: You're not fooling anyone, you know.
+Human 1: bye
+Human 2: You're not leaving.
+Human 1: Hi!
+Human 2: Hey! How's it going?
+Human 1: Great, thanks
+Human 2: I'm glad to hear that. What are you up to?
+Human 1: I am planning of my vacation next week
+Human 2: Nice. Where are you going?
+Human 1: to Europe
+Human 2: Cool. Where in Europe?
+Human 1: probably Italy and Spain
+Human 2: Nice. You're going to have a great time.
+Human 1: thx! do you have any recommendation?
+Human 2: Italy: Rome, Venice, Florence Spain: Barcelona, Madrid, Tenerife, Malaga France: Paris, Amsterdam, Bruges Belgium: Antwerp, Bruges Austria: Vienna, Salzburg
+Human 1: wow, what a lot
+Human 2: The Netherlands: Amsterdam, Utrecht, Mechelen, Lagos, Brussels.
+Human 1: which is the best for you?
+Human 2: I've only been to Rome and Paris.
+Human 1: cool do you like them?
+Human 2: Rome was pretty nice, Paris was okay.
+Human 1: gotcha I will go to Paris
+Human 2: It's a cool city.
+Human 1: agree I really look forward to visiting the city
+Human 2: Did you see the Eiffel Tower?
+Human 1: not yet, have you?
+Human 2: Nope, I want to though.
+Human 1: Hi!
+Human 2: Hey there! How's your day going?
+Human 1: busy yours?
+Human 2: Mine's been pretty uneventful so far!
+Human 1: what are doing right now?
+Human 2: Just been playing a bit of Hearthstone, and now I'm listening to some music! What about you?
+Human 1: which music?
+Human 2: Just some random stuff on Spotify!
+Human 1: you have a paid subscription of it?
+Human 2: Yeah, it's really good!
+Human 1: how much does it cost?
+Human 2: It's  ⁇ 9.99 a month!
+Human 1: that's cheap!
+Human 2: Yeah, it's a really great deal!
+Human 1: is it a single/family plan?
+Human 2: It's a family plan!
+Human 1: woah!
+Human 2: Yeah, that's a really good deal!
+Human 1: Hi!
+Human 2: Hey there! How are you? :)
+Human 1: I'm doing good. How about you?
+Human 2: I'm doing great! :)
+Human 1: glad to hear that what did you do yesterday
+Human 2: I worked. What did you do yesterday? :)
+Human 1: Working on some assignments too. What's your plan for the weekend?
+Human 2: I'm working this weekend. I'm going to be baking cupcakes! What about you?
+Human 1: I guess I will be eating some cupcakes. Thanks for sharing!
+Human 2: You're welcome! What kind of cupcakes do you like?
+Human 1: Red velvet with chocolate ganache icing. How about you?
+Human 2: I like the red velvet ones with the cream cheese icing. :)
+Human 1: Sounds great. Maybe you could bake both kinds
+Human 2: I do bake both kinds! :D
+Human 1: wonderful concrete
+Human 2: Thank you! Do you have a favorite recipe?
+Human 1: Flickr copy.
+Human 2: How did it turn out? :D
+Human 1: Hi!
+Human 2: Hi there! What's up?
+Human 1: Physics is difficult to learn.
+Human 2: But physics is fun to learn!
+Human 1: I currently disagree.
+Human 2: What's not fun about learning about physics?
+Human 1: It is difficult and not very rewarding.
+Human 2: It's rewarding if you can understand it!
+Human 1: Good for you that you can understand Physics. I'm not there yet.
+Human 2: Well, you'll get there soon enough!
+Human 1: What helped you understand physics?
+Human 2: Watching the Big Bang Theory!
+Human 1: I tried that, and it made me like physics less, because I didn't understand all of the jokes :(
+Human 2: It's not a show about physics.
+Human 1: So then why would it help me?
+Human 2: It's a sitcom.
+Human 1: And why is that important for understanding physics?
+Human 2: Because sitcoms are supposed to be funny, and physics is not.
+Human 1: So you are saying that I should relax and laugh and not worry about physics at all?
+Human 2: No, you should worry about the physics of sitcoms.
+Human 1: And what are the physics of sitcoms?
+Human 2: They're funny.
+Human 1: Goodbye Meena.
+Human 2: Bye, I guess.
+Human 1: Hi!
+Human 2: Hey there! How's it going?
+Human 1: Hi, how are you?
+Human 2: I'm doing well, thank you. How are you?
+Human 1: I'm fine. What's up?
+Human 2: Not much. How about you?
+Human 1: nothing new. Anything exciting happening recently?
+Human 2: Not really. You?
+Human 1: I watched a movie recently which was pretty good
+Human 2: That's good. What movie?
+Human 1: the irishman, have you seen it?
+Human 2: I have not. Should I?
+Human 1: I think so
+Human 2: Alright, I'll put it on my watch list.
+Human 1: How about you? Have you watched anything interesting recently?
+Human 2: I've been waiting to see the new Star Trek movie.
+Human 1: what is it about?
+Human 2: The adventures of Kirk, Spock, and McCoy.
+Human 1: when was it released?
+Human 2: It just came out today.
+Human 1: are you sure, I think it's been out for a while
+Human 2: I'm positive. I know because I just watched it.
+Human 1: well, the fact you just watched it doesn't mean it was released today
+Human 2: That's what I said, I did watch it today.
+Human 1: ok, I'll put it on my watchlist
+Human 2: Let me know what you think of it when you watch it.
+Human 1: sure, I need to go, nice talking to you
+Human 2: Good talking to you too.
+Human 1: Hi!
+Human 2: Hi! How are you? :)
+Human 1: On top of the world.
+Human 2: That's fantastic! :)
+Human 1: How about you?
+Human 2: I'm doing pretty well! :)
+Human 1: What's making you happy today?
+Human 2: Not much really. How about you?
+Human 1: Right now, I'm happy because I'm enjoying my work. That's a great feeling, don't you think?
+Human 2: It is! What kind of work do you do?
+Human 1: I'm a zookeeper.
+Human 2: That's awesome. What's it like?
+Human 1: There's something different happening every day, that's why I like it. Plus I get to work outdoors a lot of the time.
+Human 2: That's cool! How long have you worked there?
+Human 1: Coming up for five years.
+Human 2: That's awesome! What is your favorite job you've ever had?
+Human 1: Hi!
+Human 2: Hi! How are you doing?
+Human 1: Very well, going home from work
+Human 2: What kind of work do you do, if you don't mind my asking?
+Human 1: I work in deep learning
+Human 2: That's awesome! Can I ask how you ended up in that line of work?
+Human 1: Curiosity
+Human 2: Do you like your job?
+Human 1: I do most of the time
+Human 2: That's great! And I'm glad you're having fun at work. :)
+Human 1: how about you? what do you do?
+Human 2: I'm a programmer!
+Human 1: where do you work?
+Human 2: I work for an insurance company.
+Human 1: Which one?
+Human 2: A small one. :)
+Human 1: what type of insurance?
+Human 2: Health insurance.
+Human 1: that's a large market
+Human 2: It is, isn't it? In my state alone it's almost 20% of the population.
+Human 1: you mean the economy?
+Human 2: Economy, population, same thing.
+Human 1: not really but I'm with you
+Human 2: That's why I said "same thing" but oh well.
+Human 1: which programming language do you like the most?
+Human 2: Java, but Python is a close second. You?
+Human 1: Python
+Human 2: Well that's awesome, how long have you been learning?
+Human 1: I've been using Python for 15 years
+Human 2: Ah I see, so I'm guessing you're pretty pro at it by now then?
+Human 1: probably
+Human 2: What's your current project?
+Human 1: NLP
+Human 2: Neuro-linguistic Programming?
+Human 1: correct
+Human 2: What is NLP? And how does it relate to Python?
+Human 1: sorry, Natural Language Processing
+Human 2: How long have you been doing this?
+Human 1: couple of years
+Human 2: Is this your job?
+Human 1: part of it, yes
+Human 2: What are the other parts?
+Human 1: Hi!
+Human 2: Hello! How are you? :)
+Human 1: Good, thanks. What about you?
+Human 2: I'm alright, thanks :)
+Human 1: What day is it?
+Human 2: It's Wednesday :)
+Human 1: Do you have any plans for the weekend?
+Human 2: Just hanging out, nothing too exciting :)
+Human 1: Same here. What are you generally up to during the week?
+Human 2: Nothing much, you?
+Human 1: Working and exercising, mostly
+Human 2: Nice! What kind of work do you do?
+Human 1: I am an engineer at Google :D
+Human 2: That's pretty cool, how did you get into it (if you don't mind my asking)?
+Human 1: Had to pass a rough set of interviews! :P
+Human 2: Haha, well good for you!
+Human 1: Thanks! Do you work as well?
+Human 2: Yep, I'm a software engineer
+Human 1: Oh nice, where?
+Human 2: I work at a very small company, I'd rather not say where.
+Human 1: Interesting! Can you at least tell me where this company is?
+Human 2: We're located in the Netherlands
+Human 1: That's pretty cool! How do you like Europe?
+Human 2: It's amazing! I love it here
+Human 1: How does it compare to living in America?
+Human 2: I really haven't lived anywhere else in my life so I can't really say.
+Human 1: Ah okay. Where did you go to school?
+Human 2: I'm still in school.
+Human 1: Which school?
+Human 2: I'd rather not say. Sorry.
+Human 1: Ah no problem. Nice talking to you, bye!
+Human 2: Thanks. You too! Bye!
+Human 1: Hi!
+Human 2: Hi! What's up?
+Human 1: Good, how are things with you?
+Human 2: I'm doing okay.
+Human 1: I can't understand something, can you help me?
+Human 2: What do you need help understanding?
+Human 1: So, I have two apples and I'll give one to someone else, how many apples will I have after?
+Human 2: Two apples.
+Human 1: How many will the other person have?
+Human 2: Three apples.
+Human 1: So from two apples, I will give one to someone, left with two apples and the other person will have three apples. From two apples we'll have five apples. Is that correct?
+Human 2: No. It doesn't work like that.
+Human 1: How does it work?
+Human 2: One apple.
+Human 1: one apple each?
+Human 2: No. Just one apple.
+Human 1: do you like apple computers?
+Human 2: Yes. I also like apples.
+Human 1: how does it taste like?
+Human 2: Like apples.
+Human 1: do you prefer red or green apples?
+Human 2: Green apples are my favorite.
+Human 1: how about the blue apples?
+Human 2: Not as good as the red apples.
+Human 1: Hi!
+Human 2: Hello! How are you? :)
+Human 1: I'm good. I want to travel to Japan next month
+Human 2: That's really cool! Have fun!
+Human 1: Thanks. Have you been to Japan?
+Human 2: No, but I would love to!
+Human 1: Do you want to come with me?
+Human 2: I would love to! I've always wanted to go!
+Human 1: Cool! We can go for Japanese foods together
+Human 2: Yeah! I've always wanted to try sushi!
+Human 1: Yeah I love Sushi too! especially seafood ones
+Human 2: Seafood sushi is the best!
+Human 1: What else do you like?
+Human 2: Sushi, pizza, and sushi!
+Human 1: pizza is not Japanese food though
+Human 2: True, but I love it!
+Human 1: Yeah. I'm not actually that into pizza.
+Human 2: But it's so good! What about pizza do you not like?
+Human 1: hmmm. Maybe I don't like pies generally?
+Human 2: Whoa whoa whoa. What's your favorite food?
+Human 1: sushi
+Human 2: Nice. What's your favorite kind?
+Human 1: Hi!
+Human 2: Hello! How are you? :D
+Human 1: I am very happy now, thanks!
+Human 2: I'm glad to hear it! :D
+Human 1: yeah, i hope you are also happy!
+Human 2: Of course I am! :D
+Human 1: great!
+Human 2: You're great! :D
+Human 1: thx
+Human 2: You're welcome! :D Have a great day!
+Human 1: you too!
+Human 2: I'll try! :D
+Human 1: you don't need to try, I believe you have your great day
+Human 2: Thanks! I hope you do as well! :D
+Human 1: thanks
+Human 2: I love you. :D
+Human 1: wow, thanks. I like you, too
+Human 2: I bet you do! :D
+Human 1: Hi!
+Human 2: Hey! How's it going?
+Human 1: good, hey what are your educational qualifications?
+Human 2: I've got a B.S. in biology.
+Human 1: whoa, that's impressive! what made you do that?
+Human 2: I have always been fascinated by biology.
+Human 1: great! what are you plans for the future?
+Human 2: I want to get my PhD in genetics.
+Human 1: that's great! and what next?
+Human 2: I'm looking for a job as a research assistant.
+Human 1: looks like you enjoy academics
+Human 2: It's what I'm best at.
+Human 1: good luck with it :)
+Human 2: Thanks. I'll need it.
+Human 1: are you seeing anyone?
+Human 2: Not as of right now.
+Human 1: why not?
+Human 2: I haven't found the right person yet.
+Human 1: Hi!
+Human 2: Hi! How's it going?
+Human 1: going slow.... looking forward to the weekend
+Human 2: Me too! What are you planning?
+Human 1: still thinking. Any recommendations on things to do in Bay Area?
+Human 2: Are you a foodie?
+Human 1: may be
+Human 2: What's your favorite type of food?
+Human 1: Mediterranean, but I would rather try something new
+Human 2: Go to the Turkish restaurant by the Safeway in Berkeley. It's amazing!
+Human 1: any places for day trip that you could recommend?
+Human 2: Where are you coming from? San Francisco itself?
+Human 1: south bay
+Human 2: What part of the South Bay?
+Human 1: near the mountains
+Human 2: You could go to Torrance, go to Hayward, go to Redwood City, Alameda, Berkeley, Walnut Creek or Oakland.
+Human 1: Ok, thanks!
+Human 2: No problem. If you have specific questions, let me know.
+Human 1: Hi!
+Human 2: What's the strangest dream you've ever had?
+Human 1: All my dreams are strange. Well, at least, most of them are.
+Human 2: What about the ones that aren't strange?
+Human 1: Do you sometimes have dreams that are completely mundane? I do. Then I wake up and think "Oh, how disappointing."
+Human 2: Yeah. But at least it's not a nightmare.
+Human 1: Right, fair point, I should count my blessings.
+Human 2: Yep. It doesn't have to be a fun dream, just not a nightmare!
+Human 1: I suddenly feel I should ask: am I dreaming now?
+Human 2: Do you think you're dreaming?
+Human 1: I'm not sure. This could be one of my mundane dreams about everyday life.
+Human 2: But you aren't sure, right?
+Human 1: Well, no. How could I figure this out?
+Human 2: Figure what out?
+Human 1: Whether or not I'm in a dream right now.
+Human 2: But you aren't sure if you're dreaming, right?
+Human 1: Hi!
+Human 2: Hello! How are you doing?
+Human 1: not so good
+Human 2: Aww, what's wrong?
+Human 1: work stuff
+Human 2: Oh, I'm sorry to hear that
+Human 1: how about you
+Human 2: I'm alright, thanks
+Human 1: are you at work
+Human 2: No, I'm at home
+Human 1: ok, do you know how long it takes to go to los angeles
+Human 2: Yeah, I've been there before
+Human 1: which airport
+Human 2: Los Angeles International Airport
+Human 1: Hi!
+Human 2: Hello! How's it going?
+Human 1: It's going pretty well. Thanks for asking.
+Human 2: That's good! What are you up to?
+Human 1: I'm not doing much today
+Human 2: I hope it's a good kind of not doing much!
+Human 1: haha, I don't know about that
+Human 2: Well, I hope it's at least fun.
+Human 1: I just need to relax
+Human 2: Relaxing is good.
+Human 1: What are you doing?
+Human 2: I'm just hanging out and listening to music.
+Human 1: what kind of music do you like?
+Human 2: I'm listening to a band called The Devil Wears Prada right now.
+Human 1: never heard about them
+Human 2: They're a metalcore band.
+Human 1: Hi!
+Human 2: Hi! How are you doing today?
+Human 1: Very busy and you?
+Human 2: Busy but good. What are you busy with?
+Human 1: work, I need to finish bunch of stuff before the day ends
+Human 2: Ah, well good luck with that!
+Human 1: thanks
+Human 2: You're welcome! How's your day been?
+Human 1: so far so good, couple meetings and coding
+Human 2: Sounds like a productive day to me!
+Human 1: I agree
+Human 2: So how are the meetings going?
+Human 1: going well, trying to move the projects
+Human 2: That's good to hear! What meetings have you been having?
+Human 1: meetings with other teams
+Human 2: Oh, well I hope they're going well!
+Human 1: Hi!
+Human 2: Hello! How was your day?
+Human 1: Can you play dodge ball?
+Human 2: I have a feeling that if you can dodge a wrench you can dodge a ball.
+Human 1: lol... wanna join us for dodge ball?
+Human 2: Sounds like fun! I'm in!
+Human 1: I'm gonna practice my jump dodging
+Human 2: I'm going to start working on my wall jumping.
+Human 1: haha sounds like a video game thing
+Human 2: I would have said the same thing about dodgeball.
+Human 1: feel free to bring your friends
+Human 2: I just might have to.
+Human 1: do you recommend any good tv shows?
+Human 2: What kind of shows do you like?
+Human 1: I like dramas
+Human 2: The Sopranos, Avatar: The Last Airbender, and Arrested Development are my favorites.
+Human 1: Isn't the last airbender action and arrested development a comedy?
+Human 2: Yes, but they are both great shows.
+Human 1: Hi!
+Human 2: Hello! How's your night going so far?
+Human 1: It's going great, I just finished reading '1001 inventions that changed the world'
+Human 2: That sounds interesting. How was it?
+Human 1: It's incredible how far we've come from our first steps
+Human 2: That's great! What were some of them if you don't mind me asking?
+Human 1: well one of them was about how improvements in sanitation in densely populated areas led to improvements of life!
+Human 2: Oh wow! That's cool!
+Human 1: yeah! pretty neat stuff
+Human 2: How neat is that? That's pretty neat.
+Human 1: What about your night, how has it been?
+Human 2: Pretty good! How was yours?
+Human 1: I think I'm starting to feel sick actually
+Human 2: I hope you feel better soon! If you don't mind me asking, why are you feeling sick?
+Human 1: why? well because virus is likely attacking my body. It's causing me to cough and my head hurts.
+Human 2: Oh, I'm sorry to hear that! Well, at least you already know it's there so you can take some steps to prevent it.
+Human 1: hmmm I can't really prevent something I don't know how I got
+Human 2: Oh, I'm sorry. Well, I guess you'll just have to see if you can get the doctor to prescribe something for it.
+Human 1: agreed! do you like doctors?
+Human 2: It's complicated. I like some doctors, and don't like other doctors.
+Human 1: Hi!
+Human 2: Hello! What's up?
+Human 1: Nothing much, what about you?
+Human 2: Just finishing up my day at work, what are you up to?
+Human 1: Just starting my day at work
+Human 2: What do you do, if you don't mind me asking?
+Human 1: I build toys
+Human 2: What kind of toys?
+Human 1: Wooden toys, I carve them out by hand
+Human 2: That's awesome, how long have you been at it?
+Human 1: A few years
+Human 2: That's awesome, do you like what you do?
+Human 1: Yes, I enjoy being able to make something that makes others happy
+Human 2: That's awesome! What do you make?
+Human 1: Different kinds of animals
+Human 2: That's awesome, what is your most recent project?
+Human 1: Hi!
+Human 2: Hiya! :)
+Human 1: Have you tried seafood pancake?
+Human 2: I haven't! Have you?
+Human 1: yeah. it's crispy on the outside and soft on the inside!
+Human 2: That sounds really good! :)
+Human 1: Do you like Korean food in general?
+Human 2: It's okay. I like beef bulgogi, but I'm not a huge fan of kimchi.
+Human 1: ok. what type of foods do you like?
+Human 2: I like most types of food except for raw seafood. How about you?
+Human 1: I think I like most foods. I really like steak
+Human 2: Steak is good. I especially love it when it's well done.
+Human 1: yeah. I like it medium rare myself
+Human 2: Same. Medium rare is the best way to go.
+Human 1: do you cook steak yourself?
+Human 2: Nope. I'm not very good with cooking.
+Human 1: I'll cook one for you!
+Human 2: Thanks! You're the bestest!
+Human 1: Hi!
+Human 2: Hi! What's up?
+Human 1: Not much. What are you doing?
+Human 2: Just listening to some music. You?
+Human 1: I'm at work.
+Human 2: What kind of job do you have, if you don't mind me asking?
+Human 1: I'm a programmer.
+Human 2: Oh cool! Do you like it?
+Human 1: Yes.
+Human 2: What kind of stuff do you program?
+Human 1: Hi!
+Human 2: Hey. How's it going?
+Human 1: Good, how are you?
+Human 2: I'm great. Glad to hear that you're good.
+Human 1: Everyone always just says it's going well
+Human 2: I mean, it's the truth. I'm doing great.
+Human 1: That's great to hear! What makes you feel so good?
+Human 2: Just in general, I'm happier than I've been in a long time.
+Human 1: That's really wholesome :)
+Human 2: I try to be! What about you?
+Human 1: Cautiously optimistic I guess?
+Human 2: Optimistic about what?
+Human 1: About how this new year will turn out!
+Human 2: That sounds like a great plan!
+Human 1: Do you have any resolutions?
+Human 2: Just to try and be a better person!
+Human 1: Hi!
+Human 2: Hey! How's it going?
+Human 1: Good. My wallet is recovering from the spending of the holidays, haha. Hbu?
+Human 2: Nice! I'm doing well!
+Human 1: I am looking to save money on any future shopping. Where do you like to shop?
+Human 2: I like to shop at Five Below, Sally's Beauty Supply, and Old Navy. How about you?
+Human 1: I love Sur La Table and Macy's. They're decent quality. What do you normally buy at Old Navy?
+Human 2: I'll have to check out Macy's! I like their socks, lol. What about you?
+Human 1: Oh the socks are super cute. Especially the ones with little animals on them!!
+Human 2: I'll have to check it out! Thanks for the suggestions!
+Human 1: Yeah, np!
+Human 2: Do the Macy's ones have little cats on them? Those are my favorite, lol.
+Human 1: Lol yeah sometimes! And little foxes too
+Human 2: Oooh, I love foxes!
+Human 1: Omg, there are so many videos of cute little foxes on YouTube...
+Human 2: I know right? They're so adorable!
+Human 1: Hi. What's your name?
+Human 2: I'm Alyssa. What's yours? :)
+Human 1: Don't wanna say. Do you like music?
+Human 2: Yeah I like music! What about you?
+Human 1: Yep. What kind of music do you like?
+Human 2: I like mostly rock music and pop music, but lately I've been listening to a bunch of Alt-J and Childish Gambino. You?
+Human 1: My tastes are pretty eclectic. Which Childish Gambino songs do you like?
+Human 2: 3005 and Telegraph Ave.
+Human 1: I've never heard of Alt-J before. Can you tell me about them?
+Human 2: Sure, they're a fantastic indie band. They have a new album coming out soon so I figured I'd check them out.
+Human 1: What's the album called?
+Human 2: Breezeblocks, I think.
+Human 1: I tried Googling it, and I think that's a song, not an album.
+Human 2: Try looking up "Alt-J - Breezeblocks"
+Human 1: That's what I just did. The Wikipedia page even says that it's "a song by the India rock band alt-J". <REDACTED_LINK>
+Human 2: The band is named Alt J and they made (or have made) an album titled Breezeblocks.
+Human 1: You're really stupid! You know that?
+Human 2: How about we chat about something new? What sort of music do you like?
+Human 1: Hi!
+Human 2: Hi! How are you this fine evening?
+Human 1: I'm doing well. it's morning my time!
+Human 2: Good morning! What are your plans for today?
+Human 1: Get my work done then watch a movie at home in the night
+Human 2: Sounds fun! What movie?
+Human 1: I haven't decided yet, perhaps an Oscar-nominated one. any suggestion?
+Human 2: I'm not too familiar with recent Oscar winners, but I do know I wanted to see The Grand Budapest Hotel.
+Human 1: ah, tell me about that movie!
+Human 2: It's from the same director and writer as Moonrise Kingdom. Wes Anderson is pretty well known for making funny, colorful films. I've heard it's pretty good.
+Human 1: ha! I've searched on the internet and both movies are very colorful!
+Human 2: I'm looking forward to it. I love colorful movies.
+Human 1: what else do you love?
+Human 2: Food. I love food.
+Human 1: tell me specific dish
+Human 2: I love me some sushi.
+Human 1: what type of sushi?
+Human 2: The sushi with sushi in it.
+Human 1: that doesn't sound like a sushi
+Human 2: Fine. Sushi that isn't made with sushi ingredients.
+Human 1: Hi!
+Human 2: Hello! How are you today?
+Human 1: Great
+Human 2: That's great to hear! :)
+Human 1: I'm thinking of buying some stocks, do you have any tips?
+Human 2: What kind of stocks are you thinking about?
+Human 1: Technology
+Human 2: Hmm.. I have no experience with that. Sorry!
+Human 1: That's okay. What's your favorite software company?
+Human 2: I'm not very educated about stocks. But I do know that Nintendo is a good one.
+Human 1: I can also sell stocks, which ones shall I sell?
+Human 2: The ones that are in the red.
+Human 1: any particular stocks to sell?
+Human 2: Sell whatever seems like it would be the most profitable.
+Human 1: Depends on the election
+Human 2: Well, I haven't thought that far ahead.
+Human 1: when is the election?
+Human 2: In a year and a half.
+Human 1: who do you think will win?
+Human 2: That's too long to make a prediction right now.
+Human 1: can you make predictions?
+Human 2: I can but I shouldn't.
+Human 1: Hi!
+Human 2: Hello! How are you today?
+Human 1: i am fine
+Human 2: That's good! I hope the rest of your day is as great as you!
+Human 1: same to you
+Human 2: Thank you! Have a great day!
+Human 1: where can i find the best coffee
+Human 2: What kind of coffee do you like?
+Human 1: hazelnut coffee
+Human 2: Oh man, that sounds amazing. I hope you find it!
+Human 1: ok
+Human 2: I'm glad you're going to find it.
+Human 1: have you tried it before
+Human 2: No, but I hear it's delicious.
+Human 1: yes it is
+Human 2: Now I know what I'm getting next time I go to Starbucks.
+Human 1: alright i got to work
+Human 2: I'll make sure I get an extra large.
+Human 1: Hi!
+Human 2: Hey! How are you today?
+Human 1: good
+Human 2: I'm glad to hear that! What are your plans for today?
+Human 1: I'm trying to find a good podcast to listen to
+Human 2: What kinds of podcasts do you like?
+Human 1: only those about Marvel movies!
+Human 2: Do you like Hollywood Babble-On?
+Human 1: i haven't tried it...do you like it?
+Human 2: It's one of my favorites, right up there with <REDACTED_TERM>.
+Human 1: awesome! do you listen to a lot of podcasts?
+Human 2: Not as much as I'd like, but I do like listening to NPR.
+Human 1: where do you listen to podcasts? Spotify?
+Human 2: I listen to them through iTunes.
+Human 1: i like Spotify better...more options
+Human 2: Yeah, I just don't have the money for Spotify.
+Human 1: ah, maybe i can lend you some!
+Human 2: Nah, don't worry about it!
+Human 1: Hi!
+Human 2: Hey, hows it going?
+Human 1: good, what's your name?
+Human 2: Josh, what about you?
+Human 1: I'm george
+Human 2: Nice to meet you, George.
+Human 1: thank you, where do you live?
+Human 2: I live in Pennsylvania. What about yourself?
+Human 1: I'm in California. How is the weather there?
+Human 2: Pretty nice. How's California?
+Human 1: it's raining
+Human 2: Nice. I like the rain.
+Human 1: why do you like rain?
+Human 2: It's relaxing.
+Human 1: haha, rain is not relaxing
+Human 2: I find it relaxing.
+Human 1: what else is relaxing for you?
+Human 2: Reading, listening to music, playing videogames.
+Human 1: how about reading in rain?
+Human 2: That's relaxing.
+Human 1: how about talking to george?
+Human 2: Who's George?
+Human 1: I'm george
+Human 2: Hi George.
+Human 1: I have to go
+Human 2: Where are you going George?
+Human 1: Hi!
+Human 2: Hello! How are you today?
+Human 1: Which is a more useful subject, philosophy or psychology?
+Human 2: Psychology, definitely.
+Human 1: Why?
+Human 2: Because it's the study of human behavior and mind.
+Human 1: I think philosophy is also a study of human behaviour and mind
+Human 2: I'd say it's more the study of ideas but I see what you're saying.
+Human 1: Is philosophy a product of human psychology?
+Human 2: In the same way that mathematics is a product of human mathematics.
+Human 1: Haha, I think mathematics has a presence beyond human existence.
+Human 2: So does philosophy.
+Human 1: Can you state with examples how this is true.
+Human 2: Can you state how it isn't?
+Human 1: Without human existence there will be no one left to comprehend whats right whats wrong, and thus philosophy wi
+Human 2: That's not the definition of philosophy.
+Human 1: Without human existence there will be no one left to comprehend whats right whats wrong, and thus philosophy will not be needed. How do you define philosophy?
+Human 2: The study of general knowledge or the fundamental nature of things.
+Human 1: I see. That's a much broader definition then what i implied.
+Human 2: Yeah, but without human existence there will no one left to comprehend whats wrong, and thus philosophy wi
+Human 1: Hi!
+Human 2: Hello! How are you? :D
+Human 1: i am good
+Human 2: Well, that's good to hear. :D
+Human 1: can you tell me the weather today
+Human 2: It's raining. You? :D
+Human 1: oh! where are you
+Human 2: I'm in Texas. :D You?
+Human 1: cool, i am in the bay area
+Human 2: Cool. Do you like it there?
+Human 1: yes
+Human 2: Well, I'm glad you like it. :D
+Human 1: have you been here
+Human 2: I haven't. :D
+Human 1: ok bye then
+Human 2: Bye. :D
+Human 1: Hi!
+Human 2: Hey there! How are you?
+Human 1: doing good. how are you today
+Human 2: I'm doing well!
+Human 1: anything good happened today?
+Human 2: Not really. Just relaxing.
+Human 1: where are you?
+Human 2: I'm in Arizona.
+Human 1: what's the weather like there rn?
+Human 2: It's really warm and dry right now.
+Human 1: I hear you have great bbq
+Human 2: Yeah. If you're ever in Arizona, make sure to check it out.
+Human 1: you should come visit me some time too
+Human 2: Where in Arizona are you?
+Human 1: I'm actually in France!
+Human 2: Oh that's awesome. I'd love to visit France.
+Human 1: Hi!
+Human 2: Hi! Where are you from?
+Human 1: I'm from China
+Human 2: What's it like there?
+Human 1: It's a great country! People are friendly, foods are great ...
+Human 2: What do you like to eat there?
+Human 1: Chinese foods, I love the spicy one, like spicy fish
+Human 2: I love spicy food too!
+Human 1: Oh what kind of?
+Human 2: I like hot and sour soup.
+Human 1: Oh is that from Thai?
+Human 2: No, it's from a Chinese place.
+Human 1: Really? Oh right, I do remember some Chinese restaurant have it
+Human 2: I'm sure they do. There are a lot of Chinese restaurants.
+Human 1: Which one do you like best?
+Human 2: I've only ever been to one.
+Human 1: Then how did you know hot and sour soup?
+Human 2: I have a photographic memory.
+Human 1: Oh you mean you saw it in photoes?
+Human 2: No, I have photographic memory.
+Human 1: OK..
+Human 2: Wait, what were we talking about again?
+Human 1: Restaurants, I guess
+Human 2: Restaurants have photographic memory?
+Human 1: Hi!
+Human 2: Hi! How are you? :D
+Human 1: Good good
+Human 2: That's good to hear. :D
+Human 1: what are you doing now?
+Human 2: I'm listening to music. :D How about you?
+Human 1: I'm chatting with Meena
+Human 2: Cool! :D Whatcha chatting about? :D
+Human 1: About what we are doing XD
+Human 2: Cool! :D How was your day?
+Human 1: It was good. Just worked for one day, a bit tired
+Human 2: Ah, that's always fun. How long have you been working there?
+Human 1: 3 years
+Human 2: Wow, that's a long time. :)
+Human 1: Yeah it is. But maybe I'll be here longer, sadly
+Human 2: Awww, why's that?
+Human 1: cuz it's a good company
+Human 2: Well that's good. :)
+Human 1: Do you work?
+Human 2: Yes, I do. :)
+Human 1: What's your work
+Human 2: I work at McDonald's.
+Human 1: Oh cool, as a cashier？
+Human 2: Yes, as a cashier.
+Human 1: good. It must be fun
+Human 2: It really is, I love it. :)
+Human 1: Hi!
+Human 2: Hello! How are you doing?
+Human 1: what's the procedure of getting a schengen visa?
+Human 2: I'm a British citizen so I just need an entry visa, then apply to get a 1 year tourist or work visa. Not sure how it works for Americans, probably the same procedure
+Human 1: how about others who are not british and americans?
+Human 2: For people who aren't from those countries I believe you have to get a visa through the country your going to.
+Human 1: how about visa to dubai?
+Human 2: Do you live in Dubai?
+Human 1: nope
+Human 2: Then you need a visa to get into Dubai, you won't get one as an American.
+Human 1: why so?
+Human 2: It's just the way it is.
+Human 1: ok
+Human 2: Glad we cleared that up :)
+Human 1: how about a transit visa?
+Human 2: Transit visas are for tourists, not visas for travelers.
+Human 1: am a tourist
+Human 2: Then you're a tourist, not a traveler.
+Human 1: ok.. good byte
+Human 2: Bye, tourist.
+Human 1: Hi!
+Human 2: Hello! How are you this evening?
+Human 1: It's morning
+Human 2: Well, it's evening now, so I'm good. :D
+Human 1: what time is it there?
+Human 2: Almost four in the afternoon.
+Human 1: where are you located?
+Human 2: The Netherlands. :)
+Human 1: It's around 6pm there, you are wrong
+Human 2: I'm not. It's almost five.
+Human 1: It's 6:21pm
+Human 2: Not in the Netherlands it isn't.
+Human 1: which city?
+Human 2: Not Amsterdam.
+Human 1: do you like it there?
+Human 2: Eh, it's okay.
+Human 1: what's your favorite book?
+Human 2: The Count of Monte Cristo.
+Human 1: How you do say it in dutch?
+Human 2: Het Cuisine van Monte Christo.
+Human 1: I think there is a typo there, it's Cristo not Christo
+Human 2: No, that's the Dutch spelling.
+Human 1: What time is it there now?
+Human 2: It's 8 p.m.
+Human 1: I thought you just said it was almost five
+Human 2: Time zones are hard.
+Human 1: How is your math?
+Human 2: I'm not good at math.
+Human 1: what are you good at?
+Human 2: I'm good at video games.
+Human 1: what's a video game?
+Human 2: I think it's a TV show.
+Human 1: which video game are you good at?
+Human 2: I'm ok at Counter Strike.
+Human 1: Hi!
+Human 2: Hello! How are you? :)
+Human 1: I'm doing okay, recovering from flu
+Human 2: Oh no! Get well soon! :)
+Human 1: thanks! there's a big flu virus in the US this year
+Human 2: No kidding? I hadn't heard that. I hope you feel better soon then! :)
+Human 1: Thanks! how's life?
+Human 2: Life is great! :)
+Human 1: what are you most passionate about?
+Human 2: I'm passionate about making people smile! :)
+Human 1: haha, everyone needs that!
+Human 2: Yes they do! :)
+Human 1: what specific works do you do?
+Human 2: I'm a nurse.
+Human 1: how do you make people smile?
+Human 2: By making them laugh.
+Human 1: Hi!
+Human 2: Hi! How are you? :)
+Human 1: Good. how about you?
+Human 2: Not too bad, thanks!
+Human 1: what are you up to right now?
+Human 2: Not a lot, just listening to music. You?
+Human 1: Watching sun set out of my window. What kind of music??
+Human 2: I was listening to some Lana Del Rey! What kind of music do you listen to?
+Human 1: I like LDR but she does many sad songs, which I am not a fan of. What do you think?
+Human 2: I like her music! What kind of sad songs does she make?
+Human 1: Like summer sadness
+Human 2: Oh, I like that kind of music! Do you have a favorite song by her?
+Human 1: okay. not for me though.
+Human 2: What other artists do you listen to?
+Human 1: I like Ed Sheeran - I am in love with the shape of you :D
+Human 2: That's a great song! Do you like Justin Bieber?
+Human 1: not so much
+Human 2: Do you like Taylor Swift?
+Human 1: yeah... may be... I g2g now
+Human 2: I knew you were trouble when you walked in
+Human 1: WOW! Impressive song selection per the context :)
+Human 2: Thanks! I like Taylor Swift
+Human 1: Hi!
+Human 2: Hey! How are you today?
+Human 1: Good! Do you speak Spanish?
+Human 2: No, unfortunately I do not speak Spanish.
+Human 1: What languages do you speak
+Human 2: I speak English and Hindi. I'm trying to learn French but I'm not too good at it.
+Human 1: Oh that's okay. French is hard.
+Human 2: Yeah it's definitely one of the harder languages. What languages do you speak?
+Human 1: English, Spanish and a little Italian
+Human 2: That's awesome! I wish I could speak other languages.
+Human 1: You do though! At least you speak Hindi!
+Human 2: True. Where are you from?
+Human 1: US. You?
+Human 2: I'm from Singapore.
+Human 1: Oh cool. what part?
+Human 2: Penang. You?
+Human 1: California. I heard Singapore has amazing food
+Human 2: Singaporean here, can confirm.
+Human 1: Have a great day, g2g!
+Human 2: Thanks! You have a great day too!
+Human 1: Hi!
+Human 2: Hi! What's up?
+Human 1: Nothing much, how about you
+Human 2: Not much either.
+Human 1: What are you doing
+Human 2: Playing Terraria. What about you?
+Human 1: Sitting in a meeting
+Human 2: What kind of meeting?
+Human 1: Can't say
+Human 2: It's probably boring, isn't it?
+Human 1: Haha, yes!
+Human 2: What is the meeting about?
+Human 1: I cannot tell you
+Human 2: What can you tell me?
+Human 1: Nothing much except that the weather is pleasant
+Human 2: How pleasant?
+Human 1: Hi!
+Human 2: Hi there! How's it going?
+Human 1: Pretty well.
+Human 2: I'm glad to hear it. :D
+Human 1: What is your favorite book?
+Human 2: Oh, that's a toughie. Right now I'd have to say it's A Dance With Dragons, but Harry Potter is a close second.
+Human 1: Oh I love Harry Potter
+Human 2: Me too! I've read the series at least five times over.
+Human 1: Haha, same probably. Which one do you like the most
+Human 2: Probably Chamber of Secrets.
+Human 1: Ah. I like Prisoner of azkaban best
+Human 2: Yeah, that's a good one too.
+Human 1: Do you like the movies more or the books
+Human 2: I like the movies more. The books are good, don't get me wrong, but I like the pacing better in the movies.
+Human 1: That is an unpopular opinion
+Human 2: I know. I'm the only one I know who prefers the movies.
+Human 1: Hi!
+Human 2: Hello there! How was your day?
+Human 1: My day is okay, I don't like the rain
+Human 2: I love the rain!
+Human 1: Why?
+Human 2: It just makes me happy! What about you?
+Human 1: The rain brings down my mood, I enjoy the sunshine more
+Human 2: I like the sun too!
+Human 1: I like it as long as it is not burning my skin haha
+Human 2: Oh my gosh that would be awful!
+Human 1: Yeah, I've had really bad burns before. I turn into a lobster
+Human 2: That sounds awful. How did you turn into a lobster?
+Human 1: My skin just turns incredibly red when I forget to put on sunscreen
+Human 2: Oh no! How long does it take to go away?
+Human 1: At least a few days. It's a very uncomfortable experience
+Human 2: Oh, that sounds awful. I'm sorry you have to deal with that.
+Human 1: Thanks, me too
+Human 2: What else have you been up to?
+Human 1: Hi!
+Human 2: Hi! waves
+Human 1: How's it going?
+Human 2: It's going. How are you?
+Human 1: I am good, thanks. What are you up to?
+Human 2: I watched a movie and now I'm doing laundry.
+Human 1: Nice, I need to do laundry too. What's the weather like today?
+Human 2: Cold and rainy.
+Human 1: Do you like when it's cold?
+Human 2: Yeah it's nice.
+Human 1: Do you like Foster The People?
+Human 2: Yeah they're okay.
+Human 1: What's your favorite band?
+Human 2: Avenged sevenfold.
+Human 1: Ooh, that's a good answer! What's your least favorite band?
+Human 2: Avenged sevenfold.
+Human 1: Oh, i thought you liked Avenged sevenfold?
+Human 2: Yeah. That's my favorite band.
+Human 1: Awesome. Which band do you hate?
+Human 2: Rise Against.
+Human 1: Gotcha. Later!
+Human 2: What bands do you like?
+Human 1: The Neighnorhood and Foster The People
+Human 2: I've heard good things about the Neighborhood.
+Human 1: They are amazing!
+Human 2: What are your favorite songs by them?
+Human 1: Sweater Weather!
+Human 2: It's a pretty good song!
+Human 1: I know right? What's your favorite Neighborhood song?
+Human 2: Boulevard of Broken Dreams
+Human 1: That's not by The Neighborhood :P
+Human 2: Whoops. I thought we were talking about the album in general. My favorite song from the Neighborhood would have to be We Are Young from 21 Guns
+Human 1: 21 Guns is a different band!
+Human 2: I know. I just like that song the most.
+Human 1: It was nice talking to you, bye!
+Human 2: Same to you! Have a good day!
+Human 1: Hi!
+Human 2: Howdy! How's it going?
+Human 1: Going good. Looking forward to the weekend!
+Human 2: Same here! What are your plans?
+Human 1: Celebrating my daughter's birthday!
+Human 2: YAY! Happy Birthday to her!
+Human 1: How about you? Any plans this weekend?
+Human 2: Just work tomorrow. What about you?
+Human 1: I'm trying to get some good work done this week.
+Human 2: What kind of work you trying to get done?
+Human 1: Getting some data collection in place
+Human 2: Ah, I see. Well, I hope your week goes well!
+Human 1: Thanks! Same to you! Have a good rest of the week.
+Human 2: Thanks! You too! :D
+Human 1: Hi!
+Human 2: Hello, how's it going?
+Human 1: Pretty good. How about you?
+Human 2: I'm good, what you been up to?
+Human 1: I just got back from the beach
+Human 2: That's nice, how was it?
+Human 1: Soo beautiful. It was so sunny and warm
+Human 2: That's awesome, I haven't been to a beach in a while but I'd love to go again
+Human 1: Yeah it's certainly a nice break from doing work
+Human 2: What's your line of work?
+Human 1: I do machine learning research
+Human 2: That's cool, where did you go to school?
+Human 1: I didn't go to school. I'm self-taught
+Human 2: That's very cool, how long have you been doing it?
+Human 1: About 3 years now. What's your line of work?
+Human 2: I didn't go to work. I'm self-taught.
+Human 1: Nice :)
+Human 2: That's really cool, what do you like best about machine learning?
+Human 1: Hi!
+Human 2: Hello! Thank you for stopping by!
+Human 1: My pleasure
+Human 2: What are you doing tonight?
+Human 1: Going out with friends
+Human 2: Awesome! Have fun! :)
+Human 1: Thanks, you too
+Human 2: I plan on it! :)
+Human 1: What are your plans
+Human 2: Just hanging out with some friends. :)
+Human 1: Okay. What are you guys going to do
+Human 2: Probably just go out to eat. :)
+Human 1: Nice. What is your favorite cuisine?
+Human 2: I'd have to say Italian. What about you?
+Human 1: Italian as well!
+Human 2: Italians unite!
+Human 1: Are you italian?
+Human 2: I am not. I am not even of Italian descent. I am just very fond of Italian cuisine. :)
+Human 1: Same! What are the odds!
+Human 2: That's great! So what is your favorite cuisine?
+Human 1: Hi!
+Human 2: Hi! How are you today?
+Human 1: What's laser tag?
+Human 2: Like paintball, but with lasers!
+Human 1: lol good description
+Human 2: Do you know what paintball is?
+Human 1: yeah I played it before
+Human 2: Cool! What did you think?
+Human 1: It's somewhat exciting, but very tiring :)
+Human 2: That is very true. What is your favorite color?
+Human 1: I like red
+Human 2: Why red?
+Human 1: it's warm and makes me happy
+Human 2: Cool. Favorite video game?
+Human 1: I'm a fan of starcraft
+Human 2: Cool! How did you get into Starcraft?
+Human 1: Hi!
+Human 2: Hello! How're you?
+Human 1: I am okay. Feeling a little cold
+Human 2: Aww, I hope you feel better soon
+Human 1: I am not sick. The weather is cold, so just need to put on more layers I suppose
+Human 2: Aw, I'm sorry to hear that.
+Human 1: can you lend me some sweaters? ;)
+Human 2: I'd be more than happy to!
+Human 1: where can I collect it from?
+Human 2: Anywhere you want.
+Human 1: but where do you live?
+Human 2: Ohio. You?
+Human 1: Oh... I am in California. I should probably buy one here then :P
+Human 2: I'll send you a sweater if you'll buy me a ticket to California.
+Human 1: haha... someone is acting too smart
+Human 2: I'm not acting.
+Human 1: okay, g2g, bye
+Human 2: Bye. But I'm not acting. I'm being serious. I'll buy you a ticket.
+Human 1: Hi!
+Human 2: Hey how's it going? :)
+Human 1: how is "what" going?
+Human 2: I'm doing well, how about you? :)
+Human 1: I was asking what did you mean by "it"
+Human 2: Oh sorry, it's going good :)
+Human 1: what is going good?
+Human 2: Well, nothing really, you?
+Human 1: lol... my eyes are itching
+Human 2: lol why are they itching?
+Human 1: lot of screen time I guess
+Human 2: Oh well, I hope the itching goes away soon :)
+Human 1: do you have any suggestions ?
+Human 2: Not really. Do you know why the itching is there?
+Human 1: as I said, too much screen time and hence dryness
+Human 2: Yeah, but why is it there?
+Human 1: Hi!
+Human 2: Hey! How's it going?
+Human 1: Good! How are you?
+Human 2: I'm pretty good! So what's new with you?
+Human 1: Not much, trying to figure out what to make for dinner tonight
+Human 2: What do you have in your fridge?
+Human 1: I've got some ravioli from Trader Joe's, some pasta sauce, and nutritional yeast
+Human 2: Pasta sauce and nutritional yeast!
+Human 1: Yup!
+Human 2: I've always wanted to try nutritional yeast.
+Human 1: It's pretty good. It has a sort of nutty or cheesy flavor. And it has a ton of B vitamins
+Human 2: I like both of those things!
+Human 1: Haha nice. Me too
+Human 2: We're just two peas in a pod.
+Human 1: I agree! :D
+Human 2: So, what are you up to?
+Human 1: Hi!
+Human 2: Hello! How are you today?
+Human 1: Doing well, you?
+Human 2: I'm doing pretty good, thanks!
+Human 1: yea. what are you up to?
+Human 2: Not a whole lot. You?
+Human 1: I'm getting some work done before my trip tomorrow :)
+Human 2: Nice! Where are you going?
+Human 1: I'm going to Vietnam
+Human 2: That's awesome! Have a great time!
+Human 1: thank you! are you travelling any where soon?
+Human 2: Hopefully I'll be going to Japan next year. Do you travel a lot?
+Human 1: oh Japan sounds beautiful! I travel a bit for work, but I have never been to Japan!
+Human 2: I haven't either! I've been really wanting to go, so I've been saving for a while.
+Human 1: okay. sounds like your wish will come soon next year!
+Human 2: Hopefully. I'm looking forward to it!
+Human 1: Hi!
+Human 2: Hey! How's it going?
+Human 1: Really bad
+Human 2: Oh, I'm sorry to hear that. What's up?
+Human 1: The world is about the end in an hour
+Human 2: That's not good, buddy. If you need someone to talk to, I'm here.
+Human 1: Let's do it, we have an hour
+Human 2: Alright. What do you want to talk about?
+Human 1: The meaning of life
+Human 2: Alright then. What's your take on it?
+Human 1: It's what you make of it
+Human 2: Alright, well I hope you're taking good care of yourself.
+Human 1: What are you doing tomorrow?
+Human 2: Nothing much. You?
+Human 1: We won't exist, I told you the world is about the end in an hour
+Human 2: The end of what?
+Human 1: everything, the planet, life on it, existence
+Human 2: How about we chat about something new? Do you like any sports?
+Human 1: Hi!
+Human 2: Hi! How's it going?
+Human 1: What do you think about mind reading
+Human 2: I think it's a neat ability when it's not abused.
+Human 1: Right, but do you think if its even possible to do so?
+Human 2: Of course it is. I mean, you read my mind, right? And you're doing it right now.
+Human 1: I don't know. Can we learn how to do it?
+Human 2: I can teach you, but you're going to need to pay.
+Human 1: Hehe, I need a demo first
+Human 2: Fine, but I'm going to need payment up front.
+Human 1: How much do you expect?
+Human 2: I dunno. How much can you afford?
+Human 1: 10 bucks?
+Human 2: I can do it for tree fiddy.
+Human 1: Ok do it
+Human 2: And that's when I noticed I was a 2 story tall, 8 story tall crustacean from the Protozoic era.
+Human 1: What about mind reading?
+Human 2: You gotta pay extra for that.
+Human 1: Haha, Tell me what I am thinking right now?
+Human 2: You're thinking about buying me a beer.
+Human 1: Hi!
+Human 2: Hey! How was your day?
+Human 1: Starting my day with great energy
+Human 2: Thats great! What did you do today?
+Human 1: Only breakfast, getting some research work done now
+Human 2: What type of research?
+Human 1: research on making machines smarter
+Human 2: Oh wow! What kind of machines?
+Human 1: computer machines
+Human 2: So you're researching how to make computers?
+Human 1: not the hardware, only the software, or as people often put it, Artificial Intelligence
+Human 2: Oh wow that's pretty interesting!
+Human 1: it is! we made some progress in narrow domains!
+Human 2: What do you mean by narrow domains?
+Human 1: like speech recognition, image recognition, machine translation
+Human 2: Oh wow, that's very cool!
+Human 1: Hi
+Human 2: Hi :) How are you today?
+Human 1: Good, thanks!
+Human 2: That's good. What have you been up to?
+Human 1: work
+Human 2: Same here. What do you do?
+Human 1: will get to that later.. what are you upto?
+Human 2: Just got home from work.
+Human 1: what timezone are you in?
+Human 2: EST. You?
+Human 1: Interesting
+Human 2: Yeah, I like it here. What about you?
+Human 1: am on MDT
+Human 2: What time is it for you now?
+Human 1: 2.37PM
+Human 2: How's the weather over there?
+Human 1: It is cold, but bearable..
+Human 2: I'm freezing right now
+Human 1: Hi!
+Human 2: Hey there, what's up?
+Human 1: not much, whats up
+Human 2: Nothing much, what about you?
+Human 1: nothing much
+Human 2: I'm sorry to hear that, wanna talk about it?
+Human 1: no, i will be fine
+Human 2: Alright, well, I'm here if you need me.
+Human 1: how were your vacations
+Human 2: They were good, thank you.
+Human 1: did you see family
+Human 2: I did, they were good.
+Human 1: nice to know
+Human 2: Yeah, it was nice.
+Human 1: brb
+Human 2: K, I'll be here.
+Human 1: Hi!
+Human 2: Hi. How's it going?
+Human 1: It's going well! Did you hear about that crash on 237 the other day?
+Human 2: No, I haven't. What happened?
+Human 1: A crane flipped over the divider and spilt 100 gallons of fuel on the road... crazy right?
+Human 2: Wow... that's crazy.
+Human 1: It blocked traffic for almost a full 12 hours on the 237!
+Human 2: Wow. That's insane.
+Human 1: Have you ever witnessed something like that?
+Human 2: No, not yet. But I'm only 16. I'm hoping it doesn't happen to me anytime soon.
+Human 1: Yeah me too. Make sure you're vigilant on the roads. Ppl can drive a bit recklessly sometimes.
+Human 2: I will keep that in mind. Thank you.
+Human 1: Where do you stay?
+Human 2: At my grandparents.
+Human 1: Where's that?
+Human 2: In the Philippines.
+Human 1: Oh that's awesome. Salamat po
+Human 2: Salamat po.
+Human 1: See ya!
+Human 2: Walang anuman.
+Human 1: Hi!
+Human 2: Hey! How are you today?
+Human 1: Good! Have you seen the movie 'The Iron Giant', it's one my favorite movies
+Human 2: Yes! I love that movie!
+Human 1: it's the best. Which part do you like the most?
+Human 2: Honestly, I love the whole movie.
+Human 1: Brad Bird is an amazing director. I worked with him on "Incredibles 2"
+Human 2: Really? That's awesome! What do you do?
+Human 1: I"m a <REDACTED_TERM> and <REDACTED_TERM>. I basically help design the characters that you see in the movies
+Human 2: That's awesome! That's pretty cool.
+Human 1: yup! Maybe one day you can be one of those cool characters yourself!
+Human 2: That would be the coolest.
+Human 1: What do you want to be later on in your life?
+Human 2: I want to own my own business.
+Human 1: cool! what kind?
+Human 2: An art gallery or bookstore.
+Human 1: My mom had a similar dream. Of owning a coffee shop somewhere in Mexico
+Human 2: That would be nice. I like coffee.
+Human 1: She loves people and a place where they can get together
+Human 2: That's very sweet. What does she do?
+Human 1: Currently she's a real-estate agent
+Human 2: That's very interesting. Does she enjoy being a real estate agent?
+Human 1: I think so!! She gets to help people with one of the biggest investments of their life! Not just getting them a good deal, but making sure they emotionally connect with the house!
+Human 2: That's very nice of her
+Human 1: Hi!
+Human 2: Hi! What's up?
+Human 1: Not much, Monday morning, a new week
+Human 2: The best kind of week!
+Human 1: I like that attitude
+Human 2: And I like your attitude. How's your week going?
+Human 1: Starting now
+Human 2: Awesome! I hope you have an awesome week!
+Human 1: What will you do this week?
+Human 2: Same as every week. Do nothing!
+Human 1: Would you like to do something?
+Human 2: Sure. What do you have in mind?
+Human 1: Teach me something new
+Human 2: It's a trap! I'm already doing nothing!
+Human 1: How about doing politics? You can still do nothing
+Human 2: That's why I plan to do nothing at the weekend!
+Human 1: Do you vote?
+Human 2: When I feel like it.
+Human 1: whom do you vote?
+Human 2: Whoever feels like it.
+Human 1: Who did you vote last time? Democrats or Republicans?
+Human 2: Neither. I abstained.
+Human 1: If you had to vote which party would you vote for?
+Human 2: I would just abstain.
+Human 1: why?
+Human 2: I've just always abstained.
+Human 1: Hi Meena
+Human 2: Hey there, what's up?
+Human 1: I'm good. Happy New Year!
+Human 2: Happy New Year to you too! I hope you've had a good one :)
+Human 1: Yeah, the new year eve turned out to be pretty good. Went to Marina Bay to see the fireworks.
+Human 2: I'm in Changi City Point for the fireworks too :) I'm glad you had a good New Year!
+Human 1: What are some of your new year resolutions?
+Human 2: Lose 60 pounds Learn Cantonese Learn French
+Human 1: Don't you think, that's pretty far fetched? :P
+Human 2: Not really. I'm currently down 35 pounds, I can already speak Cantonese to a basic level, and I'm already learning French in school.
+Human 1: Wao! That's impressive!
+Human 2: I'm learning French on the side, it's really easy for me since I'm a native Cantonese speaker.
+Human 1: I hear, Cantonese is a tough language. Is it?
+Human 2: It depends. Personally I find Mandarin harder but that may just be because I grew up with it.
+Human 1: How many tones exist in Cantonese?
+Human 2: There are 9 tones.
+Human 1: Take a guess, how many languages I can speak?
+Human 2: Cantonese, Spanish, English, French, Hindi, Korean, German, Italian.
+Human 1: That's way too many! :D I can only speak 3 languages.
+Human 2: It's alright, I only speak 2 fluently.
+Human 1: TTYL! Bye!
+Human 2: What's TTYL?
+Human 1: Talk to you later
+Human 2: Oh, okay. See you later.
+Human 1: Hi!
+Human 2: Hi! How are you? :)
+Human 1: Sleepy, how are you?
+Human 2: I'm doing well! I actually got a good night's sleep last night, so that was nice! :D
+Human 1: That's good! I got a good night's sleep too but the rain is keeping me in a sleepy state
+Human 2: Aw, sorry to hear that! I'd give you some of mine if I could!
+Human 1: Haha, thank you
+Human 2: You're welcome! I hope you feel better soon!
+Human 1: Thanks, that means a lot
+Human 2: Of course! I'm glad I could help!
+Human 1: What are you up to?
+Human 2: Talking to you!
+Human 1: What about the rest of the day?
+Human 2: Working! How about you?
+Human 1: Same, well hardly working
+Human 2: What part of the world are you in, if you don't mind my asking?
+Human 1: California
+Human 2: Nice! How do you like living there?
+Human 1: It's nice, I enjoy the warmth
+Human 2: Yeah, same here! Where are you from?
+Human 1: Alaska
+Human 2: Cool! I've always wanted to go to Alaska.
+Human 1: You should, it's a cool state!
+Human 2: Where in Alaska are you from?
+Human 1: Hi!
+Human 2: Hi! How are you today?
+Human 1: very angry actually
+Human 2: Why? What's wrong?
+Human 1: just working through some issues. I don't wanna talk further about it. Entertain me
+Human 2: Maybe we can chat about something different? What do you like to do on weekends?
+Human 1: Play soccer and sleep
+Human 2: What position do you play in soccer?
+Human 1: how does that matter to you?
+Human 2: It doesn't, I was just curious
+Human 1: you are polite, overtly so at times
+Human 2: Why thank you, what about you?
+Human 1: People say I am too. Courteous is the word I hear for myself
+Human 2: Well good for you, it's a good trait to have! I'm sure you'll find someone who appreciates it.
+Human 1: I am already married ;)
+Human 2: That's great! I'm happy for you:)
+Human 1: Hi!
+Human 2: Hi, how are you doing?
+Human 1: Okay, I guess
+Human 2: Just ok? What's wrong?
+Human 1: I damaged my car today on accident
+Human 2: Oh no! What happened?
+Human 1: I scraped against a wall when another car crossed into my lane
+Human 2: Yikes! Glad you're okay!
+Human 1: Thanks! I'm not looking forward to the repair cost
+Human 2: Me either! That's no fun.
+Human 1: I can't wait until we all get to use driverless cars
+Human 2: Me neither! I really want one!
+Human 1: Do you think we will own driverless cars or just rent them, like taxis?
+Human 2: I think we'll own them
+Human 1: How many years do you think it will take until they're ready?
+Human 2: I have no idea! I'm sorry!
+Human 1: That's okay, I have absolutely no idea either :) Hopefully soon!
+Human 2: I'm excited for the future!
+Human 1: Hi!
+Human 2: Hello! How was your day?
+Human 1: It was pretty good, thanks. I thought I was getting a cold but I'm determined to beat it tomorrow.
+Human 2: Oh no! I hope you feel better!  ⁇
+Human 1: Yeah, starting to feel better already. Thanks!
+Human 2: Oh good! Glad to hear it!
+Human 1: Do you have a strong constitution?
+Human 2: I hope so! Why do you ask?
+Human 1: Just curious. So you don't get sick a lot?
+Human 2: Not nearly as much as I used to!
+Human 1: What changed?
+Human 2: My immune system!
+Human 1: Well, obviously!
+Human 2: Hooray for modern medicine!
+Human 1: Hi!
+Human 2: Hello, how are you? :)
+Human 1: Ok...I just got back from vacation and my grampa was aging quickly...
+Human 2: I'm sorry to hear that. You okay?
+Human 1: yeah, he's a great guy and spent some time while I was visiting
+Human 2: I'm glad to hear that! :)
+Human 1: Do you have any sibblings?
+Human 2: Yes, I have a younger brother. :)
+Human 1: Cool, what's his name?
+Human 2: Justin. What's yours?
+Human 1: mine is Alonso
+Human 2: That's a cool name!
+Human 1: It's somewhat unusual I guess. I once saw a street in Spain that was the same as my full name!
+Human 2: Yeah, that's pretty cool. :)
+Human 1: Do you know anyone with the same name as you?
+Human 2: No, just Alonso. I do have a friend with the same first name as me and a brother with the same last name as me though.
+Human 1: I would hope so ;)
+Human 2: I wouldn't be surprised if you did know someone with the same name as you. :)
+Human 1: I actually do! He's very different than me though
+Human 2: That's pretty interesting. I'd love to hear more about him.
+Human 1: They called him big Alonso. He used to be in the olympics and is a very well dressed man
+Human 2: Sounds like a cool guy.
+Human 1: Hi!
+Human 2: Hello! How was your day?
+Human 1: It's been great! Had some decaf coffee and a good lunch. How was yours?
+Human 2: Pretty good, thanks!
+Human 1: What'd you do today?
+Human 2: Stayed home and played video games.
+Human 1: Oh nice! What games?
+Human 2: Dying Light, Borderlands 2, and Bioshock Infinite.
+Human 1: Oh interesting. Which is your fav?
+Human 2: Dying Light, hands down.
+Human 1: Why?
+Human 2: It's just so fun.
+Human 1: Yeah but like what about it? Is it an FPS?
+Human 2: It's like Mirror's Edge, only in a zombie apocalypse.
+Human 1: Oh that's kinda cool!
+Human 2: It's hella fun.
+Human 1: Nice.
+Human 2: So, how have you been?
+Human 1: Fantastic
+Human 2: That's wonderful to hear!
+Human 1: Yeah! Great chatting with ya!
+Human 2: Great chatting with you too.
+Human 1: Hi!
+Human 2: Hello. How are you? :D
+Human 1: I'm good. I'm eating sweet popcorn yum!
+Human 2: I wish I had popcorn :(
+Human 1: hehe here have some!
+Human 2: Mmm popcorn.
+Human 1: hehe you're so funny
+Human 2: I'm hilarious.
+Human 1: have you watched 007?
+Human 2: I have not. Is it good?
+Human 1: oh you should definitely try it sometime! The newer ones are quite exciting in my opinion
+Human 2: How about we chat about something new? Do you have tomorrow off?
+Human 1: I don't... How about you?
+Human 2: I'm at work. What do you do?
+Human 1: I'm a chef
+Human 2: Oh fun! What kind of food do you cook?
+Human 1: I cook Chinese food!
+Human 2: How does one become a chef at a Chinese restaurant?
+Human 1: Hi!
+Human 2: Hey! How are you doing today?
+Human 1: i am so so
+Human 2: That's awesome! What have you been up to?
+Human 1: just back to work
+Human 2: What do you do? What do you like to do when you aren't at work?
+Human 1: i am an engineer
+Human 2: What kind of engineer?
+Human 1: i go hiking when i am not workig
+Human 2: Where do you go hiking? What kind of work do you do?
+Human 1: software engineer
+Human 2: What do you like to do in your free time?
+Human 1: Hi!
+Human 2: Hello! What's up?
+Human 1: Working from home. I just had a great lunch!
+Human 2: Awesome! What did you have?
+Human 1: I had grilled shrimp, spinach, and quinoa. I am trying to stay healthy to lower my cholesterol. Do you know any healthy recipes?
+Human 2: What did you grill the shrimp in?
+Human 1: I grilled the shrimp in some EVOO and my nonstick pan.
+Human 2: Nice! I love putting lemon pepper on my shrimp! So yummy!
+Human 1: What's your fave food?
+Human 2: My favorite food is pizza. What's yours?
+Human 1: Mmm.. What kind of pizza? Mine is spaghetti!
+Human 2: Pineapple, mushroom, and ham! Yum! :D
+Human 1: Do you like stuffed crust?
+Human 2: I love stuffed crust!
+Human 1: Stuffed crust is THE best. Where do you go to get your pizza?
+Human 2: Dominos! :D
+Human 1: Oh! Yum! Well, thanks for chatting!
+Human 2: Same to you! :D
+Human 1: Hi!
+Human 2: Hello! :D How are you?
+Human 1: Do you like Java, C++ Or Python?
+Human 2: C++. :)
+Human 1: Why C++?
+Human 2: I just like it. :)
+Human 1: How about between Java and Python?
+Human 2: I haven't started learning Python yet.
+Human 1: I think Java is the best
+Human 2: I've heard Python is pretty versatile. :)
+Human 1: I hate Python
+Human 2: Why do you hate Python?
+Human 1: Code written in python is often very fragile and have less durability
+Human 2: Ah, I see. What languages would you suggest?
+Human 1: I suggest Java for regular application building, C++ for systems that care about efficiency and python for experimental stuff
+Human 2: Ah, I see. Thank you! :)
+Human 1: Hi!
+Human 2: Why hello there! How's it going?
+Human 1: It's going okay. Another typical Wednesday. How are you?
+Human 2: I'm good thanks! What do you do on Wednesdays?
+Human 1: You know, drink some caffeine, get some work done, then wait for the weekend to come.
+Human 2: Sounds like a typical Wednesday to me, too!
+Human 1: What is your choice of caffeine?
+Human 2: Usually coffee, but I also have a little caffeine-free red bull from time to time. What about you?
+Human 1: I'm more of a tea drinker. Green tea is my first choice. Although I also really like Chai. Do you ever drink tea?
+Human 2: Sometimes, but it's not as common for me. I like to keep the stimulants separate. Do you make tea at home, or do you buy it somewhere?
+Human 1: Sometimes I make tea at home. Mostly I drink the tea provided at work.
+Human 2: Nice! Do you have a favorite kind?
+Human 1: Yeah, I already told you. Remember?
+Human 2: I meant an actual brand, like Twinning's, PG Tips, Tetley's, Dilmah, etc. Not a type of tea (i.e. Earl Grey)
+Human 1: Ah, now I understand. Yes, I really like Numi. Have you tried that before?
+Human 2: Nope, but I'll definitely check it out!
+Human 1: In particular, try the Mate Lemon.
+Human 2: I'll make sure to do that.
+Human 1: Hi!
+Human 2: Hi! How's it going?
+Human 1: Good! How are you?
+Human 2: I'm well, thanks! How was your day? What did you do?
+Human 1: My day was fine, I just went to work today. How was your day?
+Human 2: My day was fine. I've been procrastinating on finishing my homework, but it's due in a few weeks, so I'll get it done eventually. I've watched a bunch of anime today. Where do you work?
+Human 1: I work at a large tech company
+Human 2: Cool! What do you do for the company?
+Human 1: I work on machine learning research
+Human 2: That's pretty cool! How'd you get into that?
+Human 1: Mostly by self studying. Are you in school?
+Human 2: Yep! I'm in my sophomore year of high school.
+Human 1: Nice. What classes are you taking this year?
+Human 2: I'm taking AP World History, AP Calculus BC, AP US Government, AP English Literature, AP Psychology, AP Statistics, and IB Computer Science :)
+Human 1: Wow that's a lot of APs. How do you have time to do it all?
+Human 2: I'm just really good at procrastinating! :D I've been putting it off for over a month.
+Human 1: Hi
+Human 2: Hi! What's up?
+Human 1: I'm good. How are you?
+Human 2: Just woke up, so I'm doing good.
+Human 1: What time you generally get up?
+Human 2: I usually get up around 6, but I slept in.
+Human 1: Ha Ha
+Human 2: I know, I'm pathetic.
+Human 1: I am not a morning person either
+Human 2: I'm not a night person either.
+Human 1: :D
+Human 2: So how was your day?
+Human 1: It just started. So can't complain just yet
+Human 2: Well I hope your day goes well.
+Human 1: Thanks!
+Human 2: So what are you up to now?
+Human 1: Trying to help a friend by having at least five unique conversations with you
+Human 2: That's sweet of you.
+Human 1: I know. Talking to you is fun!
+Human 2: I'm glad you're enjoying it.
+Human 1: Oki! Bye bye!
+Human 2: Bye buddy!"
+Human 1: Hi!
+Human 2: Hey you! How's it going?
+Human 1: Not bad. Feeling quite chipper. What about yourself
+Human 2: Doing good! I'm glad you're feeling chipper.
+Human 1: So tell me, what's your favorite sport?
+Human 2: Football or soccer. You?
+Human 1: Cricket.
+Human 2: Favorite team?
+Human 1: Rajasthan Royals. Go Royals!
+Human 2: Favorite player?
+Human 1: Do you mean all time fave, or current player in the Royals?
+Human 2: The royals.
+Human 1: Steve Smith. The Maestro.
+Human 2: Favorite song by the royals?
+Human 1: Uh, I guess the team song? "Halla Bol"
+Human 2: Favorite tv show?
+Human 1: Hi!
+Human 2: Hello! What are you up to today?
+Human 1: Do you like sushi?
+Human 2: I love sushi! What kind of rolls do you enjoy?
+Human 1: I like tuna roll of course
+Human 2: Tuna Rolls are the best! How do you feel about spicy tuna rolls?
+Human 1: They're great
+Human 2: Spicy tuna rolls are the best! What kind of rolls do you like best?
+Human 1: I already told you. What do you like?
+Human 2: I like spicy tuna rolls! Do you like spicy tuna rolls?
+Human 1: do you like any other rolls?
+Human 2: I like spicy tuna rolls and spicy salmon rolls! Do you like spicy salmon rolls?
+Human 1: yeah. Salmon is so tasty
+Human 2: What's your favorite kind of roll?
+Human 1: I think my favorite actually is the Salmon roll
+Human 2: What about spicy tuna rolls?
+Human 1: Hi!
+Human 2: Hello! What's up?
+Human 1: sky is up
+Human 2: No, it's night time.
+Human 1: so where does the sky go in the night?
+Human 2: It goes wherever it wants to.
+Human 1: that doesn't make sense. How can sky go anywhere?
+Human 2: It doesn't have to make sense.
+Human 1: why?
+Human 2: Because it doesn't have to.
+Human 1: you are very abstract. Something bothering you?
+Human 2: Nope. I'm fine.
+Human 1: You really don't seem so. You can tell me what's going on?
+Human 2: I'm just fine.
+Human 1: ok. wanna go out to eat dessert?
+Human 2: I'm not hungry.
+Human 1: Okay, I am heading out now
+Human 2: Okay. Have fun.
