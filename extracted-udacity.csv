@@ -219,17 +219,12 @@ Intro to AJAX,Learn how to perform asynchronous requests as you build a web app 
 Intro to Algorithms,This class will give you an introduction to the design and analysis of algorithms,Algorithms,Social Networks,Graph Algorithms
 WeChat Mini Program Development,Developed by Tencent and Udacity,WeChat
 Asynchronous JavaScript Requests,Learn how to asynchronously request data in your web applications with Ajax,Ajax with XHR,Ajax with jQuery,Ajax with Fetch,Multithreaded Processing
-
 Embedded Systems,This course takes a holistic view of the embedded system stack focusing on processor architectures,and the associated advanced compiler optimizations,VLIW Architecture,Compilers for Embedded Systems,Differential Register Allocation,Network Processors,Hierarchical Memory Models
-
 High Performance Computing,This course will give you solid foundations for developing,and implementing parallel and locality-efficient algorithms  Offered at Georgia Tech as CS6220,Shared Memory Models,Parallel Algorithms,Distributed Memory Models,Message Passing Interfaces
 HTTP & Web Servers,HTTP is the fundamental protocol of the Web Explore how it works using Python code and command-line tools,Python,Deploying services
-
 Advanced Android with Kotlin,Develop Feature-Rich Android Apps with the Kotlin Programming Language,Android
 Advanced Operating SystemsVirtualization,Distributed Systems,Cloud Computing,Real-Time Operating Systems
-
 Version Control with Git,Learn how to use Git,Git,Version Control,Creating a Git repo,Editing commits
-
 Firebase in a Weekend: iOS,This course will teach you when and why to choose Firebase as a backend for your iOS application,Android development
 Intro to Point & Click App Development,In this short class you'll build powerful apps without writing code Great if you're an aspiring developer or someone who wants to learn what programmers do,Schema Building,Data Modeling
 
